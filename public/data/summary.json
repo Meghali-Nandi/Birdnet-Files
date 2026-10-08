@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-10-08T21:34:34",
+  "generated_at": "2026-10-08T22:00:11",
   "export_days": 365,
-  "total_detections": 453762,
+  "total_detections": 453764,
   "unique_species": 150,
   "average_confidence": 0.8748,
   "classes": {
     "Amphibian": 338,
     "Bird": 304560,
     "Insect": 132538,
-    "Mammal": 16277,
+    "Mammal": 16279,
     "Unknown": 49
   },
   "devices": {
-    "birdnetpi-b687": 453762
+    "birdnetpi-b687": 453764
   },
   "top_species": [
     {
@@ -53,7 +53,7 @@
     },
     {
       "species": "Pumps",
-      "count": 10838
+      "count": 10840
     },
     {
       "species": "Fan-tailed Cuckoo",
@@ -118,7 +118,7 @@
     "18:00": 4341,
     "19:00": 6294,
     "20:00": 3189,
-    "21:00": 2523,
+    "21:00": 2525,
     "22:00": 3250,
     "23:00": 3044
   }
