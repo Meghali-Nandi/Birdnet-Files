@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-10-09T05:00:05",
+  "generated_at": "2026-10-09T06:00:07",
   "export_days": 365,
-  "total_detections": 453765,
+  "total_detections": 454266,
   "unique_species": 150,
-  "average_confidence": 0.8748,
+  "average_confidence": 0.8749,
   "classes": {
     "Amphibian": 338,
-    "Bird": 304560,
+    "Bird": 305061,
     "Insect": 132538,
     "Mammal": 16280,
     "Unknown": 49
   },
   "devices": {
-    "birdnetpi-b687": 453765
+    "birdnetpi-b687": 454266
   },
   "top_species": [
     {
@@ -33,11 +33,11 @@
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 22704
+      "count": 23142
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 19850
+      "count": 19851
     },
     {
       "species": "Scarlet Myzomela",
@@ -65,7 +65,7 @@
     },
     {
       "species": "Olive-backed Oriole",
-      "count": 7504
+      "count": 7506
     },
     {
       "species": "Razor Grinder",
@@ -73,7 +73,7 @@
     },
     {
       "species": "Willie-wagtail",
-      "count": 6203
+      "count": 6263
     },
     {
       "species": "Gray Shrikethrush",
@@ -102,7 +102,7 @@
     "02:00": 6851,
     "03:00": 9642,
     "04:00": 11399,
-    "05:00": 26796,
+    "05:00": 27297,
     "06:00": 33175,
     "07:00": 24152,
     "08:00": 28022,
