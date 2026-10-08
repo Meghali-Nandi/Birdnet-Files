@@ -1,0 +1,125 @@
+{
+  "generated_at": "2026-10-08T21:29:36",
+  "export_days": 365,
+  "total_detections": 453762,
+  "unique_species": 150,
+  "average_confidence": 0.8748,
+  "classes": {
+    "Amphibian": 338,
+    "Bird": 304560,
+    "Insect": 132538,
+    "Mammal": 16277,
+    "Unknown": 49
+  },
+  "devices": {
+    "birdnetpi-b687": 453762
+  },
+  "top_species": [
+    {
+      "species": "Noisy Friarbird",
+      "count": 111087
+    },
+    {
+      "species": "Black Prince",
+      "count": 77069
+    },
+    {
+      "species": "Black Field Cricket",
+      "count": 39251
+    },
+    {
+      "species": "White-throated Treecreeper",
+      "count": 31293
+    },
+    {
+      "species": "Eastern Yellow Robin",
+      "count": 22704
+    },
+    {
+      "species": "Lewin's Honeyeater",
+      "count": 19850
+    },
+    {
+      "species": "Scarlet Myzomela",
+      "count": 15169
+    },
+    {
+      "species": "Rainbow Lorikeet",
+      "count": 14956
+    },
+    {
+      "species": "Brown Gerygone",
+      "count": 14921
+    },
+    {
+      "species": "Pumps",
+      "count": 10838
+    },
+    {
+      "species": "Fan-tailed Cuckoo",
+      "count": 8366
+    },
+    {
+      "species": "Rufous Whistler",
+      "count": 7669
+    },
+    {
+      "species": "Olive-backed Oriole",
+      "count": 7504
+    },
+    {
+      "species": "Razor Grinder",
+      "count": 6945
+    },
+    {
+      "species": "Willie-wagtail",
+      "count": 6203
+    },
+    {
+      "species": "Gray Shrikethrush",
+      "count": 5337
+    },
+    {
+      "species": "Golden Whistler",
+      "count": 5092
+    },
+    {
+      "species": "Mimicking Snout-nose",
+      "count": 5066
+    },
+    {
+      "species": "Australasian Figbird",
+      "count": 4557
+    },
+    {
+      "species": "Grey Fantail",
+      "count": 3891
+    }
+  ],
+  "hourly_counts": {
+    "00:00": 4479,
+    "01:00": 5820,
+    "02:00": 6851,
+    "03:00": 9642,
+    "04:00": 11399,
+    "05:00": 26796,
+    "06:00": 33175,
+    "07:00": 24152,
+    "08:00": 28022,
+    "09:00": 33830,
+    "10:00": 37342,
+    "11:00": 38071,
+    "12:00": 35717,
+    "13:00": 35178,
+    "14:00": 33113,
+    "15:00": 31087,
+    "16:00": 25414,
+    "17:00": 11033,
+    "18:00": 4341,
+    "19:00": 6294,
+    "20:00": 3189,
+    "21:00": 2523,
+    "22:00": 3250,
+    "23:00": 3044
+  }
+}
