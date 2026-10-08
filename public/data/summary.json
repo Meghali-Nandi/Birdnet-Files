@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-10-09T06:00:07",
+  "generated_at": "2026-10-09T07:00:56",
   "export_days": 365,
-  "total_detections": 454266,
+  "total_detections": 454329,
   "unique_species": 150,
-  "average_confidence": 0.8749,
+  "average_confidence": 0.8748,
   "classes": {
     "Amphibian": 338,
-    "Bird": 305061,
+    "Bird": 305124,
     "Insect": 132538,
     "Mammal": 16280,
     "Unknown": 49
   },
   "devices": {
-    "birdnetpi-b687": 454266
+    "birdnetpi-b687": 454329
   },
   "top_species": [
     {
@@ -29,15 +29,15 @@
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 31293
+      "count": 31294
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 23142
+      "count": 23148
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 19851
+      "count": 19856
     },
     {
       "species": "Scarlet Myzomela",
@@ -49,7 +49,7 @@
     },
     {
       "species": "Brown Gerygone",
-      "count": 14921
+      "count": 14922
     },
     {
       "species": "Pumps",
@@ -61,11 +61,11 @@
     },
     {
       "species": "Rufous Whistler",
-      "count": 7669
+      "count": 7673
     },
     {
       "species": "Olive-backed Oriole",
-      "count": 7506
+      "count": 7531
     },
     {
       "species": "Razor Grinder",
@@ -73,7 +73,7 @@
     },
     {
       "species": "Willie-wagtail",
-      "count": 6263
+      "count": 6270
     },
     {
       "species": "Gray Shrikethrush",
@@ -81,7 +81,7 @@
     },
     {
       "species": "Golden Whistler",
-      "count": 5092
+      "count": 5093
     },
     {
       "species": "Mimicking Snout-nose",
@@ -103,7 +103,7 @@
     "03:00": 9642,
     "04:00": 11399,
     "05:00": 27297,
-    "06:00": 33175,
+    "06:00": 33238,
     "07:00": 24152,
     "08:00": 28022,
     "09:00": 33830,
