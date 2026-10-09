@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-10-09T12:00:08",
+  "generated_at": "2026-10-09T14:00:08",
   "export_days": 365,
-  "total_detections": 455030,
+  "total_detections": 455538,
   "unique_species": 150,
-  "average_confidence": 0.8748,
+  "average_confidence": 0.8749,
   "classes": {
     "Amphibian": 338,
-    "Bird": 305825,
+    "Bird": 306333,
     "Insect": 132538,
     "Mammal": 16280,
     "Unknown": 49
   },
   "devices": {
-    "birdnetpi-b687": 455030
+    "birdnetpi-b687": 455538
   },
   "top_species": [
     {
       "species": "Noisy Friarbird",
-      "count": 111088
+      "count": 111090
     },
     {
       "species": "Black Prince",
@@ -29,15 +29,15 @@
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 31383
+      "count": 31414
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 23158
+      "count": 23165
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 19882
+      "count": 19914
     },
     {
       "species": "Scarlet Myzomela",
@@ -49,7 +49,7 @@
     },
     {
       "species": "Brown Gerygone",
-      "count": 14925
+      "count": 14927
     },
     {
       "species": "Pumps",
@@ -60,12 +60,12 @@
       "count": 8366
     },
     {
-      "species": "Rufous Whistler",
-      "count": 7872
+      "species": "Olive-backed Oriole",
+      "count": 8006
     },
     {
-      "species": "Olive-backed Oriole",
-      "count": 7706
+      "species": "Rufous Whistler",
+      "count": 7916
     },
     {
       "species": "Razor Grinder",
@@ -73,15 +73,15 @@
     },
     {
       "species": "Willie-wagtail",
-      "count": 6312
+      "count": 6342
     },
     {
       "species": "Gray Shrikethrush",
-      "count": 5344
+      "count": 5345
     },
     {
       "species": "Golden Whistler",
-      "count": 5093
+      "count": 5095
     },
     {
       "species": "Mimicking Snout-nose",
@@ -108,9 +108,9 @@
     "08:00": 28138,
     "09:00": 33928,
     "10:00": 37562,
-    "11:00": 38301,
-    "12:00": 35717,
-    "13:00": 35178,
+    "11:00": 38302,
+    "12:00": 35983,
+    "13:00": 35419,
     "14:00": 33113,
     "15:00": 31087,
     "16:00": 25414,
