@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-10-09T10:00:06",
+  "generated_at": "2026-10-09T11:00:06",
   "export_days": 365,
-  "total_detections": 454578,
+  "total_detections": 454797,
   "unique_species": 150,
-  "average_confidence": 0.8748,
+  "average_confidence": 0.8749,
   "classes": {
     "Amphibian": 338,
-    "Bird": 305373,
+    "Bird": 305592,
     "Insect": 132538,
     "Mammal": 16280,
     "Unknown": 49
   },
   "devices": {
-    "birdnetpi-b687": 454578
+    "birdnetpi-b687": 454797
   },
   "top_species": [
     {
       "species": "Noisy Friarbird",
-      "count": 111087
+      "count": 111088
     },
     {
       "species": "Black Prince",
@@ -29,7 +29,7 @@
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 31374
+      "count": 31379
     },
     {
       "species": "Eastern Yellow Robin",
@@ -37,7 +37,7 @@
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 19871
+      "count": 19873
     },
     {
       "species": "Scarlet Myzomela",
@@ -49,7 +49,7 @@
     },
     {
       "species": "Brown Gerygone",
-      "count": 14922
+      "count": 14923
     },
     {
       "species": "Pumps",
@@ -61,11 +61,11 @@
     },
     {
       "species": "Rufous Whistler",
-      "count": 7736
+      "count": 7798
     },
     {
       "species": "Olive-backed Oriole",
-      "count": 7531
+      "count": 7633
     },
     {
       "species": "Razor Grinder",
@@ -73,11 +73,11 @@
     },
     {
       "species": "Willie-wagtail",
-      "count": 6274
+      "count": 6278
     },
     {
       "species": "Gray Shrikethrush",
-      "count": 5337
+      "count": 5340
     },
     {
       "species": "Golden Whistler",
@@ -93,7 +93,7 @@
     },
     {
       "species": "Grey Fantail",
-      "count": 3891
+      "count": 3896
     }
   ],
   "hourly_counts": {
@@ -106,8 +106,8 @@
     "06:00": 33238,
     "07:00": 24189,
     "08:00": 28138,
-    "09:00": 33926,
-    "10:00": 37342,
+    "09:00": 33928,
+    "10:00": 37559,
     "11:00": 38071,
     "12:00": 35717,
     "13:00": 35178,
