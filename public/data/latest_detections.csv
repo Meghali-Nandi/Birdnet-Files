@@ -477354,3 +477354,6 @@ ts,device,class,species,confidence
 2026-10-17T20:35:27,birdnetpi-b687,Mammal,Engines,0.8852
 2026-10-17T20:42:03,birdnetpi-b687,Mammal,Engines,0.7157
 2026-10-17T20:42:09,birdnetpi-b687,Mammal,Engines,0.7375
+2026-10-17T23:05:49,birdnetpi-b687,Mammal,Pumps,0.7167
+2026-10-17T23:05:58,birdnetpi-b687,Mammal,Pumps,0.7705
+2026-10-17T23:06:28,birdnetpi-b687,Mammal,Pumps,0.8051
