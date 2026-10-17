@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-10-09T14:00:08",
+  "generated_at": "2026-10-17T18:00:09",
   "export_days": 365,
-  "total_detections": 455538,
-  "unique_species": 150,
-  "average_confidence": 0.8749,
+  "total_detections": 477349,
+  "unique_species": 156,
+  "average_confidence": 0.8747,
   "classes": {
-    "Amphibian": 338,
-    "Bird": 306333,
-    "Insect": 132538,
-    "Mammal": 16280,
-    "Unknown": 49
+    "Amphibian": 423,
+    "Bird": 325527,
+    "Insect": 132541,
+    "Mammal": 18768,
+    "Unknown": 90
   },
   "devices": {
-    "birdnetpi-b687": 455538
+    "birdnetpi-b687": 477349
   },
   "top_species": [
     {
       "species": "Noisy Friarbird",
-      "count": 111090
+      "count": 111121
     },
     {
       "species": "Black Prince",
@@ -29,97 +29,97 @@
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 31414
+      "count": 33263
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 23165
+      "count": 26268
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 19914
+      "count": 20792
     },
     {
       "species": "Scarlet Myzomela",
-      "count": 15169
-    },
-    {
-      "species": "Rainbow Lorikeet",
-      "count": 14956
+      "count": 15174
     },
     {
       "species": "Brown Gerygone",
-      "count": 14927
+      "count": 15148
+    },
+    {
+      "species": "Rainbow Lorikeet",
+      "count": 14957
     },
     {
       "species": "Pumps",
-      "count": 10841
+      "count": 13102
+    },
+    {
+      "species": "Olive-backed Oriole",
+      "count": 11483
+    },
+    {
+      "species": "Rufous Whistler",
+      "count": 9305
+    },
+    {
+      "species": "Willie-wagtail",
+      "count": 8424
     },
     {
       "species": "Fan-tailed Cuckoo",
       "count": 8366
     },
     {
-      "species": "Olive-backed Oriole",
-      "count": 8006
-    },
-    {
-      "species": "Rufous Whistler",
-      "count": 7916
-    },
-    {
       "species": "Razor Grinder",
       "count": 6945
     },
     {
-      "species": "Willie-wagtail",
-      "count": 6342
+      "species": "Australasian Figbird",
+      "count": 6892
     },
     {
       "species": "Gray Shrikethrush",
-      "count": 5345
+      "count": 5474
     },
     {
       "species": "Golden Whistler",
-      "count": 5095
+      "count": 5182
     },
     {
       "species": "Mimicking Snout-nose",
       "count": 5066
     },
     {
-      "species": "Australasian Figbird",
-      "count": 4610
-    },
-    {
-      "species": "Grey Fantail",
-      "count": 3896
+      "species": "Bar-shouldered Dove",
+      "count": 4391
     }
   ],
   "hourly_counts": {
-    "00:00": 4479,
-    "01:00": 5820,
-    "02:00": 6851,
-    "03:00": 9642,
-    "04:00": 11399,
-    "05:00": 27297,
-    "06:00": 33238,
-    "07:00": 24189,
-    "08:00": 28138,
-    "09:00": 33928,
-    "10:00": 37562,
-    "11:00": 38302,
-    "12:00": 35983,
-    "13:00": 35419,
-    "14:00": 33113,
-    "15:00": 31087,
-    "16:00": 25414,
-    "17:00": 11033,
-    "18:00": 4341,
-    "19:00": 6294,
-    "20:00": 3189,
-    "21:00": 2525,
-    "22:00": 3250,
-    "23:00": 3045
+    "00:00": 4801,
+    "01:00": 6324,
+    "02:00": 7085,
+    "03:00": 9871,
+    "04:00": 11742,
+    "05:00": 30468,
+    "06:00": 34869,
+    "07:00": 25301,
+    "08:00": 29397,
+    "09:00": 35492,
+    "10:00": 38761,
+    "11:00": 39720,
+    "12:00": 37170,
+    "13:00": 36725,
+    "14:00": 34468,
+    "15:00": 32193,
+    "16:00": 26504,
+    "17:00": 12204,
+    "18:00": 5261,
+    "19:00": 6677,
+    "20:00": 3292,
+    "21:00": 2573,
+    "22:00": 3298,
+    "23:00": 3153
   }
 }
