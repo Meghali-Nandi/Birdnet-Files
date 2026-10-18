@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-10-19T04:00:06",
+  "generated_at": "2026-10-19T06:00:08",
   "export_days": 365,
-  "total_detections": 477470,
+  "total_detections": 477884,
   "unique_species": 156,
   "average_confidence": 0.8747,
   "classes": {
     "Amphibian": 427,
-    "Bird": 325599,
+    "Bird": 326010,
     "Insect": 132541,
-    "Mammal": 18813,
+    "Mammal": 18816,
     "Unknown": 90
   },
   "devices": {
-    "birdnetpi-b687": 477470
+    "birdnetpi-b687": 477884
   },
   "top_species": [
     {
@@ -33,11 +33,11 @@
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 26268
+      "count": 26608
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 20799
+      "count": 20800
     },
     {
       "species": "Scarlet Myzomela",
@@ -53,11 +53,11 @@
     },
     {
       "species": "Pumps",
-      "count": 13139
+      "count": 13142
     },
     {
       "species": "Olive-backed Oriole",
-      "count": 11507
+      "count": 11515
     },
     {
       "species": "Rufous Whistler",
@@ -65,19 +65,19 @@
     },
     {
       "species": "Willie-wagtail",
-      "count": 8424
+      "count": 8430
     },
     {
       "species": "Fan-tailed Cuckoo",
       "count": 8366
     },
     {
-      "species": "Razor Grinder",
-      "count": 6945
+      "species": "Australasian Figbird",
+      "count": 6947
     },
     {
-      "species": "Australasian Figbird",
-      "count": 6899
+      "species": "Razor Grinder",
+      "count": 6945
     },
     {
       "species": "Gray Shrikethrush",
@@ -101,8 +101,8 @@
     "01:00": 6327,
     "02:00": 7119,
     "03:00": 9871,
-    "04:00": 11742,
-    "05:00": 30468,
+    "04:00": 11744,
+    "05:00": 30880,
     "06:00": 34869,
     "07:00": 25301,
     "08:00": 29399,
