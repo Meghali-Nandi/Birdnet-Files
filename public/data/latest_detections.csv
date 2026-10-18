@@ -477432,3 +477432,6 @@ ts,device,class,species,confidence
 2026-10-18T21:59:30,birdnetpi-b687,Amphibian,Tyler's Tree Frog,0.7304
 2026-10-18T22:15:03,birdnetpi-b687,Amphibian,Tyler's Tree Frog,0.7492
 2026-10-18T22:15:06,birdnetpi-b687,Amphibian,Tyler's Tree Frog,0.819
+2026-10-19T01:05:03,birdnetpi-b687,Mammal,Pumps,0.7397
+2026-10-19T01:31:45,birdnetpi-b687,Mammal,Pumps,0.7049
+2026-10-19T01:44:00,birdnetpi-b687,Bird,Shining Bronze-Cuckoo,0.7226
