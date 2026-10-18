@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-10-18T16:00:05",
+  "generated_at": "2026-10-18T17:00:10",
   "export_days": 365,
-  "total_detections": 477407,
+  "total_detections": 477420,
   "unique_species": 156,
   "average_confidence": 0.8747,
   "classes": {
     "Amphibian": 423,
-    "Bird": 325576,
+    "Bird": 325589,
     "Insect": 132541,
     "Mammal": 18777,
     "Unknown": 90
   },
   "devices": {
-    "birdnetpi-b687": 477407
+    "birdnetpi-b687": 477420
   },
   "top_species": [
     {
@@ -29,7 +29,7 @@
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 33269
+      "count": 33273
     },
     {
       "species": "Eastern Yellow Robin",
@@ -37,7 +37,7 @@
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 20796
+      "count": 20798
     },
     {
       "species": "Scarlet Myzomela",
@@ -77,7 +77,7 @@
     },
     {
       "species": "Australasian Figbird",
-      "count": 6892
+      "count": 6898
     },
     {
       "species": "Gray Shrikethrush",
@@ -113,7 +113,7 @@
     "13:00": 36727,
     "14:00": 34497,
     "15:00": 32209,
-    "16:00": 26504,
+    "16:00": 26517,
     "17:00": 12204,
     "18:00": 5261,
     "19:00": 6678,
