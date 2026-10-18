@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-10-18T18:00:05",
+  "generated_at": "2026-10-18T19:00:05",
   "export_days": 365,
-  "total_detections": 477428,
+  "total_detections": 477429,
   "unique_species": 156,
   "average_confidence": 0.8747,
   "classes": {
     "Amphibian": 423,
-    "Bird": 325597,
+    "Bird": 325598,
     "Insect": 132541,
     "Mammal": 18777,
     "Unknown": 90
   },
   "devices": {
-    "birdnetpi-b687": 477428
+    "birdnetpi-b687": 477429
   },
   "top_species": [
     {
@@ -77,7 +77,7 @@
     },
     {
       "species": "Australasian Figbird",
-      "count": 6898
+      "count": 6899
     },
     {
       "species": "Gray Shrikethrush",
@@ -115,7 +115,7 @@
     "15:00": 32209,
     "16:00": 26517,
     "17:00": 12212,
-    "18:00": 5261,
+    "18:00": 5262,
     "19:00": 6678,
     "20:00": 3297,
     "21:00": 2573,
