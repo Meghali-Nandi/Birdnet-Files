@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-10-18T13:00:05",
+  "generated_at": "2026-10-18T14:00:07",
   "export_days": 365,
-  "total_detections": 477360,
+  "total_detections": 477362,
   "unique_species": 156,
   "average_confidence": 0.8747,
   "classes": {
     "Amphibian": 423,
-    "Bird": 325530,
+    "Bird": 325532,
     "Insect": 132541,
     "Mammal": 18776,
     "Unknown": 90
   },
   "devices": {
-    "birdnetpi-b687": 477360
+    "birdnetpi-b687": 477362
   },
   "top_species": [
     {
@@ -29,7 +29,7 @@
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 33264
+      "count": 33265
     },
     {
       "species": "Eastern Yellow Robin",
@@ -61,7 +61,7 @@
     },
     {
       "species": "Rufous Whistler",
-      "count": 9305
+      "count": 9306
     },
     {
       "species": "Willie-wagtail",
@@ -110,7 +110,7 @@
     "10:00": 38761,
     "11:00": 39720,
     "12:00": 37170,
-    "13:00": 36725,
+    "13:00": 36727,
     "14:00": 34468,
     "15:00": 32193,
     "16:00": 26504,
