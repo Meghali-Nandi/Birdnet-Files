@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-10-20T03:00:05",
+  "generated_at": "2026-10-20T04:00:06",
   "export_days": 365,
-  "total_detections": 478059,
+  "total_detections": 478060,
   "unique_species": 156,
   "average_confidence": 0.8747,
   "classes": {
     "Amphibian": 427,
     "Bird": 326168,
     "Insect": 132541,
-    "Mammal": 18833,
+    "Mammal": 18834,
     "Unknown": 90
   },
   "devices": {
-    "birdnetpi-b687": 478059
+    "birdnetpi-b687": 478060
   },
   "top_species": [
     {
@@ -53,7 +53,7 @@
     },
     {
       "species": "Pumps",
-      "count": 13158
+      "count": 13159
     },
     {
       "species": "Olive-backed Oriole",
@@ -100,7 +100,7 @@
     "00:00": 4802,
     "01:00": 6327,
     "02:00": 7119,
-    "03:00": 9871,
+    "03:00": 9872,
     "04:00": 11744,
     "05:00": 30882,
     "06:00": 34939,
