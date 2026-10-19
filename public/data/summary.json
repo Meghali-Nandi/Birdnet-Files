@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-10-19T10:00:06",
+  "generated_at": "2026-10-19T14:00:05",
   "export_days": 365,
-  "total_detections": 477976,
+  "total_detections": 478011,
   "unique_species": 156,
   "average_confidence": 0.8747,
   "classes": {
     "Amphibian": 427,
-    "Bird": 326102,
+    "Bird": 326137,
     "Insect": 132541,
     "Mammal": 18816,
     "Unknown": 90
   },
   "devices": {
-    "birdnetpi-b687": 477976
+    "birdnetpi-b687": 478011
   },
   "top_species": [
     {
@@ -29,7 +29,7 @@
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 33316
+      "count": 33317
     },
     {
       "species": "Eastern Yellow Robin",
@@ -37,7 +37,7 @@
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 20815
+      "count": 20818
     },
     {
       "species": "Scarlet Myzomela",
@@ -45,7 +45,7 @@
     },
     {
       "species": "Brown Gerygone",
-      "count": 15153
+      "count": 15161
     },
     {
       "species": "Rainbow Lorikeet",
@@ -57,7 +57,7 @@
     },
     {
       "species": "Olive-backed Oriole",
-      "count": 11535
+      "count": 11554
     },
     {
       "species": "Rufous Whistler",
@@ -107,10 +107,10 @@
     "07:00": 25301,
     "08:00": 29412,
     "09:00": 35499,
-    "10:00": 38761,
+    "10:00": 38770,
     "11:00": 39720,
     "12:00": 37170,
-    "13:00": 36727,
+    "13:00": 36753,
     "14:00": 34497,
     "15:00": 32209,
     "16:00": 26517,
