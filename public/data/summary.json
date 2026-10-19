@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-10-20T08:00:12",
+  "generated_at": "2026-10-20T09:00:05",
   "export_days": 365,
-  "total_detections": 478297,
+  "total_detections": 478300,
   "unique_species": 156,
   "average_confidence": 0.8747,
   "classes": {
     "Amphibian": 427,
-    "Bird": 326405,
+    "Bird": 326408,
     "Insect": 132541,
     "Mammal": 18834,
     "Unknown": 90
   },
   "devices": {
-    "birdnetpi-b687": 478297
+    "birdnetpi-b687": 478300
   },
   "top_species": [
     {
@@ -29,7 +29,7 @@
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 33330
+      "count": 33332
     },
     {
       "species": "Eastern Yellow Robin",
@@ -105,7 +105,7 @@
     "05:00": 31087,
     "06:00": 34966,
     "07:00": 25306,
-    "08:00": 29412,
+    "08:00": 29415,
     "09:00": 35499,
     "10:00": 38770,
     "11:00": 39720,
