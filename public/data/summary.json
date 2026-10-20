@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-10-20T23:00:05",
+  "generated_at": "2026-10-21T00:00:13",
   "export_days": 365,
-  "total_detections": 478393,
+  "total_detections": 478414,
   "unique_species": 156,
   "average_confidence": 0.8747,
   "classes": {
     "Amphibian": 427,
-    "Bird": 326501,
+    "Bird": 326502,
     "Insect": 132541,
-    "Mammal": 18834,
+    "Mammal": 18854,
     "Unknown": 90
   },
   "devices": {
-    "birdnetpi-b687": 478393
+    "birdnetpi-b687": 478414
   },
   "top_species": [
     {
@@ -29,7 +29,7 @@
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 33339
+      "count": 33340
     },
     {
       "species": "Eastern Yellow Robin",
@@ -53,7 +53,7 @@
     },
     {
       "species": "Pumps",
-      "count": 13159
+      "count": 13179
     },
     {
       "species": "Olive-backed Oriole",
@@ -120,6 +120,6 @@
     "20:00": 3297,
     "21:00": 2575,
     "22:00": 3300,
-    "23:00": 3173
+    "23:00": 3194
   }
 }
