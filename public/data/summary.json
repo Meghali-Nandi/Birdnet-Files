@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-10-20T11:00:07",
+  "generated_at": "2026-10-20T12:00:06",
   "export_days": 365,
-  "total_detections": 478346,
+  "total_detections": 478347,
   "unique_species": 156,
   "average_confidence": 0.8747,
   "classes": {
     "Amphibian": 427,
-    "Bird": 326454,
+    "Bird": 326455,
     "Insect": 132541,
     "Mammal": 18834,
     "Unknown": 90
   },
   "devices": {
-    "birdnetpi-b687": 478346
+    "birdnetpi-b687": 478347
   },
   "top_species": [
     {
@@ -57,7 +57,7 @@
     },
     {
       "species": "Olive-backed Oriole",
-      "count": 11586
+      "count": 11587
     },
     {
       "species": "Rufous Whistler",
@@ -108,7 +108,7 @@
     "08:00": 29415,
     "09:00": 35519,
     "10:00": 38796,
-    "11:00": 39720,
+    "11:00": 39721,
     "12:00": 37170,
     "13:00": 36753,
     "14:00": 34501,
