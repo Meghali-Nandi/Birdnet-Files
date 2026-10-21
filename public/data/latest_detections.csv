@@ -479082,3 +479082,68 @@ ts,device,class,species,confidence
 2026-10-21T12:55:44,birdnetpi-b687,Bird,Lewin's Honeyeater,0.9866
 2026-10-21T12:55:47,birdnetpi-b687,Bird,Lewin's Honeyeater,0.9498
 2026-10-21T12:58:59,birdnetpi-b687,Bird,Willie-wagtail,0.9657
+2026-10-21T12:59:59,birdnetpi-b687,Bird,Noisy Miner,0.7161
+2026-10-21T13:00:41,birdnetpi-b687,Bird,White-throated Treecreeper,0.9416
+2026-10-21T13:00:44,birdnetpi-b687,Bird,Australasian Figbird,0.7901
+2026-10-21T13:00:47,birdnetpi-b687,Bird,Willie-wagtail,0.8932
+2026-10-21T13:00:50,birdnetpi-b687,Bird,Willie-wagtail,0.9965
+2026-10-21T13:00:59,birdnetpi-b687,Bird,Willie-wagtail,0.9729
+2026-10-21T13:01:08,birdnetpi-b687,Bird,Willie-wagtail,0.9951
+2026-10-21T13:01:35,birdnetpi-b687,Bird,Willie-wagtail,0.9968
+2026-10-21T13:01:41,birdnetpi-b687,Bird,White-throated Treecreeper,0.9366
+2026-10-21T13:01:53,birdnetpi-b687,Bird,White-throated Treecreeper,0.969
+2026-10-21T13:02:32,birdnetpi-b687,Bird,White-throated Treecreeper,0.7929
+2026-10-21T13:02:41,birdnetpi-b687,Bird,White-throated Treecreeper,0.7197
+2026-10-21T13:02:59,birdnetpi-b687,Bird,Brown Gerygone,0.7022
+2026-10-21T13:03:41,birdnetpi-b687,Bird,Brown Gerygone,0.9808
+2026-10-21T13:03:59,birdnetpi-b687,Bird,Brown Gerygone,0.874
+2026-10-21T13:04:11,birdnetpi-b687,Bird,Brown Gerygone,0.8301
+2026-10-21T13:04:26,birdnetpi-b687,Bird,Brown Gerygone,0.7674
+2026-10-21T13:04:32,birdnetpi-b687,Bird,Brown Gerygone,0.8928
+2026-10-21T13:04:41,birdnetpi-b687,Bird,White-throated Treecreeper,0.707
+2026-10-21T13:04:50,birdnetpi-b687,Bird,White-throated Treecreeper,0.7482
+2026-10-21T13:04:59,birdnetpi-b687,Bird,Brown Gerygone,0.8601
+2026-10-21T13:05:05,birdnetpi-b687,Bird,Brown Gerygone,0.7122
+2026-10-21T13:05:17,birdnetpi-b687,Bird,Brown Gerygone,0.7554
+2026-10-21T13:05:20,birdnetpi-b687,Bird,White-throated Treecreeper,0.8818
+2026-10-21T13:05:23,birdnetpi-b687,Bird,White-throated Treecreeper,0.7406
+2026-10-21T13:05:26,birdnetpi-b687,Bird,Brown Gerygone,0.8259
+2026-10-21T13:05:29,birdnetpi-b687,Bird,Brown Gerygone,0.7685
+2026-10-21T13:05:35,birdnetpi-b687,Bird,Brown Gerygone,0.7387
+2026-10-21T13:05:41,birdnetpi-b687,Bird,Brown Gerygone,0.7906
+2026-10-21T13:05:47,birdnetpi-b687,Bird,Brown Gerygone,0.7195
+2026-10-21T13:06:08,birdnetpi-b687,Bird,Brown Gerygone,0.8692
+2026-10-21T13:06:11,birdnetpi-b687,Bird,Brown Gerygone,0.7738
+2026-10-21T13:06:29,birdnetpi-b687,Bird,Brown Gerygone,0.8341
+2026-10-21T13:06:59,birdnetpi-b687,Bird,White-throated Treecreeper,0.9447
+2026-10-21T13:07:08,birdnetpi-b687,Bird,White-throated Treecreeper,0.9227
+2026-10-21T13:07:23,birdnetpi-b687,Bird,White-throated Treecreeper,0.9858
+2026-10-21T13:07:32,birdnetpi-b687,Bird,White-throated Treecreeper,0.9752
+2026-10-21T13:07:41,birdnetpi-b687,Bird,White-throated Treecreeper,0.881
+2026-10-21T13:07:50,birdnetpi-b687,Bird,White-throated Treecreeper,0.8984
+2026-10-21T13:07:53,birdnetpi-b687,Bird,Eastern Yellow Robin,0.7787
+2026-10-21T13:07:59,birdnetpi-b687,Bird,Eastern Yellow Robin,0.7593
+2026-10-21T13:08:23,birdnetpi-b687,Bird,White-throated Treecreeper,0.7257
+2026-10-21T13:08:41,birdnetpi-b687,Bird,White-throated Treecreeper,0.7837
+2026-10-21T13:09:32,birdnetpi-b687,Bird,Lewin's Honeyeater,0.9868
+2026-10-21T13:09:35,birdnetpi-b687,Bird,Lewin's Honeyeater,0.9057
+2026-10-21T13:09:56,birdnetpi-b687,Bird,White-throated Gerygone,0.8725
+2026-10-21T13:10:41,birdnetpi-b687,Bird,Lewin's Honeyeater,0.9891
+2026-10-21T13:10:44,birdnetpi-b687,Bird,Lewin's Honeyeater,0.9336
+2026-10-21T13:14:59,birdnetpi-b687,Bird,Brown Gerygone,0.866
+2026-10-21T13:15:08,birdnetpi-b687,Bird,Brown Gerygone,0.7291
+2026-10-21T13:16:41,birdnetpi-b687,Bird,Lewin's Honeyeater,0.9748
+2026-10-21T13:18:32,birdnetpi-b687,Bird,Brown Gerygone,0.9292
+2026-10-21T13:18:38,birdnetpi-b687,Bird,Brown Gerygone,0.981
+2026-10-21T13:19:08,birdnetpi-b687,Bird,Rufous Whistler,0.7327
+2026-10-21T13:19:41,birdnetpi-b687,Bird,Rufous Whistler,0.7376
+2026-10-21T13:20:08,birdnetpi-b687,Bird,Lewin's Honeyeater,0.9846
+2026-10-21T13:20:11,birdnetpi-b687,Bird,Lewin's Honeyeater,0.9947
+2026-10-21T13:20:29,birdnetpi-b687,Bird,Rufous Whistler,0.8723
+2026-10-21T13:20:32,birdnetpi-b687,Bird,Rufous Whistler,0.7194
+2026-10-21T13:26:47,birdnetpi-b687,Bird,Lewin's Honeyeater,0.8677
+2026-10-21T13:26:50,birdnetpi-b687,Bird,Lewin's Honeyeater,0.9939
+2026-10-21T13:26:53,birdnetpi-b687,Bird,Eastern Yellow Robin,0.8052
+2026-10-21T13:26:59,birdnetpi-b687,Bird,Eastern Yellow Robin,0.8643
+2026-10-21T13:27:29,birdnetpi-b687,Bird,Brown Gerygone,0.7946
+2026-10-21T13:49:35,birdnetpi-b687,Bird,Brown Gerygone,0.9018
