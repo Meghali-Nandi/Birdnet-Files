@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-10-21T16:00:07",
+  "generated_at": "2026-10-21T17:00:05",
   "export_days": 365,
-  "total_detections": 479339,
+  "total_detections": 479373,
   "unique_species": 156,
   "average_confidence": 0.8748,
   "classes": {
     "Amphibian": 429,
-    "Bird": 327369,
+    "Bird": 327403,
     "Insect": 132541,
     "Mammal": 18910,
     "Unknown": 90
   },
   "devices": {
-    "birdnetpi-b687": 479339
+    "birdnetpi-b687": 479373
   },
   "top_species": [
     {
@@ -29,11 +29,11 @@
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 33417
+      "count": 33419
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 27194
+      "count": 27195
     },
     {
       "species": "Lewin's Honeyeater",
@@ -41,7 +41,7 @@
     },
     {
       "species": "Brown Gerygone",
-      "count": 15283
+      "count": 15314
     },
     {
       "species": "Scarlet Myzomela",
@@ -112,8 +112,8 @@
     "12:00": 37221,
     "13:00": 36834,
     "14:00": 34587,
-    "15:00": 32321,
-    "16:00": 26547,
+    "15:00": 32324,
+    "16:00": 26578,
     "17:00": 12212,
     "18:00": 5263,
     "19:00": 6678,
