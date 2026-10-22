@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-10-22T12:00:09",
+  "generated_at": "2026-10-22T14:00:07",
   "export_days": 365,
-  "total_detections": 479742,
+  "total_detections": 479758,
   "unique_species": 157,
   "average_confidence": 0.8747,
   "classes": {
     "Amphibian": 432,
-    "Bird": 327460,
+    "Bird": 327468,
     "Insect": 132541,
-    "Mammal": 19218,
+    "Mammal": 19226,
     "Unknown": 91
   },
   "devices": {
-    "birdnetpi-b687": 479742
+    "birdnetpi-b687": 479758
   },
   "top_species": [
     {
@@ -37,7 +37,7 @@
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 20895
+      "count": 20896
     },
     {
       "species": "Brown Gerygone",
@@ -53,11 +53,11 @@
     },
     {
       "species": "Pumps",
-      "count": 13536
+      "count": 13544
     },
     {
       "species": "Olive-backed Oriole",
-      "count": 11697
+      "count": 11701
     },
     {
       "species": "Rufous Whistler",
@@ -65,7 +65,7 @@
     },
     {
       "species": "Willie-wagtail",
-      "count": 8488
+      "count": 8490
     },
     {
       "species": "Fan-tailed Cuckoo",
@@ -109,8 +109,8 @@
     "09:00": 35530,
     "10:00": 38807,
     "11:00": 39738,
-    "12:00": 37221,
-    "13:00": 36834,
+    "12:00": 37225,
+    "13:00": 36846,
     "14:00": 34587,
     "15:00": 32324,
     "16:00": 26578,
