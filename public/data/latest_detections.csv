@@ -479739,3 +479739,5 @@ ts,device,class,species,confidence
 2026-10-22T10:23:05,birdnetpi-b687,Mammal,Pumps,0.8336
 2026-10-22T10:56:30,birdnetpi-b687,Mammal,Pumps,0.8035
 2026-10-22T10:59:30,birdnetpi-b687,Mammal,Pumps,0.8597
+2026-10-22T11:28:45,birdnetpi-b687,Bird,Eastern Yellow Robin,0.7466
+2026-10-22T11:40:51,birdnetpi-b687,Bird,Willie-wagtail,0.9333
