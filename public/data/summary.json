@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-03T22:00:06",
+  "generated_at": "2026-11-03T23:00:07",
   "export_days": 365,
-  "total_detections": 498369,
+  "total_detections": 498643,
   "unique_species": 161,
   "average_confidence": 0.8749,
   "classes": {
     "Amphibian": 464,
     "Bird": 344729,
     "Insect": 132545,
-    "Mammal": 20482,
+    "Mammal": 20756,
     "Unknown": 149
   },
   "devices": {
-    "birdnetpi-b687": 498369
+    "birdnetpi-b687": 498643
   },
   "top_species": [
     {
@@ -57,7 +57,7 @@
     },
     {
       "species": "Pumps",
-      "count": 14686
+      "count": 14960
     },
     {
       "species": "Rufous Whistler",
@@ -118,8 +118,8 @@
     "18:00": 6010,
     "19:00": 7007,
     "20:00": 3585,
-    "21:00": 3236,
-    "22:00": 3308,
+    "21:00": 3238,
+    "22:00": 3580,
     "23:00": 3234
   }
 }
