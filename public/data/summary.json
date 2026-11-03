@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-04T01:00:08",
+  "generated_at": "2026-11-04T02:00:07",
   "export_days": 365,
-  "total_detections": 498764,
+  "total_detections": 498879,
   "unique_species": 161,
   "average_confidence": 0.8749,
   "classes": {
     "Amphibian": 464,
     "Bird": 344730,
     "Insect": 132545,
-    "Mammal": 20876,
+    "Mammal": 20991,
     "Unknown": 149
   },
   "devices": {
-    "birdnetpi-b687": 498764
+    "birdnetpi-b687": 498879
   },
   "top_species": [
     {
@@ -53,7 +53,7 @@
     },
     {
       "species": "Pumps",
-      "count": 15080
+      "count": 15195
     },
     {
       "species": "Rainbow Lorikeet",
@@ -98,7 +98,7 @@
   ],
   "hourly_counts": {
     "00:00": 4847,
-    "01:00": 6356,
+    "01:00": 6471,
     "02:00": 7151,
     "03:00": 9956,
     "04:00": 11860,
