@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-04T06:00:08",
+  "generated_at": "2026-11-04T07:00:06",
   "export_days": 365,
-  "total_detections": 499540,
+  "total_detections": 499856,
   "unique_species": 161,
   "average_confidence": 0.8748,
   "classes": {
     "Amphibian": 464,
-    "Bird": 345003,
+    "Bird": 345319,
     "Insect": 132545,
     "Mammal": 21379,
     "Unknown": 149
   },
   "devices": {
-    "birdnetpi-b687": 499540
+    "birdnetpi-b687": 499856
   },
   "top_species": [
     {
@@ -29,27 +29,27 @@
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 35185
+      "count": 35243
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 28906
+      "count": 28910
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 21590
+      "count": 21598
     },
     {
       "species": "Brown Gerygone",
-      "count": 18410
+      "count": 18421
     },
     {
       "species": "Scarlet Myzomela",
-      "count": 16098
+      "count": 16102
     },
     {
       "species": "Olive-backed Oriole",
-      "count": 15897
+      "count": 16064
     },
     {
       "species": "Pumps",
@@ -61,15 +61,15 @@
     },
     {
       "species": "Rufous Whistler",
-      "count": 9890
+      "count": 9891
     },
     {
       "species": "Willie-wagtail",
-      "count": 9606
+      "count": 9610
     },
     {
       "species": "Australasian Figbird",
-      "count": 9050
+      "count": 9058
     },
     {
       "species": "Fan-tailed Cuckoo",
@@ -81,7 +81,7 @@
     },
     {
       "species": "Gray Shrikethrush",
-      "count": 5977
+      "count": 5978
     },
     {
       "species": "Golden Whistler",
@@ -93,7 +93,7 @@
     },
     {
       "species": "Sacred Kingfisher",
-      "count": 4426
+      "count": 4461
     }
   ],
   "hourly_counts": {
@@ -102,8 +102,8 @@
     "02:00": 7289,
     "03:00": 10068,
     "04:00": 11985,
-    "05:00": 34048,
-    "06:00": 36345,
+    "05:00": 34051,
+    "06:00": 36658,
     "07:00": 26064,
     "08:00": 30354,
     "09:00": 36668,
