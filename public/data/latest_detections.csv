@@ -497398,3 +497398,33 @@ ts,device,class,species,confidence
 2026-11-03T17:58:34,birdnetpi-b687,Mammal,Pumps,0.7167
 2026-11-03T17:58:52,birdnetpi-b687,Mammal,Low Frequency Engines,0.8231
 2026-11-03T17:58:55,birdnetpi-b687,Mammal,Low Frequency Engines,0.7196
+2026-11-03T18:25:58,birdnetpi-b687,Bird,Gray Shrikethrush,0.9201
+2026-11-03T18:30:07,birdnetpi-b687,Bird,Australasian Figbird,0.8187
+2026-11-03T18:31:58,birdnetpi-b687,Bird,Eastern Yellow Robin,0.7407
+2026-11-03T18:32:04,birdnetpi-b687,Bird,Eastern Yellow Robin,0.9076
+2026-11-03T18:32:07,birdnetpi-b687,Bird,Eastern Yellow Robin,0.7423
+2026-11-03T18:34:01,birdnetpi-b687,Bird,Australasian Figbird,0.803
+2026-11-03T18:36:04,birdnetpi-b687,Bird,Australasian Figbird,0.7329
+2026-11-03T18:36:25,birdnetpi-b687,Bird,Australasian Figbird,0.7866
+2026-11-03T18:40:38,birdnetpi-b687,Bird,Lewin's Honeyeater,0.8962
+2026-11-03T18:42:59,birdnetpi-b687,Bird,Lewin's Honeyeater,0.9099
+2026-11-03T18:46:02,birdnetpi-b687,Bird,Eastern Yellow Robin,0.8167
+2026-11-03T18:46:29,birdnetpi-b687,Bird,Eastern Yellow Robin,0.7985
+2026-11-03T18:49:20,birdnetpi-b687,Bird,Willie-wagtail,0.9895
+2026-11-03T18:53:32,birdnetpi-b687,Bird,Eastern Yellow Robin,0.8251
+2026-11-03T18:54:05,birdnetpi-b687,Bird,Eastern Yellow Robin,0.8375
+2026-11-03T18:54:08,birdnetpi-b687,Bird,Eastern Yellow Robin,0.8314
+2026-11-03T18:54:29,birdnetpi-b687,Bird,Eastern Yellow Robin,0.9791
+2026-11-03T18:54:32,birdnetpi-b687,Bird,Eastern Yellow Robin,0.8587
+2026-11-03T18:54:35,birdnetpi-b687,Bird,Eastern Yellow Robin,0.958
+2026-11-03T18:54:41,birdnetpi-b687,Bird,Eastern Yellow Robin,0.9589
+2026-11-03T18:54:50,birdnetpi-b687,Bird,Eastern Yellow Robin,0.8971
+2026-11-03T18:55:20,birdnetpi-b687,Bird,Eastern Yellow Robin,0.9391
+2026-11-03T18:55:26,birdnetpi-b687,Bird,Eastern Yellow Robin,0.9531
+2026-11-03T18:56:08,birdnetpi-b687,Bird,Willie-wagtail,0.9398
+2026-11-03T18:56:56,birdnetpi-b687,Bird,Sacred Kingfisher,0.7675
+2026-11-03T18:57:14,birdnetpi-b687,Bird,Australasian Figbird,0.7209
+2026-11-03T18:57:20,birdnetpi-b687,Bird,Sacred Kingfisher,0.7678
+2026-11-03T18:57:56,birdnetpi-b687,Bird,Sacred Kingfisher,0.8226
+2026-11-03T18:58:59,birdnetpi-b687,Bird,Scarlet Myzomela,0.7719
+2026-11-03T18:59:26,birdnetpi-b687,Bird,Lewin's Honeyeater,0.7376
