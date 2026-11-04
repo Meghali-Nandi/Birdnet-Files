@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-05T08:00:06",
+  "generated_at": "2026-11-05T09:00:06",
   "export_days": 365,
-  "total_detections": 506965,
+  "total_detections": 507196,
   "unique_species": 161,
   "average_confidence": 0.8746,
   "classes": {
     "Amphibian": 464,
-    "Bird": 350701,
+    "Bird": 350922,
     "Insect": 132545,
-    "Mammal": 23105,
+    "Mammal": 23115,
     "Unknown": 150
   },
   "devices": {
-    "birdnetpi-b687": 506965
+    "birdnetpi-b687": 507196
   },
   "top_species": [
     {
@@ -29,7 +29,7 @@
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 35670
+      "count": 35710
     },
     {
       "species": "Eastern Yellow Robin",
@@ -37,23 +37,23 @@
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 21732
+      "count": 21737
     },
     {
       "species": "Brown Gerygone",
-      "count": 18551
+      "count": 18572
     },
     {
       "species": "Olive-backed Oriole",
-      "count": 17808
+      "count": 17847
     },
     {
       "species": "Pumps",
-      "count": 17309
+      "count": 17319
     },
     {
       "species": "Scarlet Myzomela",
-      "count": 16279
+      "count": 16286
     },
     {
       "species": "Rainbow Lorikeet",
@@ -61,15 +61,15 @@
     },
     {
       "species": "Willie-wagtail",
-      "count": 10998
+      "count": 11035
     },
     {
       "species": "Rufous Whistler",
-      "count": 9927
+      "count": 9928
     },
     {
       "species": "Australasian Figbird",
-      "count": 9399
+      "count": 9405
     },
     {
       "species": "Fan-tailed Cuckoo",
@@ -81,7 +81,7 @@
     },
     {
       "species": "Gray Shrikethrush",
-      "count": 6035
+      "count": 6042
     },
     {
       "species": "Golden Whistler",
@@ -93,7 +93,7 @@
     },
     {
       "species": "Sacred Kingfisher",
-      "count": 4947
+      "count": 4976
     }
   ],
   "hourly_counts": {
@@ -104,8 +104,8 @@
     "04:00": 12079,
     "05:00": 34404,
     "06:00": 36984,
-    "07:00": 26612,
-    "08:00": 30737,
+    "07:00": 26613,
+    "08:00": 30967,
     "09:00": 36967,
     "10:00": 40672,
     "11:00": 41269,
