@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-04T15:00:08",
+  "generated_at": "2026-11-04T16:00:05",
   "export_days": 365,
-  "total_detections": 502654,
+  "total_detections": 503061,
   "unique_species": 161,
   "average_confidence": 0.8748,
   "classes": {
     "Amphibian": 464,
-    "Bird": 348116,
+    "Bird": 348523,
     "Insect": 132545,
     "Mammal": 21379,
     "Unknown": 150
   },
   "devices": {
-    "birdnetpi-b687": 502654
+    "birdnetpi-b687": 503061
   },
   "top_species": [
     {
@@ -29,27 +29,27 @@
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 35443
+      "count": 35446
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 29000
+      "count": 29010
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 21659
+      "count": 21661
     },
     {
       "species": "Brown Gerygone",
-      "count": 18498
+      "count": 18519
     },
     {
       "species": "Olive-backed Oriole",
-      "count": 17185
+      "count": 17329
     },
     {
       "species": "Scarlet Myzomela",
-      "count": 16184
+      "count": 16187
     },
     {
       "species": "Pumps",
@@ -61,7 +61,7 @@
     },
     {
       "species": "Willie-wagtail",
-      "count": 10208
+      "count": 10392
     },
     {
       "species": "Rufous Whistler",
@@ -69,7 +69,7 @@
     },
     {
       "species": "Australasian Figbird",
-      "count": 9144
+      "count": 9150
     },
     {
       "species": "Fan-tailed Cuckoo",
@@ -81,11 +81,11 @@
     },
     {
       "species": "Gray Shrikethrush",
-      "count": 5980
+      "count": 5988
     },
     {
       "species": "Golden Whistler",
-      "count": 5226
+      "count": 5227
     },
     {
       "species": "Mimicking Snout-nose",
@@ -93,7 +93,7 @@
     },
     {
       "species": "Sacred Kingfisher",
-      "count": 4819
+      "count": 4840
     }
   ],
   "hourly_counts": {
@@ -112,7 +112,7 @@
     "12:00": 39020,
     "13:00": 38177,
     "14:00": 36341,
-    "15:00": 33837,
+    "15:00": 34244,
     "16:00": 27526,
     "17:00": 13571,
     "18:00": 6010,

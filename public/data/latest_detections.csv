@@ -502653,3 +502653,410 @@ ts,device,class,species,confidence
 2026-11-04T14:59:10,birdnetpi-b687,Bird,Olive-backed Oriole,0.7159
 2026-11-04T14:59:10,birdnetpi-b687,Bird,Willie-wagtail,0.929
 2026-11-04T14:59:16,birdnetpi-b687,Bird,Olive-backed Oriole,0.7946
+2026-11-04T15:00:01,birdnetpi-b687,Bird,Olive-backed Oriole,0.7071
+2026-11-04T15:00:04,birdnetpi-b687,Bird,Willie-wagtail,0.9573
+2026-11-04T15:00:10,birdnetpi-b687,Bird,Olive-backed Oriole,0.9349
+2026-11-04T15:00:13,birdnetpi-b687,Bird,Willie-wagtail,0.8152
+2026-11-04T15:00:19,birdnetpi-b687,Bird,Willie-wagtail,0.8545
+2026-11-04T15:00:28,birdnetpi-b687,Bird,Olive-backed Oriole,0.9857
+2026-11-04T15:00:37,birdnetpi-b687,Bird,Olive-backed Oriole,0.9473
+2026-11-04T15:00:40,birdnetpi-b687,Bird,Willie-wagtail,0.8246
+2026-11-04T15:00:43,birdnetpi-b687,Bird,Willie-wagtail,0.8051
+2026-11-04T15:00:46,birdnetpi-b687,Bird,Olive-backed Oriole,0.737
+2026-11-04T15:00:55,birdnetpi-b687,Bird,Olive-backed Oriole,0.7729
+2026-11-04T15:01:01,birdnetpi-b687,Bird,Olive-backed Oriole,0.9447
+2026-11-04T15:01:10,birdnetpi-b687,Bird,Olive-backed Oriole,0.9281
+2026-11-04T15:01:13,birdnetpi-b687,Bird,Willie-wagtail,0.8922
+2026-11-04T15:01:25,birdnetpi-b687,Bird,Olive-backed Oriole,0.942
+2026-11-04T15:01:34,birdnetpi-b687,Bird,Willie-wagtail,0.7747
+2026-11-04T15:01:37,birdnetpi-b687,Bird,Willie-wagtail,0.9191
+2026-11-04T15:01:43,birdnetpi-b687,Bird,Olive-backed Oriole,0.9767
+2026-11-04T15:01:49,birdnetpi-b687,Bird,Olive-backed Oriole,0.9571
+2026-11-04T15:01:55,birdnetpi-b687,Bird,Willie-wagtail,0.8306
+2026-11-04T15:01:58,birdnetpi-b687,Bird,Willie-wagtail,0.8847
+2026-11-04T15:02:13,birdnetpi-b687,Bird,Olive-backed Oriole,0.9828
+2026-11-04T15:02:22,birdnetpi-b687,Bird,Olive-backed Oriole,0.787
+2026-11-04T15:02:28,birdnetpi-b687,Bird,Olive-backed Oriole,0.8578
+2026-11-04T15:02:34,birdnetpi-b687,Bird,Willie-wagtail,0.9412
+2026-11-04T15:02:37,birdnetpi-b687,Bird,Black-faced Monarch,0.7605
+2026-11-04T15:02:46,birdnetpi-b687,Bird,Willie-wagtail,0.7764
+2026-11-04T15:03:37,birdnetpi-b687,Bird,Willie-wagtail,0.9403
+2026-11-04T15:03:46,birdnetpi-b687,Bird,Willie-wagtail,0.8399
+2026-11-04T15:03:52,birdnetpi-b687,Bird,Willie-wagtail,0.7248
+2026-11-04T15:04:04,birdnetpi-b687,Bird,Willie-wagtail,0.8179
+2026-11-04T15:04:07,birdnetpi-b687,Bird,Gray Shrikethrush,0.7292
+2026-11-04T15:04:07,birdnetpi-b687,Bird,Willie-wagtail,0.9263
+2026-11-04T15:04:22,birdnetpi-b687,Bird,Willie-wagtail,0.8164
+2026-11-04T15:04:34,birdnetpi-b687,Bird,Black-faced Monarch,0.8642
+2026-11-04T15:04:43,birdnetpi-b687,Bird,Willie-wagtail,0.847
+2026-11-04T15:05:04,birdnetpi-b687,Bird,Golden Whistler,0.8867
+2026-11-04T15:05:13,birdnetpi-b687,Bird,Willie-wagtail,0.9436
+2026-11-04T15:05:19,birdnetpi-b687,Bird,Willie-wagtail,0.7133
+2026-11-04T15:05:22,birdnetpi-b687,Bird,Willie-wagtail,0.7982
+2026-11-04T15:05:31,birdnetpi-b687,Bird,Willie-wagtail,0.9583
+2026-11-04T15:05:58,birdnetpi-b687,Bird,Willie-wagtail,0.8982
+2026-11-04T15:06:01,birdnetpi-b687,Bird,Willie-wagtail,0.7302
+2026-11-04T15:06:04,birdnetpi-b687,Bird,Willie-wagtail,0.9913
+2026-11-04T15:06:07,birdnetpi-b687,Bird,Willie-wagtail,0.9907
+2026-11-04T15:06:25,birdnetpi-b687,Bird,Willie-wagtail,0.9927
+2026-11-04T15:06:40,birdnetpi-b687,Bird,Willie-wagtail,0.979
+2026-11-04T15:06:55,birdnetpi-b687,Bird,Willie-wagtail,0.8141
+2026-11-04T15:07:07,birdnetpi-b687,Bird,Willie-wagtail,0.9869
+2026-11-04T15:07:10,birdnetpi-b687,Bird,Willie-wagtail,0.9689
+2026-11-04T15:07:13,birdnetpi-b687,Bird,Willie-wagtail,0.8209
+2026-11-04T15:07:16,birdnetpi-b687,Bird,Willie-wagtail,0.8468
+2026-11-04T15:07:19,birdnetpi-b687,Bird,Willie-wagtail,0.7028
+2026-11-04T15:07:25,birdnetpi-b687,Bird,Willie-wagtail,0.9116
+2026-11-04T15:07:28,birdnetpi-b687,Bird,Willie-wagtail,0.9803
+2026-11-04T15:07:31,birdnetpi-b687,Bird,Willie-wagtail,0.8076
+2026-11-04T15:07:37,birdnetpi-b687,Bird,Australasian Figbird,0.7149
+2026-11-04T15:07:49,birdnetpi-b687,Bird,Olive-backed Oriole,0.9116
+2026-11-04T15:08:01,birdnetpi-b687,Bird,Olive-backed Oriole,0.9764
+2026-11-04T15:08:04,birdnetpi-b687,Bird,Gray Shrikethrush,0.9201
+2026-11-04T15:08:28,birdnetpi-b687,Bird,Olive-backed Oriole,0.9212
+2026-11-04T15:08:31,birdnetpi-b687,Bird,Willie-wagtail,0.9005
+2026-11-04T15:08:34,birdnetpi-b687,Bird,Gray Shrikethrush,0.7892
+2026-11-04T15:08:58,birdnetpi-b687,Bird,Gray Shrikethrush,0.7493
+2026-11-04T15:09:25,birdnetpi-b687,Bird,Gray Shrikethrush,0.9455
+2026-11-04T15:09:28,birdnetpi-b687,Bird,Willie-wagtail,0.7424
+2026-11-04T15:09:34,birdnetpi-b687,Bird,Gray Shrikethrush,0.9749
+2026-11-04T15:09:40,birdnetpi-b687,Bird,Willie-wagtail,0.7654
+2026-11-04T15:09:43,birdnetpi-b687,Bird,Willie-wagtail,0.8406
+2026-11-04T15:09:49,birdnetpi-b687,Bird,Olive-backed Oriole,0.955
+2026-11-04T15:09:52,birdnetpi-b687,Bird,Willie-wagtail,0.7688
+2026-11-04T15:09:55,birdnetpi-b687,Bird,Willie-wagtail,0.7021
+2026-11-04T15:10:01,birdnetpi-b687,Bird,Willie-wagtail,0.8724
+2026-11-04T15:10:07,birdnetpi-b687,Bird,Willie-wagtail,0.7683
+2026-11-04T15:10:13,birdnetpi-b687,Bird,Willie-wagtail,0.9055
+2026-11-04T15:10:25,birdnetpi-b687,Bird,Olive-backed Oriole,0.9845
+2026-11-04T15:10:40,birdnetpi-b687,Bird,Willie-wagtail,0.9356
+2026-11-04T15:10:49,birdnetpi-b687,Bird,Olive-backed Oriole,0.8819
+2026-11-04T15:10:52,birdnetpi-b687,Bird,Willie-wagtail,0.9139
+2026-11-04T15:11:04,birdnetpi-b687,Bird,Willie-wagtail,0.8269
+2026-11-04T15:11:16,birdnetpi-b687,Bird,Olive-backed Oriole,0.9482
+2026-11-04T15:11:19,birdnetpi-b687,Bird,Willie-wagtail,0.9946
+2026-11-04T15:11:22,birdnetpi-b687,Bird,Willie-wagtail,0.8528
+2026-11-04T15:11:34,birdnetpi-b687,Bird,Willie-wagtail,0.9994
+2026-11-04T15:11:37,birdnetpi-b687,Bird,Willie-wagtail,0.9911
+2026-11-04T15:11:46,birdnetpi-b687,Bird,Willie-wagtail,0.8825
+2026-11-04T15:12:01,birdnetpi-b687,Bird,Willie-wagtail,0.9421
+2026-11-04T15:12:04,birdnetpi-b687,Bird,Willie-wagtail,0.9602
+2026-11-04T15:12:13,birdnetpi-b687,Bird,Willie-wagtail,0.9759
+2026-11-04T15:12:38,birdnetpi-b687,Bird,Willie-wagtail,0.7022
+2026-11-04T15:12:41,birdnetpi-b687,Bird,Willie-wagtail,0.9161
+2026-11-04T15:12:46,birdnetpi-b687,Bird,Willie-wagtail,0.7934
+2026-11-04T15:12:47,birdnetpi-b687,Bird,Willie-wagtail,0.9793
+2026-11-04T15:12:52,birdnetpi-b687,Bird,Willie-wagtail,0.9931
+2026-11-04T15:13:16,birdnetpi-b687,Bird,Willie-wagtail,0.7671
+2026-11-04T15:13:31,birdnetpi-b687,Bird,Olive-backed Oriole,0.7811
+2026-11-04T15:13:34,birdnetpi-b687,Bird,Willie-wagtail,0.7399
+2026-11-04T15:13:43,birdnetpi-b687,Bird,Willie-wagtail,0.8493
+2026-11-04T15:13:52,birdnetpi-b687,Bird,Willie-wagtail,0.7596
+2026-11-04T15:14:07,birdnetpi-b687,Bird,Willie-wagtail,0.9097
+2026-11-04T15:14:10,birdnetpi-b687,Bird,Willie-wagtail,0.7132
+2026-11-04T15:14:13,birdnetpi-b687,Bird,Willie-wagtail,0.7327
+2026-11-04T15:14:16,birdnetpi-b687,Bird,Willie-wagtail,0.8776
+2026-11-04T15:14:22,birdnetpi-b687,Bird,Willie-wagtail,0.8789
+2026-11-04T15:14:28,birdnetpi-b687,Bird,Willie-wagtail,0.8468
+2026-11-04T15:14:34,birdnetpi-b687,Bird,Willie-wagtail,0.9715
+2026-11-04T15:14:37,birdnetpi-b687,Bird,Willie-wagtail,0.9938
+2026-11-04T15:14:40,birdnetpi-b687,Bird,Willie-wagtail,0.8528
+2026-11-04T15:14:43,birdnetpi-b687,Bird,Willie-wagtail,0.8725
+2026-11-04T15:14:52,birdnetpi-b687,Bird,Willie-wagtail,0.8527
+2026-11-04T15:14:55,birdnetpi-b687,Bird,Willie-wagtail,0.998
+2026-11-04T15:14:58,birdnetpi-b687,Bird,Willie-wagtail,0.981
+2026-11-04T15:15:01,birdnetpi-b687,Bird,Willie-wagtail,0.9592
+2026-11-04T15:15:04,birdnetpi-b687,Bird,Willie-wagtail,0.9439
+2026-11-04T15:15:07,birdnetpi-b687,Bird,Willie-wagtail,0.8699
+2026-11-04T15:15:10,birdnetpi-b687,Bird,Willie-wagtail,0.9891
+2026-11-04T15:15:28,birdnetpi-b687,Bird,Willie-wagtail,0.9901
+2026-11-04T15:15:31,birdnetpi-b687,Bird,Willie-wagtail,0.8287
+2026-11-04T15:15:34,birdnetpi-b687,Bird,Willie-wagtail,0.9868
+2026-11-04T15:15:40,birdnetpi-b687,Bird,Willie-wagtail,0.8479
+2026-11-04T15:15:43,birdnetpi-b687,Bird,Willie-wagtail,0.9943
+2026-11-04T15:16:02,birdnetpi-b687,Bird,White-throated Treecreeper,0.7623
+2026-11-04T15:16:08,birdnetpi-b687,Bird,Eastern Yellow Robin,0.8904
+2026-11-04T15:16:11,birdnetpi-b687,Bird,Willie-wagtail,0.997
+2026-11-04T15:16:14,birdnetpi-b687,Bird,Willie-wagtail,0.9915
+2026-11-04T15:16:43,birdnetpi-b687,Bird,Willie-wagtail,1.0
+2026-11-04T15:16:58,birdnetpi-b687,Bird,Willie-wagtail,0.7851
+2026-11-04T15:17:04,birdnetpi-b687,Bird,Eastern Yellow Robin,0.7783
+2026-11-04T15:17:10,birdnetpi-b687,Bird,Willie-wagtail,0.7049
+2026-11-04T15:17:16,birdnetpi-b687,Bird,Willie-wagtail,0.7401
+2026-11-04T15:17:19,birdnetpi-b687,Bird,Willie-wagtail,0.9897
+2026-11-04T15:17:40,birdnetpi-b687,Bird,Willie-wagtail,0.9995
+2026-11-04T15:18:16,birdnetpi-b687,Bird,Olive-backed Oriole,0.7762
+2026-11-04T15:18:19,birdnetpi-b687,Bird,Willie-wagtail,0.9676
+2026-11-04T15:18:22,birdnetpi-b687,Bird,Willie-wagtail,0.8694
+2026-11-04T15:18:31,birdnetpi-b687,Bird,Willie-wagtail,0.8272
+2026-11-04T15:18:34,birdnetpi-b687,Bird,Olive-backed Oriole,0.9058
+2026-11-04T15:18:46,birdnetpi-b687,Bird,Olive-backed Oriole,0.8494
+2026-11-04T15:18:49,birdnetpi-b687,Bird,Willie-wagtail,0.954
+2026-11-04T15:19:07,birdnetpi-b687,Bird,Eastern Yellow Robin,0.7421
+2026-11-04T15:19:22,birdnetpi-b687,Bird,Olive-backed Oriole,0.837
+2026-11-04T15:19:34,birdnetpi-b687,Bird,Willie-wagtail,0.8762
+2026-11-04T15:19:40,birdnetpi-b687,Bird,Olive-backed Oriole,0.724
+2026-11-04T15:19:43,birdnetpi-b687,Bird,Willie-wagtail,0.8793
+2026-11-04T15:20:01,birdnetpi-b687,Bird,Willie-wagtail,0.9246
+2026-11-04T15:20:10,birdnetpi-b687,Bird,Willie-wagtail,0.9771
+2026-11-04T15:20:13,birdnetpi-b687,Bird,Willie-wagtail,0.991
+2026-11-04T15:20:16,birdnetpi-b687,Bird,Olive-backed Oriole,0.9343
+2026-11-04T15:20:22,birdnetpi-b687,Bird,Willie-wagtail,0.9967
+2026-11-04T15:20:25,birdnetpi-b687,Bird,Olive-backed Oriole,0.9445
+2026-11-04T15:20:31,birdnetpi-b687,Bird,Olive-backed Oriole,0.8424
+2026-11-04T15:20:43,birdnetpi-b687,Bird,Olive-backed Oriole,0.8212
+2026-11-04T15:21:01,birdnetpi-b687,Bird,Olive-backed Oriole,0.7812
+2026-11-04T15:21:10,birdnetpi-b687,Bird,Willie-wagtail,0.8421
+2026-11-04T15:21:16,birdnetpi-b687,Bird,Grey Fantail,0.8157
+2026-11-04T15:21:22,birdnetpi-b687,Bird,Willie-wagtail,0.8801
+2026-11-04T15:21:25,birdnetpi-b687,Bird,Olive-backed Oriole,0.8106
+2026-11-04T15:21:31,birdnetpi-b687,Bird,Olive-backed Oriole,0.8894
+2026-11-04T15:21:34,birdnetpi-b687,Bird,Willie-wagtail,0.9859
+2026-11-04T15:21:43,birdnetpi-b687,Bird,Willie-wagtail,0.8168
+2026-11-04T15:22:19,birdnetpi-b687,Bird,Olive-backed Oriole,0.8913
+2026-11-04T15:22:34,birdnetpi-b687,Bird,Grey Fantail,0.772
+2026-11-04T15:22:55,birdnetpi-b687,Bird,Willie-wagtail,0.9786
+2026-11-04T15:22:58,birdnetpi-b687,Bird,Willie-wagtail,0.8705
+2026-11-04T15:23:07,birdnetpi-b687,Bird,Willie-wagtail,0.8306
+2026-11-04T15:23:16,birdnetpi-b687,Bird,Willie-wagtail,0.9594
+2026-11-04T15:23:37,birdnetpi-b687,Bird,Willie-wagtail,0.8409
+2026-11-04T15:23:46,birdnetpi-b687,Bird,Willie-wagtail,0.9888
+2026-11-04T15:24:16,birdnetpi-b687,Bird,Olive-backed Oriole,0.7466
+2026-11-04T15:24:25,birdnetpi-b687,Bird,Olive-backed Oriole,0.9126
+2026-11-04T15:24:43,birdnetpi-b687,Bird,Willie-wagtail,0.994
+2026-11-04T15:24:46,birdnetpi-b687,Bird,Scarlet Myzomela,0.8313
+2026-11-04T15:24:49,birdnetpi-b687,Bird,Sacred Kingfisher,0.9891
+2026-11-04T15:24:52,birdnetpi-b687,Bird,Sacred Kingfisher,0.9638
+2026-11-04T15:24:55,birdnetpi-b687,Bird,Sacred Kingfisher,0.9384
+2026-11-04T15:24:58,birdnetpi-b687,Bird,Sacred Kingfisher,0.9284
+2026-11-04T15:25:01,birdnetpi-b687,Bird,Sacred Kingfisher,0.9738
+2026-11-04T15:25:04,birdnetpi-b687,Bird,Sacred Kingfisher,0.8659
+2026-11-04T15:25:07,birdnetpi-b687,Bird,Sacred Kingfisher,0.9851
+2026-11-04T15:25:25,birdnetpi-b687,Bird,Sacred Kingfisher,0.9441
+2026-11-04T15:25:28,birdnetpi-b687,Bird,Sacred Kingfisher,0.8149
+2026-11-04T15:25:43,birdnetpi-b687,Bird,Sacred Kingfisher,0.8545
+2026-11-04T15:25:49,birdnetpi-b687,Bird,Olive-backed Oriole,0.7175
+2026-11-04T15:25:52,birdnetpi-b687,Bird,Sacred Kingfisher,0.7798
+2026-11-04T15:25:55,birdnetpi-b687,Bird,Sacred Kingfisher,0.9291
+2026-11-04T15:25:58,birdnetpi-b687,Bird,Sacred Kingfisher,0.9859
+2026-11-04T15:26:04,birdnetpi-b687,Bird,Sacred Kingfisher,0.9303
+2026-11-04T15:26:07,birdnetpi-b687,Bird,Sacred Kingfisher,0.7371
+2026-11-04T15:26:10,birdnetpi-b687,Bird,Sacred Kingfisher,0.8262
+2026-11-04T15:26:13,birdnetpi-b687,Bird,Sacred Kingfisher,0.8894
+2026-11-04T15:26:19,birdnetpi-b687,Bird,Sacred Kingfisher,0.9319
+2026-11-04T15:26:22,birdnetpi-b687,Bird,Olive-backed Oriole,0.9273
+2026-11-04T15:26:25,birdnetpi-b687,Bird,Sacred Kingfisher,0.8863
+2026-11-04T15:26:34,birdnetpi-b687,Bird,Sacred Kingfisher,0.9222
+2026-11-04T15:26:37,birdnetpi-b687,Bird,Willie-wagtail,0.9798
+2026-11-04T15:26:40,birdnetpi-b687,Bird,Sacred Kingfisher,0.974
+2026-11-04T15:26:46,birdnetpi-b687,Bird,Willie-wagtail,0.9247
+2026-11-04T15:26:49,birdnetpi-b687,Bird,Willie-wagtail,0.8516
+2026-11-04T15:26:52,birdnetpi-b687,Bird,Olive-backed Oriole,0.8991
+2026-11-04T15:26:55,birdnetpi-b687,Bird,Olive-backed Oriole,0.981
+2026-11-04T15:26:58,birdnetpi-b687,Bird,Olive-backed Oriole,0.9061
+2026-11-04T15:27:07,birdnetpi-b687,Bird,Olive-backed Oriole,0.7704
+2026-11-04T15:27:16,birdnetpi-b687,Bird,Olive-backed Oriole,0.9894
+2026-11-04T15:27:25,birdnetpi-b687,Bird,Olive-backed Oriole,0.7367
+2026-11-04T15:27:25,birdnetpi-b687,Bird,Willie-wagtail,0.9725
+2026-11-04T15:27:46,birdnetpi-b687,Bird,Willie-wagtail,0.7868
+2026-11-04T15:27:55,birdnetpi-b687,Bird,Olive-backed Oriole,0.8722
+2026-11-04T15:27:55,birdnetpi-b687,Bird,Willie-wagtail,0.9206
+2026-11-04T15:28:07,birdnetpi-b687,Bird,Olive-backed Oriole,0.8738
+2026-11-04T15:28:10,birdnetpi-b687,Bird,Willie-wagtail,0.8887
+2026-11-04T15:28:16,birdnetpi-b687,Bird,Olive-backed Oriole,0.8232
+2026-11-04T15:28:19,birdnetpi-b687,Bird,Willie-wagtail,0.9135
+2026-11-04T15:28:28,birdnetpi-b687,Bird,Olive-backed Oriole,0.9447
+2026-11-04T15:28:31,birdnetpi-b687,Bird,Olive-backed Oriole,0.8374
+2026-11-04T15:28:34,birdnetpi-b687,Bird,Willie-wagtail,0.8542
+2026-11-04T15:28:37,birdnetpi-b687,Bird,Willie-wagtail,0.9898
+2026-11-04T15:28:46,birdnetpi-b687,Bird,Willie-wagtail,0.7829
+2026-11-04T15:28:52,birdnetpi-b687,Bird,Willie-wagtail,0.9486
+2026-11-04T15:29:01,birdnetpi-b687,Bird,Willie-wagtail,0.9914
+2026-11-04T15:29:22,birdnetpi-b687,Bird,Olive-backed Oriole,0.8479
+2026-11-04T15:29:28,birdnetpi-b687,Bird,Olive-backed Oriole,0.7808
+2026-11-04T15:29:28,birdnetpi-b687,Bird,Willie-wagtail,0.8335
+2026-11-04T15:29:34,birdnetpi-b687,Bird,Willie-wagtail,0.9211
+2026-11-04T15:29:43,birdnetpi-b687,Bird,Olive-backed Oriole,0.8168
+2026-11-04T15:30:08,birdnetpi-b687,Bird,Olive-backed Oriole,0.9547
+2026-11-04T15:30:16,birdnetpi-b687,Bird,Olive-backed Oriole,0.8247
+2026-11-04T15:30:25,birdnetpi-b687,Bird,Olive-backed Oriole,0.7941
+2026-11-04T15:30:34,birdnetpi-b687,Bird,Olive-backed Oriole,0.9426
+2026-11-04T15:30:40,birdnetpi-b687,Bird,Olive-backed Oriole,0.7128
+2026-11-04T15:30:58,birdnetpi-b687,Bird,Olive-backed Oriole,0.9077
+2026-11-04T15:31:10,birdnetpi-b687,Bird,Olive-backed Oriole,0.8013
+2026-11-04T15:31:16,birdnetpi-b687,Bird,Olive-backed Oriole,0.9532
+2026-11-04T15:31:22,birdnetpi-b687,Bird,Olive-backed Oriole,0.9653
+2026-11-04T15:31:28,birdnetpi-b687,Bird,Olive-backed Oriole,0.8724
+2026-11-04T15:31:34,birdnetpi-b687,Bird,Olive-backed Oriole,0.9285
+2026-11-04T15:31:40,birdnetpi-b687,Bird,Olive-backed Oriole,0.9508
+2026-11-04T15:31:46,birdnetpi-b687,Bird,Olive-backed Oriole,0.9911
+2026-11-04T15:31:52,birdnetpi-b687,Bird,Willie-wagtail,0.7345
+2026-11-04T15:32:01,birdnetpi-b687,Bird,Willie-wagtail,0.9762
+2026-11-04T15:32:07,birdnetpi-b687,Bird,Willie-wagtail,0.9862
+2026-11-04T15:32:10,birdnetpi-b687,Bird,Willie-wagtail,0.9946
+2026-11-04T15:32:13,birdnetpi-b687,Bird,Olive-backed Oriole,0.8161
+2026-11-04T15:32:25,birdnetpi-b687,Bird,Eastern Yellow Robin,0.7174
+2026-11-04T15:33:25,birdnetpi-b687,Bird,Willie-wagtail,0.9548
+2026-11-04T15:33:28,birdnetpi-b687,Bird,Willie-wagtail,0.8774
+2026-11-04T15:33:34,birdnetpi-b687,Bird,Willie-wagtail,0.8311
+2026-11-04T15:33:37,birdnetpi-b687,Bird,Willie-wagtail,0.7205
+2026-11-04T15:33:43,birdnetpi-b687,Bird,Willie-wagtail,0.909
+2026-11-04T15:34:07,birdnetpi-b687,Bird,Olive-backed Oriole,0.7508
+2026-11-04T15:34:19,birdnetpi-b687,Bird,Lewin's Honeyeater,0.7643
+2026-11-04T15:34:22,birdnetpi-b687,Bird,Lewin's Honeyeater,0.9498
+2026-11-04T15:34:28,birdnetpi-b687,Bird,Willie-wagtail,0.7233
+2026-11-04T15:35:07,birdnetpi-b687,Bird,Olive-backed Oriole,0.8028
+2026-11-04T15:35:13,birdnetpi-b687,Bird,Willie-wagtail,0.806
+2026-11-04T15:35:22,birdnetpi-b687,Bird,Willie-wagtail,0.7536
+2026-11-04T15:35:28,birdnetpi-b687,Bird,Willie-wagtail,0.7344
+2026-11-04T15:35:28,birdnetpi-b687,Bird,Olive-backed Oriole,0.7855
+2026-11-04T15:35:31,birdnetpi-b687,Bird,Willie-wagtail,0.8585
+2026-11-04T15:35:40,birdnetpi-b687,Bird,Willie-wagtail,0.977
+2026-11-04T15:35:55,birdnetpi-b687,Bird,Willie-wagtail,0.9843
+2026-11-04T15:35:58,birdnetpi-b687,Bird,Olive-backed Oriole,0.9128
+2026-11-04T15:36:01,birdnetpi-b687,Bird,White-throated Treecreeper,0.9641
+2026-11-04T15:36:07,birdnetpi-b687,Bird,Olive-backed Oriole,0.875
+2026-11-04T15:36:10,birdnetpi-b687,Bird,Willie-wagtail,0.9439
+2026-11-04T15:37:12,birdnetpi-b687,Bird,Olive-backed Oriole,0.72
+2026-11-04T15:37:16,birdnetpi-b687,Bird,Olive-backed Oriole,0.88
+2026-11-04T15:37:18,birdnetpi-b687,Bird,Willie-wagtail,0.8053
+2026-11-04T15:37:18,birdnetpi-b687,Bird,Olive-backed Oriole,0.8699
+2026-11-04T15:37:21,birdnetpi-b687,Bird,Willie-wagtail,0.8948
+2026-11-04T15:37:25,birdnetpi-b687,Bird,Willie-wagtail,0.9637
+2026-11-04T15:37:37,birdnetpi-b687,Bird,Brown Gerygone,0.8137
+2026-11-04T15:37:46,birdnetpi-b687,Bird,Willie-wagtail,0.8766
+2026-11-04T15:37:52,birdnetpi-b687,Bird,Willie-wagtail,0.7221
+2026-11-04T15:38:01,birdnetpi-b687,Bird,Willie-wagtail,0.8045
+2026-11-04T15:38:16,birdnetpi-b687,Bird,Willie-wagtail,0.7754
+2026-11-04T15:38:22,birdnetpi-b687,Bird,Willie-wagtail,0.9965
+2026-11-04T15:38:28,birdnetpi-b687,Bird,Olive-backed Oriole,0.982
+2026-11-04T15:38:34,birdnetpi-b687,Bird,Brown Gerygone,0.7382
+2026-11-04T15:38:37,birdnetpi-b687,Bird,Brown Gerygone,0.7241
+2026-11-04T15:38:40,birdnetpi-b687,Bird,Willie-wagtail,0.9604
+2026-11-04T15:38:43,birdnetpi-b687,Bird,Olive-backed Oriole,0.9268
+2026-11-04T15:38:52,birdnetpi-b687,Bird,Willie-wagtail,0.7903
+2026-11-04T15:39:01,birdnetpi-b687,Bird,Brown Gerygone,0.9454
+2026-11-04T15:39:07,birdnetpi-b687,Bird,Brown Gerygone,0.9566
+2026-11-04T15:39:19,birdnetpi-b687,Bird,Olive-backed Oriole,0.9433
+2026-11-04T15:40:22,birdnetpi-b687,Bird,Australasian Figbird,0.8016
+2026-11-04T15:40:49,birdnetpi-b687,Bird,Scarlet Myzomela,0.8573
+2026-11-04T15:40:52,birdnetpi-b687,Bird,Scarlet Myzomela,0.8712
+2026-11-04T15:41:10,birdnetpi-b687,Bird,Brown Gerygone,0.7916
+2026-11-04T15:41:28,birdnetpi-b687,Bird,Brown Gerygone,0.7618
+2026-11-04T15:41:40,birdnetpi-b687,Bird,Brown Gerygone,0.7556
+2026-11-04T15:41:52,birdnetpi-b687,Bird,Brown Gerygone,0.8894
+2026-11-04T15:41:55,birdnetpi-b687,Bird,Willie-wagtail,0.9192
+2026-11-04T15:41:58,birdnetpi-b687,Bird,Brown Gerygone,0.8626
+2026-11-04T15:42:04,birdnetpi-b687,Bird,Willie-wagtail,0.7289
+2026-11-04T15:42:07,birdnetpi-b687,Bird,Brown Gerygone,0.8154
+2026-11-04T15:42:13,birdnetpi-b687,Bird,Brown Gerygone,0.9612
+2026-11-04T15:42:16,birdnetpi-b687,Bird,Olive-backed Oriole,0.84
+2026-11-04T15:42:22,birdnetpi-b687,Bird,Olive-backed Oriole,0.8025
+2026-11-04T15:42:25,birdnetpi-b687,Bird,Brown Gerygone,0.9852
+2026-11-04T15:42:28,birdnetpi-b687,Bird,Brown Gerygone,0.7407
+2026-11-04T15:42:34,birdnetpi-b687,Bird,Brown Gerygone,0.9055
+2026-11-04T15:42:37,birdnetpi-b687,Bird,Brown Gerygone,0.7075
+2026-11-04T15:42:40,birdnetpi-b687,Bird,Brown Gerygone,0.778
+2026-11-04T15:42:46,birdnetpi-b687,Bird,Olive-backed Oriole,0.8753
+2026-11-04T15:42:49,birdnetpi-b687,Bird,Brown Gerygone,0.7112
+2026-11-04T15:42:52,birdnetpi-b687,Bird,Olive-backed Oriole,0.9155
+2026-11-04T15:42:55,birdnetpi-b687,Bird,Brown Gerygone,0.852
+2026-11-04T15:43:01,birdnetpi-b687,Bird,Brown Gerygone,0.977
+2026-11-04T15:43:07,birdnetpi-b687,Bird,Brown Gerygone,0.9522
+2026-11-04T15:43:10,birdnetpi-b687,Bird,Willie-wagtail,0.7248
+2026-11-04T15:43:10,birdnetpi-b687,Bird,Olive-backed Oriole,0.8765
+2026-11-04T15:43:16,birdnetpi-b687,Bird,Willie-wagtail,0.9374
+2026-11-04T15:43:19,birdnetpi-b687,Bird,Olive-backed Oriole,0.8377
+2026-11-04T15:43:22,birdnetpi-b687,Bird,Olive-backed Oriole,0.871
+2026-11-04T15:43:28,birdnetpi-b687,Bird,Olive-backed Oriole,0.8482
+2026-11-04T15:43:28,birdnetpi-b687,Bird,Willie-wagtail,0.8601
+2026-11-04T15:43:40,birdnetpi-b687,Bird,Willie-wagtail,0.8987
+2026-11-04T15:43:43,birdnetpi-b687,Bird,Olive-backed Oriole,0.8588
+2026-11-04T15:43:52,birdnetpi-b687,Bird,Willie-wagtail,0.9052
+2026-11-04T15:43:55,birdnetpi-b687,Bird,Olive-backed Oriole,0.9901
+2026-11-04T15:44:04,birdnetpi-b687,Bird,Olive-backed Oriole,0.9637
+2026-11-04T15:44:07,birdnetpi-b687,Bird,Willie-wagtail,0.7819
+2026-11-04T15:44:17,birdnetpi-b687,Bird,Olive-backed Oriole,0.8045
+2026-11-04T15:44:44,birdnetpi-b687,Bird,Olive-backed Oriole,0.9772
+2026-11-04T15:45:31,birdnetpi-b687,Bird,Willie-wagtail,0.949
+2026-11-04T15:45:34,birdnetpi-b687,Bird,Willie-wagtail,0.9998
+2026-11-04T15:45:43,birdnetpi-b687,Bird,Eastern Yellow Robin,0.8125
+2026-11-04T15:45:52,birdnetpi-b687,Bird,Olive-backed Oriole,0.723
+2026-11-04T15:46:13,birdnetpi-b687,Bird,Olive-backed Oriole,0.9271
+2026-11-04T15:46:16,birdnetpi-b687,Bird,Eastern Yellow Robin,0.8049
+2026-11-04T15:46:22,birdnetpi-b687,Bird,Willie-wagtail,0.7069
+2026-11-04T15:46:22,birdnetpi-b687,Bird,Olive-backed Oriole,0.8362
+2026-11-04T15:46:28,birdnetpi-b687,Bird,Olive-backed Oriole,0.9246
+2026-11-04T15:46:37,birdnetpi-b687,Bird,Olive-backed Oriole,0.8563
+2026-11-04T15:47:01,birdnetpi-b687,Bird,Australasian Figbird,0.9538
+2026-11-04T15:47:07,birdnetpi-b687,Bird,Eastern Yellow Robin,0.8109
+2026-11-04T15:47:22,birdnetpi-b687,Bird,Willie-wagtail,0.7198
+2026-11-04T15:47:28,birdnetpi-b687,Bird,Willie-wagtail,0.9133
+2026-11-04T15:47:37,birdnetpi-b687,Bird,Eastern Yellow Robin,0.8793
+2026-11-04T15:47:40,birdnetpi-b687,Bird,Eastern Yellow Robin,0.9778
+2026-11-04T15:47:58,birdnetpi-b687,Bird,Australasian Figbird,0.7876
+2026-11-04T15:48:19,birdnetpi-b687,Bird,Eastern Yellow Robin,0.7033
+2026-11-04T15:48:46,birdnetpi-b687,Bird,Australasian Figbird,0.7557
+2026-11-04T15:48:49,birdnetpi-b687,Bird,Australasian Figbird,0.9528
+2026-11-04T15:49:04,birdnetpi-b687,Bird,Willie-wagtail,0.7495
+2026-11-04T15:49:40,birdnetpi-b687,Bird,Olive-backed Oriole,0.9467
+2026-11-04T15:49:49,birdnetpi-b687,Bird,Olive-backed Oriole,0.8787
+2026-11-04T15:49:58,birdnetpi-b687,Bird,Olive-backed Oriole,0.8773
+2026-11-04T15:50:04,birdnetpi-b687,Bird,Olive-backed Oriole,0.8858
+2026-11-04T15:50:19,birdnetpi-b687,Bird,Olive-backed Oriole,0.9294
+2026-11-04T15:50:25,birdnetpi-b687,Bird,Olive-backed Oriole,0.9072
+2026-11-04T15:50:31,birdnetpi-b687,Bird,Olive-backed Oriole,0.9744
+2026-11-04T15:50:37,birdnetpi-b687,Bird,Olive-backed Oriole,0.9895
+2026-11-04T15:50:43,birdnetpi-b687,Bird,Olive-backed Oriole,0.7681
+2026-11-04T15:50:49,birdnetpi-b687,Bird,Olive-backed Oriole,0.9921
+2026-11-04T15:50:52,birdnetpi-b687,Bird,Willie-wagtail,0.7718
+2026-11-04T15:50:55,birdnetpi-b687,Bird,Olive-backed Oriole,0.9154
+2026-11-04T15:51:01,birdnetpi-b687,Bird,Olive-backed Oriole,0.9897
+2026-11-04T15:51:07,birdnetpi-b687,Bird,Olive-backed Oriole,0.9507
+2026-11-04T15:51:16,birdnetpi-b687,Bird,Willie-wagtail,0.9619
+2026-11-04T15:51:19,birdnetpi-b687,Bird,Olive-backed Oriole,0.939
+2026-11-04T15:51:25,birdnetpi-b687,Bird,Olive-backed Oriole,0.7843
+2026-11-04T15:51:31,birdnetpi-b687,Bird,Olive-backed Oriole,0.9542
+2026-11-04T15:51:34,birdnetpi-b687,Bird,Willie-wagtail,0.9942
+2026-11-04T15:51:40,birdnetpi-b687,Bird,Olive-backed Oriole,0.9882
+2026-11-04T15:51:58,birdnetpi-b687,Bird,Olive-backed Oriole,0.8078
+2026-11-04T15:52:04,birdnetpi-b687,Bird,Olive-backed Oriole,0.7698
+2026-11-04T15:52:10,birdnetpi-b687,Bird,Olive-backed Oriole,0.8336
+2026-11-04T15:52:16,birdnetpi-b687,Bird,Olive-backed Oriole,0.8045
+2026-11-04T15:52:22,birdnetpi-b687,Bird,Olive-backed Oriole,0.917
+2026-11-04T15:52:34,birdnetpi-b687,Bird,Olive-backed Oriole,0.8077
+2026-11-04T15:52:40,birdnetpi-b687,Bird,Willie-wagtail,0.8619
+2026-11-04T15:52:43,birdnetpi-b687,Bird,Olive-backed Oriole,0.8608
+2026-11-04T15:52:43,birdnetpi-b687,Bird,Willie-wagtail,0.8884
+2026-11-04T15:52:46,birdnetpi-b687,Bird,Willie-wagtail,0.9237
+2026-11-04T15:52:49,birdnetpi-b687,Bird,Willie-wagtail,0.9771
+2026-11-04T15:53:07,birdnetpi-b687,Bird,Olive-backed Oriole,0.97
+2026-11-04T15:53:13,birdnetpi-b687,Bird,Willie-wagtail,0.8975
+2026-11-04T15:53:34,birdnetpi-b687,Bird,Olive-backed Oriole,0.9773
+2026-11-04T15:53:58,birdnetpi-b687,Bird,Olive-backed Oriole,0.9289
+2026-11-04T15:54:07,birdnetpi-b687,Bird,White-throated Treecreeper,0.7522
+2026-11-04T15:54:25,birdnetpi-b687,Bird,Olive-backed Oriole,0.9144
+2026-11-04T15:54:28,birdnetpi-b687,Bird,Olive-backed Oriole,0.8012
+2026-11-04T15:54:37,birdnetpi-b687,Bird,Olive-backed Oriole,0.9097
+2026-11-04T15:54:46,birdnetpi-b687,Bird,Olive-backed Oriole,0.8949
+2026-11-04T15:54:58,birdnetpi-b687,Bird,Olive-backed Oriole,0.9446
+2026-11-04T15:55:13,birdnetpi-b687,Bird,Olive-backed Oriole,0.8245
+2026-11-04T15:55:28,birdnetpi-b687,Bird,Gray Shrikethrush,0.701
+2026-11-04T15:55:31,birdnetpi-b687,Bird,Olive-backed Oriole,0.932
+2026-11-04T15:55:46,birdnetpi-b687,Bird,Olive-backed Oriole,0.9912
+2026-11-04T15:56:19,birdnetpi-b687,Bird,Olive-backed Oriole,0.9763
+2026-11-04T15:56:31,birdnetpi-b687,Bird,Olive-backed Oriole,0.9263
+2026-11-04T15:56:37,birdnetpi-b687,Bird,Olive-backed Oriole,0.9843
+2026-11-04T15:56:55,birdnetpi-b687,Bird,Olive-backed Oriole,0.9738
+2026-11-04T15:57:01,birdnetpi-b687,Bird,Gray Shrikethrush,0.7844
+2026-11-04T15:57:07,birdnetpi-b687,Bird,Olive-backed Oriole,0.9582
+2026-11-04T15:57:19,birdnetpi-b687,Bird,Olive-backed Oriole,0.9477
+2026-11-04T15:57:34,birdnetpi-b687,Bird,Olive-backed Oriole,0.9409
+2026-11-04T15:57:46,birdnetpi-b687,Bird,Olive-backed Oriole,0.9718
+2026-11-04T15:58:04,birdnetpi-b687,Bird,Olive-backed Oriole,0.9714
+2026-11-04T15:58:37,birdnetpi-b687,Bird,Olive-backed Oriole,0.8743
+2026-11-04T15:58:58,birdnetpi-b687,Bird,Olive-backed Oriole,0.7156
+2026-11-04T15:59:07,birdnetpi-b687,Bird,Olive-backed Oriole,0.8314
+2026-11-04T15:59:34,birdnetpi-b687,Bird,Olive-backed Oriole,0.7067
+2026-11-04T15:59:37,birdnetpi-b687,Bird,Willie-wagtail,0.8263
+2026-11-04T15:59:40,birdnetpi-b687,Bird,Willie-wagtail,0.7851
