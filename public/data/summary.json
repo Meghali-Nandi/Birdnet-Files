@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-04T12:00:07",
+  "generated_at": "2026-11-04T13:00:06",
   "export_days": 365,
-  "total_detections": 501528,
+  "total_detections": 501903,
   "unique_species": 161,
   "average_confidence": 0.8748,
   "classes": {
     "Amphibian": 464,
-    "Bird": 346991,
+    "Bird": 347366,
     "Insect": 132545,
     "Mammal": 21379,
     "Unknown": 149
   },
   "devices": {
-    "birdnetpi-b687": 501528
+    "birdnetpi-b687": 501903
   },
   "top_species": [
     {
@@ -37,19 +37,19 @@
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 21637
+      "count": 21643
     },
     {
       "species": "Brown Gerygone",
-      "count": 18454
+      "count": 18458
     },
     {
       "species": "Olive-backed Oriole",
-      "count": 16689
+      "count": 16856
     },
     {
       "species": "Scarlet Myzomela",
-      "count": 16131
+      "count": 16165
     },
     {
       "species": "Pumps",
@@ -60,16 +60,16 @@
       "count": 14960
     },
     {
-      "species": "Rufous Whistler",
-      "count": 9902
+      "species": "Willie-wagtail",
+      "count": 9977
     },
     {
-      "species": "Willie-wagtail",
-      "count": 9889
+      "species": "Rufous Whistler",
+      "count": 9913
     },
     {
       "species": "Australasian Figbird",
-      "count": 9131
+      "count": 9135
     },
     {
       "species": "Fan-tailed Cuckoo",
@@ -93,7 +93,7 @@
     },
     {
       "species": "Sacred Kingfisher",
-      "count": 4699
+      "count": 4755
     }
   ],
   "hourly_counts": {
@@ -108,8 +108,8 @@
     "08:00": 30737,
     "09:00": 36967,
     "10:00": 40672,
-    "11:00": 41268,
-    "12:00": 38646,
+    "11:00": 41269,
+    "12:00": 39020,
     "13:00": 37896,
     "14:00": 35871,
     "15:00": 33837,
