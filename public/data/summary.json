@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-04T17:00:10",
+  "generated_at": "2026-11-04T18:00:07",
   "export_days": 365,
-  "total_detections": 503472,
+  "total_detections": 503888,
   "unique_species": 161,
-  "average_confidence": 0.8748,
+  "average_confidence": 0.8749,
   "classes": {
     "Amphibian": 464,
-    "Bird": 348934,
+    "Bird": 349350,
     "Insect": 132545,
     "Mammal": 21379,
     "Unknown": 150
   },
   "devices": {
-    "birdnetpi-b687": 503472
+    "birdnetpi-b687": 503888
   },
   "top_species": [
     {
@@ -29,27 +29,27 @@
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 35486
+      "count": 35505
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 29035
+      "count": 29061
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 21672
+      "count": 21693
     },
     {
       "species": "Brown Gerygone",
-      "count": 18525
+      "count": 18526
     },
     {
       "species": "Olive-backed Oriole",
-      "count": 17376
+      "count": 17510
     },
     {
       "species": "Scarlet Myzomela",
-      "count": 16187
+      "count": 16235
     },
     {
       "species": "Pumps",
@@ -61,7 +61,7 @@
     },
     {
       "species": "Willie-wagtail",
-      "count": 10617
+      "count": 10741
     },
     {
       "species": "Rufous Whistler",
@@ -69,7 +69,7 @@
     },
     {
       "species": "Australasian Figbird",
-      "count": 9150
+      "count": 9177
     },
     {
       "species": "Fan-tailed Cuckoo",
@@ -81,7 +81,7 @@
     },
     {
       "species": "Gray Shrikethrush",
-      "count": 5988
+      "count": 5989
     },
     {
       "species": "Golden Whistler",
@@ -93,7 +93,7 @@
     },
     {
       "species": "Sacred Kingfisher",
-      "count": 4889
+      "count": 4900
     }
   ],
   "hourly_counts": {
@@ -113,8 +113,8 @@
     "13:00": 38177,
     "14:00": 36341,
     "15:00": 34246,
-    "16:00": 27935,
-    "17:00": 13571,
+    "16:00": 27937,
+    "17:00": 13985,
     "18:00": 6010,
     "19:00": 7007,
     "20:00": 3585,
