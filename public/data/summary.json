@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-05T04:00:09",
+  "generated_at": "2026-11-05T05:00:09",
   "export_days": 365,
-  "total_detections": 505979,
+  "total_detections": 506072,
   "unique_species": 161,
   "average_confidence": 0.8746,
   "classes": {
     "Amphibian": 464,
     "Bird": 349824,
     "Insect": 132545,
-    "Mammal": 22996,
+    "Mammal": 23089,
     "Unknown": 150
   },
   "devices": {
-    "birdnetpi-b687": 505979
+    "birdnetpi-b687": 506072
   },
   "top_species": [
     {
@@ -49,7 +49,7 @@
     },
     {
       "species": "Pumps",
-      "count": 17200
+      "count": 17293
     },
     {
       "species": "Scarlet Myzomela",
@@ -101,7 +101,7 @@
     "01:00": 6743,
     "02:00": 7788,
     "03:00": 10321,
-    "04:00": 11985,
+    "04:00": 12078,
     "05:00": 34051,
     "06:00": 36663,
     "07:00": 26394,
