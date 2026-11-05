@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-05T10:00:06",
+  "generated_at": "2026-11-05T11:00:06",
   "export_days": 365,
-  "total_detections": 507456,
-  "unique_species": 161,
+  "total_detections": 507834,
+  "unique_species": 163,
   "average_confidence": 0.8746,
   "classes": {
     "Amphibian": 464,
-    "Bird": 351182,
+    "Bird": 351560,
     "Insect": 132545,
     "Mammal": 23115,
     "Unknown": 150
   },
   "devices": {
-    "birdnetpi-b687": 507456
+    "birdnetpi-b687": 507834
   },
   "top_species": [
     {
@@ -29,23 +29,23 @@
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 35736
+      "count": 35760
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 29222
+      "count": 29228
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 21746
+      "count": 21755
     },
     {
       "species": "Brown Gerygone",
-      "count": 18599
+      "count": 18641
     },
     {
       "species": "Olive-backed Oriole",
-      "count": 17874
+      "count": 17934
     },
     {
       "species": "Pumps",
@@ -53,7 +53,7 @@
     },
     {
       "species": "Scarlet Myzomela",
-      "count": 16318
+      "count": 16320
     },
     {
       "species": "Rainbow Lorikeet",
@@ -61,7 +61,7 @@
     },
     {
       "species": "Willie-wagtail",
-      "count": 11137
+      "count": 11197
     },
     {
       "species": "Rufous Whistler",
@@ -69,7 +69,7 @@
     },
     {
       "species": "Australasian Figbird",
-      "count": 9412
+      "count": 9424
     },
     {
       "species": "Fan-tailed Cuckoo",
@@ -85,7 +85,7 @@
     },
     {
       "species": "Golden Whistler",
-      "count": 5246
+      "count": 5247
     },
     {
       "species": "Mimicking Snout-nose",
@@ -93,7 +93,7 @@
     },
     {
       "species": "Sacred Kingfisher",
-      "count": 4981
+      "count": 5000
     }
   ],
   "hourly_counts": {
@@ -106,15 +106,15 @@
     "06:00": 36984,
     "07:00": 26613,
     "08:00": 30970,
-    "09:00": 37224,
-    "10:00": 40672,
+    "09:00": 37227,
+    "10:00": 41044,
     "11:00": 41269,
     "12:00": 39020,
     "13:00": 38177,
     "14:00": 36341,
     "15:00": 34246,
     "16:00": 27937,
-    "17:00": 13985,
+    "17:00": 13988,
     "18:00": 6354,
     "19:00": 7139,
     "20:00": 3690,
