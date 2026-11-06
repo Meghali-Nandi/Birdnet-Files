@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-06T22:00:06",
+  "generated_at": "2026-11-06T23:00:09",
   "export_days": 365,
-  "total_detections": 509252,
+  "total_detections": 509258,
   "unique_species": 169,
   "average_confidence": 0.8747,
   "classes": {
@@ -9,10 +9,10 @@
     "Bird": 352972,
     "Insect": 132545,
     "Mammal": 23115,
-    "Unknown": 156
+    "Unknown": 162
   },
   "devices": {
-    "birdnetpi-b687": 509252
+    "birdnetpi-b687": 509258
   },
   "top_species": [
     {
@@ -119,7 +119,7 @@
     "19:00": 7433,
     "20:00": 3690,
     "21:00": 3355,
-    "22:00": 3596,
+    "22:00": 3602,
     "23:00": 3494
   }
 }
