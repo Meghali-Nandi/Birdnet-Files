@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-05T11:00:06",
+  "generated_at": "2026-11-06T18:00:07",
   "export_days": 365,
-  "total_detections": 507834,
-  "unique_species": 163,
+  "total_detections": 508718,
+  "unique_species": 168,
   "average_confidence": 0.8746,
   "classes": {
     "Amphibian": 464,
-    "Bird": 351560,
+    "Bird": 352439,
     "Insect": 132545,
     "Mammal": 23115,
-    "Unknown": 150
+    "Unknown": 155
   },
   "devices": {
-    "birdnetpi-b687": 507834
+    "birdnetpi-b687": 508718
   },
   "top_species": [
     {
@@ -29,23 +29,23 @@
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 35760
+      "count": 35775
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 29228
+      "count": 29293
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 21755
+      "count": 21786
     },
     {
       "species": "Brown Gerygone",
-      "count": 18641
+      "count": 18776
     },
     {
       "species": "Olive-backed Oriole",
-      "count": 17934
+      "count": 18067
     },
     {
       "species": "Pumps",
@@ -65,11 +65,11 @@
     },
     {
       "species": "Rufous Whistler",
-      "count": 9928
+      "count": 9929
     },
     {
       "species": "Australasian Figbird",
-      "count": 9424
+      "count": 9439
     },
     {
       "species": "Fan-tailed Cuckoo",
@@ -93,7 +93,7 @@
     },
     {
       "species": "Sacred Kingfisher",
-      "count": 5000
+      "count": 5058
     }
   ],
   "hourly_counts": {
@@ -107,16 +107,16 @@
     "07:00": 26613,
     "08:00": 30970,
     "09:00": 37227,
-    "10:00": 41044,
-    "11:00": 41269,
-    "12:00": 39020,
-    "13:00": 38177,
-    "14:00": 36341,
-    "15:00": 34246,
-    "16:00": 27937,
-    "17:00": 13988,
-    "18:00": 6354,
-    "19:00": 7139,
+    "10:00": 41045,
+    "11:00": 41681,
+    "12:00": 39033,
+    "13:00": 38190,
+    "14:00": 36359,
+    "15:00": 34260,
+    "16:00": 27957,
+    "17:00": 14303,
+    "18:00": 6409,
+    "19:00": 7162,
     "20:00": 3690,
     "21:00": 3354,
     "22:00": 3596,
