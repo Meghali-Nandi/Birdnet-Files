@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-07T04:00:08",
+  "generated_at": "2026-11-07T05:00:12",
   "export_days": 365,
-  "total_detections": 509260,
+  "total_detections": 509287,
   "unique_species": 169,
   "average_confidence": 0.8747,
   "classes": {
     "Amphibian": 464,
-    "Bird": 352972,
+    "Bird": 352999,
     "Insect": 132545,
     "Mammal": 23115,
     "Unknown": 164
   },
   "devices": {
-    "birdnetpi-b687": 509260
+    "birdnetpi-b687": 509287
   },
   "top_species": [
     {
@@ -33,7 +33,7 @@
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 29336
+      "count": 29363
     },
     {
       "species": "Lewin's Honeyeater",
@@ -101,7 +101,7 @@
     "01:00": 6743,
     "02:00": 7788,
     "03:00": 10321,
-    "04:00": 12079,
+    "04:00": 12106,
     "05:00": 34404,
     "06:00": 36984,
     "07:00": 26613,
