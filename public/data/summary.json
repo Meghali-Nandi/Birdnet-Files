@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-06T19:00:08",
+  "generated_at": "2026-11-06T20:00:09",
   "export_days": 365,
-  "total_detections": 508978,
+  "total_detections": 509251,
   "unique_species": 168,
   "average_confidence": 0.8747,
   "classes": {
     "Amphibian": 464,
-    "Bird": 352699,
+    "Bird": 352972,
     "Insect": 132545,
     "Mammal": 23115,
     "Unknown": 155
   },
   "devices": {
-    "birdnetpi-b687": 508978
+    "birdnetpi-b687": 509251
   },
   "top_species": [
     {
@@ -29,15 +29,15 @@
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 35775
+      "count": 35786
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 29305
+      "count": 29336
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 21790
+      "count": 21806
     },
     {
       "species": "Brown Gerygone",
@@ -45,7 +45,7 @@
     },
     {
       "species": "Olive-backed Oriole",
-      "count": 18106
+      "count": 18133
     },
     {
       "species": "Pumps",
@@ -69,7 +69,7 @@
     },
     {
       "species": "Australasian Figbird",
-      "count": 9497
+      "count": 9500
     },
     {
       "species": "Fan-tailed Cuckoo",
@@ -89,7 +89,7 @@
     },
     {
       "species": "Sacred Kingfisher",
-      "count": 5078
+      "count": 5086
     },
     {
       "species": "Mimicking Snout-nose",
@@ -115,8 +115,8 @@
     "15:00": 34260,
     "16:00": 27957,
     "17:00": 14304,
-    "18:00": 6668,
-    "19:00": 7162,
+    "18:00": 6670,
+    "19:00": 7433,
     "20:00": 3690,
     "21:00": 3354,
     "22:00": 3596,
