@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-07T17:00:07",
+  "generated_at": "2026-11-07T18:00:07",
   "export_days": 365,
-  "total_detections": 513069,
+  "total_detections": 513389,
   "unique_species": 170,
   "average_confidence": 0.8748,
   "classes": {
     "Amphibian": 464,
-    "Bird": 356662,
+    "Bird": 356981,
     "Insect": 132551,
     "Mammal": 23115,
-    "Unknown": 277
+    "Unknown": 278
   },
   "devices": {
-    "birdnetpi-b687": 513069
+    "birdnetpi-b687": 513389
   },
   "top_species": [
     {
@@ -29,23 +29,23 @@
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 35908
+      "count": 35937
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 29789
+      "count": 29795
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 21884
-    },
-    {
-      "species": "Brown Gerygone",
-      "count": 18941
+      "count": 21887
     },
     {
       "species": "Olive-backed Oriole",
-      "count": 18941
+      "count": 19037
+    },
+    {
+      "species": "Brown Gerygone",
+      "count": 18968
     },
     {
       "species": "Pumps",
@@ -69,7 +69,7 @@
     },
     {
       "species": "Australasian Figbird",
-      "count": 9860
+      "count": 9900
     },
     {
       "species": "Fan-tailed Cuckoo",
@@ -85,7 +85,7 @@
     },
     {
       "species": "Sacred Kingfisher",
-      "count": 5770
+      "count": 5806
     },
     {
       "species": "Golden Whistler",
@@ -113,8 +113,8 @@
     "13:00": 38506,
     "14:00": 36775,
     "15:00": 34607,
-    "16:00": 28300,
-    "17:00": 14304,
+    "16:00": 28301,
+    "17:00": 14623,
     "18:00": 6670,
     "19:00": 7433,
     "20:00": 3690,
