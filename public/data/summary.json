@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-11-07T19:00:08",
+  "generated_at": "2026-11-07T20:00:08",
   "export_days": 365,
-  "total_detections": 513763,
+  "total_detections": 513938,
   "unique_species": 170,
   "average_confidence": 0.8749,
   "classes": {
     "Amphibian": 464,
-    "Bird": 357355,
-    "Insect": 132551,
+    "Bird": 357493,
+    "Insect": 132587,
     "Mammal": 23115,
-    "Unknown": 278
+    "Unknown": 279
   },
   "devices": {
-    "birdnetpi-b687": 513763
+    "birdnetpi-b687": 513938
   },
   "top_species": [
     {
       "species": "Noisy Friarbird",
-      "count": 111161
+      "count": 111162
     },
     {
       "species": "Black Prince",
@@ -29,23 +29,23 @@
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 35943
+      "count": 35944
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 29809
+      "count": 29827
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 21897
+      "count": 21904
     },
     {
       "species": "Olive-backed Oriole",
-      "count": 19111
+      "count": 19116
     },
     {
       "species": "Brown Gerygone",
-      "count": 18979
+      "count": 18980
     },
     {
       "species": "Pumps",
@@ -85,7 +85,7 @@
     },
     {
       "species": "Sacred Kingfisher",
-      "count": 5831
+      "count": 5834
     },
     {
       "species": "Golden Whistler",
@@ -115,8 +115,8 @@
     "15:00": 34607,
     "16:00": 28301,
     "17:00": 14626,
-    "18:00": 7041,
-    "19:00": 7433,
+    "18:00": 7043,
+    "19:00": 7606,
     "20:00": 3690,
     "21:00": 3355,
     "22:00": 3602,
