@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-11-08T11:00:06",
+  "generated_at": "2026-11-08T12:00:06",
   "export_days": 365,
-  "total_detections": 515726,
+  "total_detections": 515997,
   "unique_species": 170,
   "average_confidence": 0.875,
   "classes": {
-    "Amphibian": 464,
-    "Bird": 359275,
-    "Insect": 132587,
+    "Amphibian": 465,
+    "Bird": 359544,
+    "Insect": 132588,
     "Mammal": 23115,
     "Unknown": 285
   },
   "devices": {
-    "birdnetpi-b687": 515726
+    "birdnetpi-b687": 515997
   },
   "top_species": [
     {
       "species": "Noisy Friarbird",
-      "count": 111164
+      "count": 111165
     },
     {
       "species": "Black Prince",
@@ -29,23 +29,23 @@
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 35979
+      "count": 35984
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 29940
+      "count": 29948
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 21953
+      "count": 21957
     },
     {
       "species": "Olive-backed Oriole",
-      "count": 19457
+      "count": 19598
     },
     {
       "species": "Brown Gerygone",
-      "count": 19206
+      "count": 19272
     },
     {
       "species": "Pumps",
@@ -65,11 +65,11 @@
     },
     {
       "species": "Australasian Figbird",
-      "count": 10094
+      "count": 10113
     },
     {
       "species": "Rufous Whistler",
-      "count": 9929
+      "count": 9930
     },
     {
       "species": "Fan-tailed Cuckoo",
@@ -108,7 +108,7 @@
     "08:00": 31632,
     "09:00": 37788,
     "10:00": 41593,
-    "11:00": 41974,
+    "11:00": 42245,
     "12:00": 39322,
     "13:00": 38506,
     "14:00": 36775,
