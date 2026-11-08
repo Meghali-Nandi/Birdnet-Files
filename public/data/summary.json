@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-08T17:00:12",
+  "generated_at": "2026-11-08T18:00:13",
   "export_days": 365,
-  "total_detections": 516553,
+  "total_detections": 516829,
   "unique_species": 170,
-  "average_confidence": 0.875,
+  "average_confidence": 0.8751,
   "classes": {
     "Amphibian": 465,
-    "Bird": 360098,
+    "Bird": 360374,
     "Insect": 132588,
     "Mammal": 23115,
     "Unknown": 287
   },
   "devices": {
-    "birdnetpi-b687": 516553
+    "birdnetpi-b687": 516829
   },
   "top_species": [
     {
@@ -33,19 +33,19 @@
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 29992
+      "count": 29994
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 21973
+      "count": 21977
     },
     {
       "species": "Olive-backed Oriole",
-      "count": 19804
+      "count": 19873
     },
     {
       "species": "Brown Gerygone",
-      "count": 19342
+      "count": 19349
     },
     {
       "species": "Pumps",
@@ -65,7 +65,7 @@
     },
     {
       "species": "Australasian Figbird",
-      "count": 10118
+      "count": 10140
     },
     {
       "species": "Rufous Whistler",
@@ -81,7 +81,7 @@
     },
     {
       "species": "Sacred Kingfisher",
-      "count": 6321
+      "count": 6484
     },
     {
       "species": "Gray Shrikethrush",
@@ -114,7 +114,7 @@
     "14:00": 36945,
     "15:00": 34788,
     "16:00": 28319,
-    "17:00": 14626,
+    "17:00": 14902,
     "18:00": 7043,
     "19:00": 7606,
     "20:00": 3690,
