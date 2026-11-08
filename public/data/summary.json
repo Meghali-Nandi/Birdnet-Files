@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-11-08T10:00:06",
+  "generated_at": "2026-11-08T11:00:06",
   "export_days": 365,
-  "total_detections": 515412,
+  "total_detections": 515726,
   "unique_species": 170,
-  "average_confidence": 0.8749,
+  "average_confidence": 0.875,
   "classes": {
     "Amphibian": 464,
-    "Bird": 358964,
+    "Bird": 359275,
     "Insect": 132587,
     "Mammal": 23115,
-    "Unknown": 282
+    "Unknown": 285
   },
   "devices": {
-    "birdnetpi-b687": 515412
+    "birdnetpi-b687": 515726
   },
   "top_species": [
     {
       "species": "Noisy Friarbird",
-      "count": 111162
+      "count": 111164
     },
     {
       "species": "Black Prince",
@@ -29,23 +29,23 @@
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 35973
+      "count": 35979
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 29936
+      "count": 29940
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 21949
+      "count": 21953
     },
     {
       "species": "Olive-backed Oriole",
-      "count": 19316
+      "count": 19457
     },
     {
       "species": "Brown Gerygone",
-      "count": 19146
+      "count": 19206
     },
     {
       "species": "Pumps",
@@ -65,7 +65,7 @@
     },
     {
       "species": "Australasian Figbird",
-      "count": 10079
+      "count": 10094
     },
     {
       "species": "Rufous Whistler",
@@ -81,7 +81,7 @@
     },
     {
       "species": "Sacred Kingfisher",
-      "count": 6172
+      "count": 6208
     },
     {
       "species": "Gray Shrikethrush",
@@ -107,7 +107,7 @@
     "07:00": 27148,
     "08:00": 31632,
     "09:00": 37788,
-    "10:00": 41279,
+    "10:00": 41593,
     "11:00": 41974,
     "12:00": 39322,
     "13:00": 38506,
