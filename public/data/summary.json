@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-08T16:00:11",
+  "generated_at": "2026-11-08T17:00:12",
   "export_days": 365,
-  "total_detections": 516533,
+  "total_detections": 516553,
   "unique_species": 170,
   "average_confidence": 0.875,
   "classes": {
     "Amphibian": 465,
-    "Bird": 360078,
+    "Bird": 360098,
     "Insect": 132588,
     "Mammal": 23115,
     "Unknown": 287
   },
   "devices": {
-    "birdnetpi-b687": 516533
+    "birdnetpi-b687": 516553
   },
   "top_species": [
     {
@@ -37,11 +37,11 @@
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 21970
+      "count": 21973
     },
     {
       "species": "Olive-backed Oriole",
-      "count": 19802
+      "count": 19804
     },
     {
       "species": "Brown Gerygone",
@@ -81,7 +81,7 @@
     },
     {
       "species": "Sacred Kingfisher",
-      "count": 6315
+      "count": 6321
     },
     {
       "species": "Gray Shrikethrush",
@@ -112,8 +112,8 @@
     "12:00": 39475,
     "13:00": 38540,
     "14:00": 36945,
-    "15:00": 34786,
-    "16:00": 28301,
+    "15:00": 34788,
+    "16:00": 28319,
     "17:00": 14626,
     "18:00": 7043,
     "19:00": 7606,
