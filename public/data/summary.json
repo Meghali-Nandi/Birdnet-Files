@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-08T13:00:07",
+  "generated_at": "2026-11-08T14:00:07",
   "export_days": 365,
-  "total_detections": 516150,
+  "total_detections": 516184,
   "unique_species": 170,
   "average_confidence": 0.875,
   "classes": {
     "Amphibian": 465,
-    "Bird": 359695,
+    "Bird": 359729,
     "Insect": 132588,
     "Mammal": 23115,
     "Unknown": 287
   },
   "devices": {
-    "birdnetpi-b687": 516150
+    "birdnetpi-b687": 516184
   },
   "top_species": [
     {
@@ -33,19 +33,19 @@
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 29973
+      "count": 29983
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 21958
+      "count": 21967
     },
     {
       "species": "Olive-backed Oriole",
-      "count": 19650
+      "count": 19655
     },
     {
       "species": "Brown Gerygone",
-      "count": 19306
+      "count": 19310
     },
     {
       "species": "Pumps",
@@ -110,7 +110,7 @@
     "10:00": 41593,
     "11:00": 42245,
     "12:00": 39475,
-    "13:00": 38506,
+    "13:00": 38540,
     "14:00": 36775,
     "15:00": 34607,
     "16:00": 28301,
