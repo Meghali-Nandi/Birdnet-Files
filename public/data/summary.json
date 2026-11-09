@@ -1,125 +1,124 @@
 {
-  "generated_at": "2026-11-09T12:00:10",
+  "generated_at": "2026-11-09T14:00:01",
   "export_days": 365,
-  "total_detections": 518724,
-  "unique_species": 170,
-  "average_confidence": 0.8751,
+  "total_detections": 11687,
+  "unique_species": 53,
+  "average_confidence": 0.9018,
   "classes": {
-    "Amphibian": 466,
-    "Bird": 362266,
-    "Insect": 132588,
-    "Mammal": 23115,
-    "Unknown": 289
+    "Amphibian": 2,
+    "Bird": 11502,
+    "Insect": 43,
+    "Unknown": 140
   },
   "devices": {
-    "birdnetpi-b687": 518724
+    "birdnetpi-b687": 11687
   },
   "top_species": [
     {
-      "species": "Noisy Friarbird",
-      "count": 111165
-    },
-    {
-      "species": "Black Prince",
-      "count": 77071
-    },
-    {
-      "species": "Black Field Cricket",
-      "count": 39251
-    },
-    {
-      "species": "White-throated Treecreeper",
-      "count": 36133
-    },
-    {
-      "species": "Eastern Yellow Robin",
-      "count": 30162
-    },
-    {
-      "species": "Lewin's Honeyeater",
-      "count": 22027
-    },
-    {
       "species": "Olive-backed Oriole",
-      "count": 20516
+      "count": 2734
     },
     {
-      "species": "Brown Gerygone",
-      "count": 19603
-    },
-    {
-      "species": "Pumps",
-      "count": 17319
-    },
-    {
-      "species": "Scarlet Myzomela",
-      "count": 16320
-    },
-    {
-      "species": "Rainbow Lorikeet",
-      "count": 14960
-    },
-    {
-      "species": "Willie-wagtail",
-      "count": 11197
-    },
-    {
-      "species": "Australasian Figbird",
-      "count": 10300
-    },
-    {
-      "species": "Rufous Whistler",
-      "count": 9942
-    },
-    {
-      "species": "Fan-tailed Cuckoo",
-      "count": 8374
-    },
-    {
-      "species": "Razor Grinder",
-      "count": 6945
+      "species": "Willie Wagtail",
+      "count": 1858
     },
     {
       "species": "Sacred Kingfisher",
-      "count": 6689
+      "count": 1690
     },
     {
-      "species": "Gray Shrikethrush",
-      "count": 6048
+      "species": "Brown Gerygone",
+      "count": 1169
     },
     {
-      "species": "Golden Whistler",
-      "count": 5255
+      "species": "Eastern Yellow Robin",
+      "count": 1081
     },
     {
-      "species": "Mimicking Snout-nose",
-      "count": 5066
+      "species": "Australasian Figbird",
+      "count": 941
+    },
+    {
+      "species": "Scarlet Honeyeater",
+      "count": 549
+    },
+    {
+      "species": "White-throated Treecreeper",
+      "count": 421
+    },
+    {
+      "species": "Grey Shrikethrush",
+      "count": 294
+    },
+    {
+      "species": "Lewin's Honeyeater",
+      "count": 291
+    },
+    {
+      "species": "Grey Fantail",
+      "count": 117
+    },
+    {
+      "species": "Sahul Brush Cuckoo",
+      "count": 110
+    },
+    {
+      "species": "Eastern Whipbird",
+      "count": 98
+    },
+    {
+      "species": "White-throated Gerygone",
+      "count": 77
+    },
+    {
+      "species": "Bar-shouldered Dove",
+      "count": 64
+    },
+    {
+      "species": "Green Grocer",
+      "count": 36
+    },
+    {
+      "species": "Rufous Whistler",
+      "count": 15
+    },
+    {
+      "species": "Black-faced Monarch",
+      "count": 12
+    },
+    {
+      "species": "Black-faced Cuckooshrike",
+      "count": 12
+    },
+    {
+      "species": "Large-billed Scrubwren",
+      "count": 11
     }
   ],
   "hourly_counts": {
-    "00:00": 5056,
-    "01:00": 6743,
-    "02:00": 7788,
-    "03:00": 10321,
-    "04:00": 12107,
-    "05:00": 35215,
-    "06:00": 37793,
-    "07:00": 27372,
-    "08:00": 31854,
-    "09:00": 37998,
-    "10:00": 41947,
-    "11:00": 42600,
-    "12:00": 39475,
-    "13:00": 38540,
-    "14:00": 36945,
-    "15:00": 34788,
-    "16:00": 28319,
-    "17:00": 14902,
-    "18:00": 7126,
-    "19:00": 7692,
-    "20:00": 3690,
-    "21:00": 3355,
-    "22:00": 3602,
-    "23:00": 3496
+    "00:00": 0,
+    "01:00": 0,
+    "02:00": 0,
+    "03:00": 0,
+    "04:00": 28,
+    "05:00": 811,
+    "06:00": 809,
+    "07:00": 759,
+    "08:00": 884,
+    "09:00": 771,
+    "10:00": 1106,
+    "11:00": 1331,
+    "12:00": 620,
+    "13:00": 792,
+    "14:00": 604,
+    "15:00": 542,
+    "16:00": 382,
+    "17:00": 914,
+    "18:00": 772,
+    "19:00": 553,
+    "20:00": 0,
+    "21:00": 1,
+    "22:00": 6,
+    "23:00": 2
   }
 }
