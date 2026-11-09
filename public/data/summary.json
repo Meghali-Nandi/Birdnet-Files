@@ -1,54 +1,54 @@
 {
-  "generated_at": "2026-11-09T19:00:01",
+  "generated_at": "2026-11-09T20:00:01",
   "export_days": 365,
-  "total_detections": 13006,
+  "total_detections": 13160,
   "unique_species": 57,
-  "average_confidence": 0.9006,
+  "average_confidence": 0.9007,
   "classes": {
     "Amphibian": 2,
-    "Bird": 12815,
+    "Bird": 12969,
     "Insect": 45,
     "Unknown": 144
   },
   "devices": {
-    "birdnetpi-b687": 13006
+    "birdnetpi-b687": 13160
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 2872
+      "count": 2895
     },
     {
       "species": "Willie Wagtail",
-      "count": 1858
+      "count": 1860
     },
     {
       "species": "Sacred Kingfisher",
-      "count": 1852
+      "count": 1854
     },
     {
       "species": "Brown Gerygone",
-      "count": 1510
+      "count": 1531
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 1346
+      "count": 1367
     },
     {
       "species": "Australasian Figbird",
-      "count": 1050
+      "count": 1113
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 706
+      "count": 712
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 451
+      "count": 459
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 330
+      "count": 334
     },
     {
       "species": "Grey Shrikethrush",
@@ -64,11 +64,11 @@
     },
     {
       "species": "Eastern Whipbird",
-      "count": 99
+      "count": 101
     },
     {
       "species": "White-throated Gerygone",
-      "count": 87
+      "count": 89
     },
     {
       "species": "Bar-shouldered Dove",
@@ -114,8 +114,8 @@
     "15:00": 831,
     "16:00": 669,
     "17:00": 1258,
-    "18:00": 963,
-    "19:00": 553,
+    "18:00": 964,
+    "19:00": 706,
     "20:00": 0,
     "21:00": 1,
     "22:00": 6,
