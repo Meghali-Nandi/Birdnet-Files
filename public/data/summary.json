@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-11-09T16:00:02",
+  "generated_at": "2026-11-09T17:00:00",
   "export_days": 365,
-  "total_detections": 12181,
-  "unique_species": 54,
-  "average_confidence": 0.901,
+  "total_detections": 12471,
+  "unique_species": 55,
+  "average_confidence": 0.9009,
   "classes": {
     "Amphibian": 2,
-    "Bird": 11995,
-    "Insect": 43,
-    "Unknown": 141
+    "Bird": 12282,
+    "Insect": 45,
+    "Unknown": 142
   },
   "devices": {
-    "birdnetpi-b687": 12181
+    "birdnetpi-b687": 12471
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 2805
+      "count": 2833
     },
     {
       "species": "Willie Wagtail",
@@ -24,31 +24,31 @@
     },
     {
       "species": "Sacred Kingfisher",
-      "count": 1717
+      "count": 1786
     },
     {
       "species": "Brown Gerygone",
-      "count": 1263
+      "count": 1313
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 1225
+      "count": 1252
     },
     {
       "species": "Australasian Figbird",
-      "count": 999
+      "count": 1024
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 591
+      "count": 655
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 437
+      "count": 441
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 304
+      "count": 313
     },
     {
       "species": "Grey Shrikethrush",
@@ -56,7 +56,7 @@
     },
     {
       "species": "Grey Fantail",
-      "count": 122
+      "count": 124
     },
     {
       "species": "Sahul Brush Cuckoo",
@@ -68,7 +68,7 @@
     },
     {
       "species": "White-throated Gerygone",
-      "count": 81
+      "count": 84
     },
     {
       "species": "Bar-shouldered Dove",
@@ -83,15 +83,15 @@
       "count": 27
     },
     {
-      "species": "Black-faced Monarch",
-      "count": 12
-    },
-    {
-      "species": "Black-faced Cuckooshrike",
-      "count": 12
+      "species": "Superb Fairywren",
+      "count": 15
     },
     {
       "species": "Large-billed Scrubwren",
+      "count": 13
+    },
+    {
+      "species": "Black-faced Monarch",
       "count": 12
     }
   ],
@@ -111,8 +111,8 @@
     "12:00": 620,
     "13:00": 792,
     "14:00": 812,
-    "15:00": 828,
-    "16:00": 382,
+    "15:00": 831,
+    "16:00": 669,
     "17:00": 914,
     "18:00": 772,
     "19:00": 553,
