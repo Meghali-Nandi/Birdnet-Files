@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-10T05:00:02",
+  "generated_at": "2026-11-10T06:00:00",
   "export_days": 365,
-  "total_detections": 13178,
+  "total_detections": 13560,
   "unique_species": 57,
-  "average_confidence": 0.9006,
+  "average_confidence": 0.901,
   "classes": {
     "Amphibian": 2,
-    "Bird": 12987,
+    "Bird": 13369,
     "Insect": 45,
     "Unknown": 144
   },
   "devices": {
-    "birdnetpi-b687": 13178
+    "birdnetpi-b687": 13560
   },
   "top_species": [
     {
@@ -19,24 +19,24 @@
       "count": 2895
     },
     {
+      "species": "Sacred Kingfisher",
+      "count": 1872
+    },
+    {
       "species": "Willie Wagtail",
       "count": 1860
     },
     {
-      "species": "Sacred Kingfisher",
-      "count": 1854
-    },
-    {
       "species": "Brown Gerygone",
-      "count": 1531
+      "count": 1536
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 1385
+      "count": 1534
     },
     {
       "species": "Australasian Figbird",
-      "count": 1113
+      "count": 1291
     },
     {
       "species": "Scarlet Honeyeater",
@@ -44,7 +44,7 @@
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 459
+      "count": 491
     },
     {
       "species": "Lewin's Honeyeater",
@@ -100,8 +100,8 @@
     "01:00": 0,
     "02:00": 0,
     "03:00": 0,
-    "04:00": 46,
-    "05:00": 811,
+    "04:00": 48,
+    "05:00": 1191,
     "06:00": 809,
     "07:00": 759,
     "08:00": 884,
