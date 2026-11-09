@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-11-09T15:00:01",
+  "generated_at": "2026-11-09T16:00:02",
   "export_days": 365,
-  "total_detections": 11895,
-  "unique_species": 53,
-  "average_confidence": 0.9014,
+  "total_detections": 12181,
+  "unique_species": 54,
+  "average_confidence": 0.901,
   "classes": {
     "Amphibian": 2,
-    "Bird": 11710,
+    "Bird": 11995,
     "Insect": 43,
-    "Unknown": 140
+    "Unknown": 141
   },
   "devices": {
-    "birdnetpi-b687": 11895
+    "birdnetpi-b687": 12181
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 2750
+      "count": 2805
     },
     {
       "species": "Willie Wagtail",
@@ -24,31 +24,31 @@
     },
     {
       "species": "Sacred Kingfisher",
-      "count": 1690
+      "count": 1717
     },
     {
       "species": "Brown Gerygone",
-      "count": 1201
+      "count": 1263
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 1188
+      "count": 1225
     },
     {
       "species": "Australasian Figbird",
-      "count": 944
+      "count": 999
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 569
+      "count": 591
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 423
+      "count": 437
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 298
+      "count": 304
     },
     {
       "species": "Grey Shrikethrush",
@@ -56,7 +56,7 @@
     },
     {
       "species": "Grey Fantail",
-      "count": 121
+      "count": 122
     },
     {
       "species": "Sahul Brush Cuckoo",
@@ -80,7 +80,7 @@
     },
     {
       "species": "Rufous Whistler",
-      "count": 24
+      "count": 27
     },
     {
       "species": "Black-faced Monarch",
@@ -92,7 +92,7 @@
     },
     {
       "species": "Large-billed Scrubwren",
-      "count": 11
+      "count": 12
     }
   ],
   "hourly_counts": {
@@ -111,7 +111,7 @@
     "12:00": 620,
     "13:00": 792,
     "14:00": 812,
-    "15:00": 542,
+    "15:00": 828,
     "16:00": 382,
     "17:00": 914,
     "18:00": 772,
