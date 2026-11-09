@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-10T04:00:01",
+  "generated_at": "2026-11-10T05:00:02",
   "export_days": 365,
-  "total_detections": 13160,
+  "total_detections": 13178,
   "unique_species": 57,
-  "average_confidence": 0.9007,
+  "average_confidence": 0.9006,
   "classes": {
     "Amphibian": 2,
-    "Bird": 12969,
+    "Bird": 12987,
     "Insect": 45,
     "Unknown": 144
   },
   "devices": {
-    "birdnetpi-b687": 13160
+    "birdnetpi-b687": 13178
   },
   "top_species": [
     {
@@ -32,7 +32,7 @@
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 1367
+      "count": 1385
     },
     {
       "species": "Australasian Figbird",
@@ -100,7 +100,7 @@
     "01:00": 0,
     "02:00": 0,
     "03:00": 0,
-    "04:00": 28,
+    "04:00": 46,
     "05:00": 811,
     "06:00": 809,
     "07:00": 759,
