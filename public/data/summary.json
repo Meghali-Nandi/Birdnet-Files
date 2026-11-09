@@ -1,66 +1,66 @@
 {
-  "generated_at": "2026-11-10T07:00:02",
+  "generated_at": "2026-11-10T08:00:00",
   "export_days": 365,
-  "total_detections": 13813,
-  "unique_species": 57,
-  "average_confidence": 0.9006,
+  "total_detections": 14119,
+  "unique_species": 58,
+  "average_confidence": 0.9008,
   "classes": {
     "Amphibian": 2,
-    "Bird": 13622,
+    "Bird": 13923,
     "Insect": 45,
-    "Unknown": 144
+    "Unknown": 149
   },
   "devices": {
-    "birdnetpi-b687": 13813
+    "birdnetpi-b687": 14119
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 2944
+      "count": 3025
     },
     {
       "species": "Sacred Kingfisher",
-      "count": 1921
+      "count": 1943
     },
     {
       "species": "Willie Wagtail",
-      "count": 1860
+      "count": 1866
     },
     {
       "species": "Brown Gerygone",
-      "count": 1548
+      "count": 1613
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 1547
+      "count": 1561
     },
     {
       "species": "Australasian Figbird",
-      "count": 1298
+      "count": 1327
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 728
+      "count": 746
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 503
+      "count": 507
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 336
+      "count": 343
     },
     {
       "species": "Grey Shrikethrush",
       "count": 294
     },
     {
-      "species": "Grey Fantail",
-      "count": 140
+      "species": "Eastern Whipbird",
+      "count": 168
     },
     {
-      "species": "Eastern Whipbird",
-      "count": 128
+      "species": "Grey Fantail",
+      "count": 151
     },
     {
       "species": "Sahul Brush Cuckoo",
@@ -102,8 +102,8 @@
     "03:00": 0,
     "04:00": 48,
     "05:00": 1191,
-    "06:00": 1062,
-    "07:00": 759,
+    "06:00": 1065,
+    "07:00": 1062,
     "08:00": 884,
     "09:00": 771,
     "10:00": 1106,
