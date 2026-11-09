@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-11-09T18:00:03",
+  "generated_at": "2026-11-09T19:00:01",
   "export_days": 365,
-  "total_detections": 12810,
-  "unique_species": 56,
-  "average_confidence": 0.901,
+  "total_detections": 13006,
+  "unique_species": 57,
+  "average_confidence": 0.9006,
   "classes": {
     "Amphibian": 2,
-    "Bird": 12619,
+    "Bird": 12815,
     "Insect": 45,
     "Unknown": 144
   },
   "devices": {
-    "birdnetpi-b687": 12810
+    "birdnetpi-b687": 13006
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 2856
+      "count": 2872
     },
     {
       "species": "Willie Wagtail",
@@ -24,31 +24,31 @@
     },
     {
       "species": "Sacred Kingfisher",
-      "count": 1843
+      "count": 1852
     },
     {
       "species": "Brown Gerygone",
-      "count": 1466
+      "count": 1510
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 1309
+      "count": 1346
     },
     {
       "species": "Australasian Figbird",
-      "count": 1028
+      "count": 1050
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 666
+      "count": 706
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 448
+      "count": 451
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 323
+      "count": 330
     },
     {
       "species": "Grey Shrikethrush",
@@ -56,7 +56,7 @@
     },
     {
       "species": "Grey Fantail",
-      "count": 127
+      "count": 134
     },
     {
       "species": "Sahul Brush Cuckoo",
@@ -64,7 +64,7 @@
     },
     {
       "species": "Eastern Whipbird",
-      "count": 98
+      "count": 99
     },
     {
       "species": "White-throated Gerygone",
@@ -80,7 +80,7 @@
     },
     {
       "species": "Rufous Whistler",
-      "count": 33
+      "count": 35
     },
     {
       "species": "Large-billed Scrubwren",
@@ -92,7 +92,7 @@
     },
     {
       "species": "Black-faced Monarch",
-      "count": 12
+      "count": 13
     }
   ],
   "hourly_counts": {
@@ -113,8 +113,8 @@
     "14:00": 812,
     "15:00": 831,
     "16:00": 669,
-    "17:00": 1253,
-    "18:00": 772,
+    "17:00": 1258,
+    "18:00": 963,
     "19:00": 553,
     "20:00": 0,
     "21:00": 1,
