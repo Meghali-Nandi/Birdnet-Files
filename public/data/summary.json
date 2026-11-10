@@ -1,66 +1,66 @@
 {
-  "generated_at": "2026-11-10T11:00:01",
+  "generated_at": "2026-11-10T12:00:00",
   "export_days": 365,
-  "total_detections": 14862,
+  "total_detections": 15184,
   "unique_species": 58,
-  "average_confidence": 0.8998,
+  "average_confidence": 0.8995,
   "classes": {
     "Amphibian": 2,
-    "Bird": 14661,
-    "Insect": 45,
+    "Bird": 14981,
+    "Insect": 47,
     "Unknown": 154
   },
   "devices": {
-    "birdnetpi-b687": 14862
+    "birdnetpi-b687": 15184
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 3142
-    },
-    {
-      "species": "Sacred Kingfisher",
-      "count": 2020
+      "count": 3182
     },
     {
       "species": "Willie Wagtail",
-      "count": 1985
+      "count": 2045
+    },
+    {
+      "species": "Sacred Kingfisher",
+      "count": 2030
     },
     {
       "species": "Brown Gerygone",
-      "count": 1724
+      "count": 1841
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 1583
+      "count": 1626
     },
     {
       "species": "Australasian Figbird",
-      "count": 1445
+      "count": 1447
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 810
+      "count": 814
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 541
+      "count": 549
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 369
+      "count": 382
     },
     {
       "species": "Grey Shrikethrush",
       "count": 298
     },
     {
-      "species": "Grey Fantail",
-      "count": 177
+      "species": "Eastern Whipbird",
+      "count": 184
     },
     {
-      "species": "Eastern Whipbird",
-      "count": 170
+      "species": "Grey Fantail",
+      "count": 180
     },
     {
       "species": "Sahul Brush Cuckoo",
@@ -68,7 +68,7 @@
     },
     {
       "species": "White-throated Gerygone",
-      "count": 89
+      "count": 91
     },
     {
       "species": "Bar-shouldered Dove",
@@ -88,11 +88,11 @@
     },
     {
       "species": "Golden Whistler",
-      "count": 15
+      "count": 16
     },
     {
-      "species": "Large-billed Scrubwren",
-      "count": 15
+      "species": "Laughing Kookaburra",
+      "count": 16
     }
   ],
   "hourly_counts": {
@@ -106,8 +106,8 @@
     "07:00": 1062,
     "08:00": 1124,
     "09:00": 981,
-    "10:00": 1399,
-    "11:00": 1331,
+    "10:00": 1400,
+    "11:00": 1652,
     "12:00": 620,
     "13:00": 792,
     "14:00": 812,
