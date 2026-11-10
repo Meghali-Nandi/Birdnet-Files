@@ -1,66 +1,66 @@
 {
-  "generated_at": "2026-11-10T13:00:01",
+  "generated_at": "2026-11-10T14:00:00",
   "export_days": 365,
-  "total_detections": 15709,
+  "total_detections": 16105,
   "unique_species": 58,
-  "average_confidence": 0.8992,
+  "average_confidence": 0.899,
   "classes": {
     "Amphibian": 2,
-    "Bird": 15506,
-    "Insect": 47,
+    "Bird": 15901,
+    "Insect": 48,
     "Unknown": 154
   },
   "devices": {
-    "birdnetpi-b687": 15709
+    "birdnetpi-b687": 16105
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 3293
-    },
-    {
-      "species": "Willie Wagtail",
-      "count": 2059
-    },
-    {
-      "species": "Sacred Kingfisher",
-      "count": 2043
+      "count": 3386
     },
     {
       "species": "Brown Gerygone",
-      "count": 1990
+      "count": 2104
+    },
+    {
+      "species": "Sacred Kingfisher",
+      "count": 2089
+    },
+    {
+      "species": "Willie Wagtail",
+      "count": 2067
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 1660
+      "count": 1689
     },
     {
       "species": "Australasian Figbird",
-      "count": 1473
+      "count": 1495
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 901
+      "count": 953
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 607
+      "count": 621
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 388
+      "count": 395
     },
     {
       "species": "Grey Shrikethrush",
       "count": 298
     },
     {
-      "species": "Eastern Whipbird",
-      "count": 191
+      "species": "Grey Fantail",
+      "count": 195
     },
     {
-      "species": "Grey Fantail",
-      "count": 188
+      "species": "Eastern Whipbird",
+      "count": 191
     },
     {
       "species": "Sahul Brush Cuckoo",
@@ -68,7 +68,7 @@
     },
     {
       "species": "White-throated Gerygone",
-      "count": 91
+      "count": 92
     },
     {
       "species": "Bar-shouldered Dove",
@@ -108,8 +108,8 @@
     "09:00": 981,
     "10:00": 1400,
     "11:00": 1653,
-    "12:00": 1144,
-    "13:00": 792,
+    "12:00": 1145,
+    "13:00": 1187,
     "14:00": 812,
     "15:00": 831,
     "16:00": 669,
