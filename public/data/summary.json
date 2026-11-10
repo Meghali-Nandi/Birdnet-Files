@@ -1,54 +1,54 @@
 {
-  "generated_at": "2026-11-10T17:00:01",
+  "generated_at": "2026-11-10T18:00:03",
   "export_days": 365,
-  "total_detections": 16936,
+  "total_detections": 17276,
   "unique_species": 59,
-  "average_confidence": 0.8986,
+  "average_confidence": 0.8983,
   "classes": {
     "Amphibian": 2,
-    "Bird": 16697,
-    "Insect": 82,
+    "Bird": 16987,
+    "Insect": 132,
     "Unknown": 155
   },
   "devices": {
-    "birdnetpi-b687": 16936
+    "birdnetpi-b687": 17276
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 3547
+      "count": 3642
     },
     {
       "species": "Brown Gerygone",
-      "count": 2271
+      "count": 2284
     },
     {
       "species": "Sacred Kingfisher",
-      "count": 2170
+      "count": 2194
     },
     {
       "species": "Willie Wagtail",
-      "count": 2086
+      "count": 2098
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 1782
+      "count": 1839
     },
     {
       "species": "Australasian Figbird",
-      "count": 1517
+      "count": 1521
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 1047
+      "count": 1087
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 686
+      "count": 690
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 418
+      "count": 425
     },
     {
       "species": "Grey Shrikethrush",
@@ -56,7 +56,7 @@
     },
     {
       "species": "Grey Fantail",
-      "count": 211
+      "count": 222
     },
     {
       "species": "Eastern Whipbird",
@@ -68,7 +68,11 @@
     },
     {
       "species": "White-throated Gerygone",
-      "count": 94
+      "count": 95
+    },
+    {
+      "species": "Paperbark Cicada",
+      "count": 93
     },
     {
       "species": "Bar-shouldered Dove",
@@ -83,15 +87,11 @@
       "count": 60
     },
     {
-      "species": "Paperbark Cicada",
-      "count": 43
-    },
-    {
       "species": "Green Grocer",
       "count": 36
     },
     {
-      "species": "Spotted Pardalote",
+      "species": "Golden Whistler",
       "count": 35
     }
   ],
@@ -113,7 +113,7 @@
     "14:00": 1181,
     "15:00": 1091,
     "16:00": 869,
-    "17:00": 1258,
+    "17:00": 1598,
     "18:00": 964,
     "19:00": 706,
     "20:00": 0,
