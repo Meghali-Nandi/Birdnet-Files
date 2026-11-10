@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-10T20:00:02",
+  "generated_at": "2026-11-10T21:00:01",
   "export_days": 365,
-  "total_detections": 17857,
+  "total_detections": 17899,
   "unique_species": 59,
-  "average_confidence": 0.8974,
+  "average_confidence": 0.8973,
   "classes": {
     "Amphibian": 2,
     "Bird": 17411,
-    "Insect": 289,
+    "Insect": 331,
     "Unknown": 155
   },
   "devices": {
-    "birdnetpi-b687": 17857
+    "birdnetpi-b687": 17899
   },
   "top_species": [
     {
@@ -59,12 +59,12 @@
       "count": 225
     },
     {
-      "species": "Eastern Whipbird",
-      "count": 193
+      "species": "Green Grocer",
+      "count": 221
     },
     {
-      "species": "Green Grocer",
-      "count": 179
+      "species": "Eastern Whipbird",
+      "count": 193
     },
     {
       "species": "White-throated Gerygone",
@@ -115,8 +115,8 @@
     "16:00": 869,
     "17:00": 1599,
     "18:00": 1276,
-    "19:00": 974,
-    "20:00": 0,
+    "19:00": 977,
+    "20:00": 39,
     "21:00": 1,
     "22:00": 6,
     "23:00": 2
