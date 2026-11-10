@@ -1,30 +1,30 @@
 {
-  "generated_at": "2026-11-11T08:00:01",
+  "generated_at": "2026-11-11T10:00:02",
   "export_days": 365,
-  "total_detections": 18803,
-  "unique_species": 60,
-  "average_confidence": 0.8974,
+  "total_detections": 19274,
+  "unique_species": 61,
+  "average_confidence": 0.8969,
   "classes": {
     "Amphibian": 2,
-    "Bird": 18296,
-    "Insect": 332,
-    "Unknown": 173
+    "Bird": 18716,
+    "Insect": 357,
+    "Unknown": 199
   },
   "devices": {
-    "birdnetpi-b687": 18803
+    "birdnetpi-b687": 19274
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 4006
+      "count": 4085
     },
     {
       "species": "Brown Gerygone",
-      "count": 2313
+      "count": 2365
     },
     {
       "species": "Sacred Kingfisher",
-      "count": 2260
+      "count": 2277
     },
     {
       "species": "Willie Wagtail",
@@ -32,31 +32,31 @@
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 2010
+      "count": 2028
     },
     {
       "species": "Australasian Figbird",
-      "count": 1739
+      "count": 1821
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 1229
+      "count": 1299
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 854
+      "count": 860
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 465
+      "count": 480
     },
     {
       "species": "Grey Shrikethrush",
-      "count": 348
+      "count": 351
     },
     {
       "species": "Grey Fantail",
-      "count": 237
+      "count": 265
     },
     {
       "species": "Green Grocer",
@@ -64,19 +64,23 @@
     },
     {
       "species": "Eastern Whipbird",
-      "count": 193
-    },
-    {
-      "species": "White-throated Gerygone",
-      "count": 122
+      "count": 199
     },
     {
       "species": "Sahul Brush Cuckoo",
-      "count": 115
+      "count": 137
     },
     {
       "species": "Paperbark Cicada",
-      "count": 108
+      "count": 133
+    },
+    {
+      "species": "White-throated Gerygone",
+      "count": 127
+    },
+    {
+      "species": "Torresian Crow",
+      "count": 94
     },
     {
       "species": "Bar-shouldered Dove",
@@ -84,11 +88,7 @@
     },
     {
       "species": "Rufous Whistler",
-      "count": 62
-    },
-    {
-      "species": "Torresian Crow",
-      "count": 60
+      "count": 63
     },
     {
       "species": "Golden Whistler",
@@ -104,8 +104,8 @@
     "05:00": 1604,
     "06:00": 1295,
     "07:00": 1285,
-    "08:00": 1124,
-    "09:00": 981,
+    "08:00": 1388,
+    "09:00": 1188,
     "10:00": 1400,
     "11:00": 1653,
     "12:00": 1145,
