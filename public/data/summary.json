@@ -1,54 +1,54 @@
 {
-  "generated_at": "2026-11-10T12:00:00",
+  "generated_at": "2026-11-10T13:00:01",
   "export_days": 365,
-  "total_detections": 15184,
+  "total_detections": 15709,
   "unique_species": 58,
-  "average_confidence": 0.8995,
+  "average_confidence": 0.8992,
   "classes": {
     "Amphibian": 2,
-    "Bird": 14981,
+    "Bird": 15506,
     "Insect": 47,
     "Unknown": 154
   },
   "devices": {
-    "birdnetpi-b687": 15184
+    "birdnetpi-b687": 15709
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 3182
+      "count": 3293
     },
     {
       "species": "Willie Wagtail",
-      "count": 2045
+      "count": 2059
     },
     {
       "species": "Sacred Kingfisher",
-      "count": 2030
+      "count": 2043
     },
     {
       "species": "Brown Gerygone",
-      "count": 1841
+      "count": 1990
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 1626
+      "count": 1660
     },
     {
       "species": "Australasian Figbird",
-      "count": 1447
+      "count": 1473
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 814
+      "count": 901
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 549
+      "count": 607
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 382
+      "count": 388
     },
     {
       "species": "Grey Shrikethrush",
@@ -56,11 +56,11 @@
     },
     {
       "species": "Eastern Whipbird",
-      "count": 184
+      "count": 191
     },
     {
       "species": "Grey Fantail",
-      "count": 180
+      "count": 188
     },
     {
       "species": "Sahul Brush Cuckoo",
@@ -80,18 +80,18 @@
     },
     {
       "species": "Rufous Whistler",
-      "count": 41
+      "count": 45
     },
     {
       "species": "Green Grocer",
       "count": 36
     },
     {
-      "species": "Golden Whistler",
-      "count": 16
+      "species": "Laughing Kookaburra",
+      "count": 23
     },
     {
-      "species": "Laughing Kookaburra",
+      "species": "Golden Whistler",
       "count": 16
     }
   ],
@@ -107,8 +107,8 @@
     "08:00": 1124,
     "09:00": 981,
     "10:00": 1400,
-    "11:00": 1652,
-    "12:00": 620,
+    "11:00": 1653,
+    "12:00": 1144,
     "13:00": 792,
     "14:00": 812,
     "15:00": 831,
