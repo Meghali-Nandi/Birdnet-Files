@@ -1,35 +1,35 @@
 {
-  "generated_at": "2026-11-12T07:00:00",
+  "generated_at": "2026-11-12T08:00:01",
   "export_days": 365,
-  "total_detections": 22832,
+  "total_detections": 23159,
   "unique_species": 66,
-  "average_confidence": 0.8955,
+  "average_confidence": 0.8959,
   "classes": {
     "Amphibian": 2,
-    "Bird": 21767,
+    "Bird": 22094,
     "Insect": 787,
     "Mammal": 1,
     "Unknown": 275
   },
   "devices": {
-    "birdnetpi-b687": 22832
+    "birdnetpi-b687": 23159
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 4871
-    },
-    {
-      "species": "Brown Gerygone",
-      "count": 2598
+      "count": 4943
     },
     {
       "species": "Sacred Kingfisher",
-      "count": 2518
+      "count": 2657
+    },
+    {
+      "species": "Brown Gerygone",
+      "count": 2607
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 2395
+      "count": 2399
     },
     {
       "species": "Willie Wagtail",
@@ -37,7 +37,7 @@
     },
     {
       "species": "Australasian Figbird",
-      "count": 2101
+      "count": 2147
     },
     {
       "species": "Scarlet Honeyeater",
@@ -45,11 +45,11 @@
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 942
+      "count": 951
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 562
+      "count": 570
     },
     {
       "species": "Green Grocer",
@@ -57,11 +57,11 @@
     },
     {
       "species": "Grey Fantail",
-      "count": 478
+      "count": 483
     },
     {
       "species": "Grey Shrikethrush",
-      "count": 430
+      "count": 450
     },
     {
       "species": "Paperbark Cicada",
@@ -69,7 +69,7 @@
     },
     {
       "species": "Eastern Whipbird",
-      "count": 254
+      "count": 262
     },
     {
       "species": "Sahul Brush Cuckoo",
@@ -77,11 +77,11 @@
     },
     {
       "species": "White-throated Gerygone",
-      "count": 175
+      "count": 176
     },
     {
       "species": "Rufous Whistler",
-      "count": 104
+      "count": 107
     },
     {
       "species": "Torresian Crow",
@@ -93,7 +93,7 @@
     },
     {
       "species": "Golden Whistler",
-      "count": 56
+      "count": 57
     }
   ],
   "hourly_counts": {
@@ -103,8 +103,8 @@
     "03:00": 0,
     "04:00": 114,
     "05:00": 1797,
-    "06:00": 1612,
-    "07:00": 1285,
+    "06:00": 1615,
+    "07:00": 1609,
     "08:00": 1388,
     "09:00": 1188,
     "10:00": 1669,
