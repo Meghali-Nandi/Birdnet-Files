@@ -1,35 +1,35 @@
 {
-  "generated_at": "2026-11-12T08:00:01",
+  "generated_at": "2026-11-12T09:00:00",
   "export_days": 365,
-  "total_detections": 23159,
+  "total_detections": 23301,
   "unique_species": 66,
-  "average_confidence": 0.8959,
+  "average_confidence": 0.8958,
   "classes": {
-    "Amphibian": 2,
-    "Bird": 22094,
+    "Amphibian": 3,
+    "Bird": 22235,
     "Insect": 787,
     "Mammal": 1,
     "Unknown": 275
   },
   "devices": {
-    "birdnetpi-b687": 23159
+    "birdnetpi-b687": 23301
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 4943
+      "count": 5001
     },
     {
       "species": "Sacred Kingfisher",
-      "count": 2657
+      "count": 2660
     },
     {
       "species": "Brown Gerygone",
-      "count": 2607
+      "count": 2633
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 2399
+      "count": 2403
     },
     {
       "species": "Willie Wagtail",
@@ -37,11 +37,11 @@
     },
     {
       "species": "Australasian Figbird",
-      "count": 2147
+      "count": 2157
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 1581
+      "count": 1585
     },
     {
       "species": "White-throated Treecreeper",
@@ -49,15 +49,15 @@
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 570
+      "count": 578
+    },
+    {
+      "species": "Grey Fantail",
+      "count": 497
     },
     {
       "species": "Green Grocer",
       "count": 496
-    },
-    {
-      "species": "Grey Fantail",
-      "count": 483
     },
     {
       "species": "Grey Shrikethrush",
@@ -69,7 +69,7 @@
     },
     {
       "species": "Eastern Whipbird",
-      "count": 262
+      "count": 269
     },
     {
       "species": "Sahul Brush Cuckoo",
@@ -77,11 +77,11 @@
     },
     {
       "species": "White-throated Gerygone",
-      "count": 176
+      "count": 181
     },
     {
       "species": "Rufous Whistler",
-      "count": 107
+      "count": 108
     },
     {
       "species": "Torresian Crow",
@@ -104,8 +104,8 @@
     "04:00": 114,
     "05:00": 1797,
     "06:00": 1615,
-    "07:00": 1609,
-    "08:00": 1388,
+    "07:00": 1610,
+    "08:00": 1529,
     "09:00": 1188,
     "10:00": 1669,
     "11:00": 1966,
