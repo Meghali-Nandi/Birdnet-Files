@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-12T09:00:00",
+  "generated_at": "2026-11-12T10:00:01",
   "export_days": 365,
-  "total_detections": 23301,
-  "unique_species": 66,
+  "total_detections": 23305,
+  "unique_species": 67,
   "average_confidence": 0.8958,
   "classes": {
     "Amphibian": 3,
-    "Bird": 22235,
-    "Insect": 787,
+    "Bird": 22238,
+    "Insect": 788,
     "Mammal": 1,
     "Unknown": 275
   },
   "devices": {
-    "birdnetpi-b687": 23301
+    "birdnetpi-b687": 23305
   },
   "top_species": [
     {
@@ -37,11 +37,11 @@
     },
     {
       "species": "Australasian Figbird",
-      "count": 2157
+      "count": 2158
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 1585
+      "count": 1586
     },
     {
       "species": "White-throated Treecreeper",
@@ -53,7 +53,7 @@
     },
     {
       "species": "Grey Fantail",
-      "count": 497
+      "count": 498
     },
     {
       "species": "Green Grocer",
@@ -106,7 +106,7 @@
     "06:00": 1615,
     "07:00": 1610,
     "08:00": 1529,
-    "09:00": 1188,
+    "09:00": 1192,
     "10:00": 1669,
     "11:00": 1966,
     "12:00": 1510,
