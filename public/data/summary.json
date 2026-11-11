@@ -1,46 +1,46 @@
 {
-  "generated_at": "2026-11-11T18:00:06",
+  "generated_at": "2026-11-11T19:00:01",
   "export_days": 365,
-  "total_detections": 21617,
+  "total_detections": 21936,
   "unique_species": 65,
-  "average_confidence": 0.8954,
+  "average_confidence": 0.8956,
   "classes": {
     "Amphibian": 2,
-    "Bird": 20846,
+    "Bird": 21158,
     "Insect": 512,
-    "Unknown": 257
+    "Unknown": 264
   },
   "devices": {
-    "birdnetpi-b687": 21617
+    "birdnetpi-b687": 21936
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 4769
+      "count": 4770
     },
     {
       "species": "Brown Gerygone",
-      "count": 2582
+      "count": 2590
     },
     {
       "species": "Sacred Kingfisher",
-      "count": 2456
-    },
-    {
-      "species": "Eastern Yellow Robin",
-      "count": 2248
+      "count": 2464
     },
     {
       "species": "Willie Wagtail",
-      "count": 2234
+      "count": 2274
+    },
+    {
+      "species": "Eastern Yellow Robin",
+      "count": 2266
     },
     {
       "species": "Australasian Figbird",
-      "count": 1945
+      "count": 2017
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 1401
+      "count": 1545
     },
     {
       "species": "White-throated Treecreeper",
@@ -48,11 +48,11 @@
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 540
+      "count": 550
     },
     {
       "species": "Grey Fantail",
-      "count": 460
+      "count": 464
     },
     {
       "species": "Grey Shrikethrush",
@@ -63,16 +63,16 @@
       "count": 288
     },
     {
+      "species": "Eastern Whipbird",
+      "count": 221
+    },
+    {
       "species": "Green Grocer",
       "count": 221
     },
     {
-      "species": "Eastern Whipbird",
-      "count": 214
-    },
-    {
       "species": "Sahul Brush Cuckoo",
-      "count": 176
+      "count": 183
     },
     {
       "species": "White-throated Gerygone",
@@ -113,8 +113,8 @@
     "14:00": 1502,
     "15:00": 1417,
     "16:00": 1066,
-    "17:00": 1832,
-    "18:00": 1276,
+    "17:00": 1835,
+    "18:00": 1592,
     "19:00": 977,
     "20:00": 39,
     "21:00": 6,
