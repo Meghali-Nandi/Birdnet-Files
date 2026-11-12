@@ -1,47 +1,47 @@
 {
-  "generated_at": "2026-11-13T07:00:03",
+  "generated_at": "2026-11-13T08:00:03",
   "export_days": 365,
-  "total_detections": 25057,
+  "total_detections": 25410,
   "unique_species": 76,
-  "average_confidence": 0.8944,
+  "average_confidence": 0.8946,
   "classes": {
     "Amphibian": 4,
-    "Bird": 23945,
+    "Bird": 24298,
     "Insect": 819,
     "Mammal": 2,
     "Unknown": 287
   },
   "devices": {
-    "birdnetpi-b687": 25057
+    "birdnetpi-b687": 25410
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 5248
+      "count": 5265
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 2846
+      "count": 2941
     },
     {
       "species": "Brown Gerygone",
-      "count": 2786
+      "count": 2809
     },
     {
       "species": "Sacred Kingfisher",
-      "count": 2754
+      "count": 2762
     },
     {
       "species": "Australasian Figbird",
-      "count": 2357
+      "count": 2543
     },
     {
       "species": "Willie Wagtail",
-      "count": 2328
+      "count": 2329
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 1722
+      "count": 1728
     },
     {
       "species": "White-throated Treecreeper",
@@ -49,11 +49,11 @@
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 641
+      "count": 643
     },
     {
       "species": "Grey Fantail",
-      "count": 533
+      "count": 536
     },
     {
       "species": "Green Grocer",
@@ -69,7 +69,7 @@
     },
     {
       "species": "Eastern Whipbird",
-      "count": 285
+      "count": 291
     },
     {
       "species": "White-throated Gerygone",
@@ -81,7 +81,7 @@
     },
     {
       "species": "Rufous Whistler",
-      "count": 117
+      "count": 119
     },
     {
       "species": "Torresian Crow",
@@ -103,8 +103,8 @@
     "03:00": 0,
     "04:00": 125,
     "05:00": 2003,
-    "06:00": 1861,
-    "07:00": 1610,
+    "06:00": 1863,
+    "07:00": 1961,
     "08:00": 1529,
     "09:00": 1193,
     "10:00": 1751,
