@@ -1,35 +1,35 @@
 {
-  "generated_at": "2026-11-12T14:00:02",
+  "generated_at": "2026-11-12T15:00:03",
   "export_days": 365,
-  "total_detections": 23822,
+  "total_detections": 23887,
   "unique_species": 69,
-  "average_confidence": 0.8954,
+  "average_confidence": 0.8953,
   "classes": {
     "Amphibian": 4,
-    "Bird": 22740,
+    "Bird": 22805,
     "Insect": 799,
     "Mammal": 1,
     "Unknown": 278
   },
   "devices": {
-    "birdnetpi-b687": 23822
+    "birdnetpi-b687": 23887
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 5129
+      "count": 5140
+    },
+    {
+      "species": "Sacred Kingfisher",
+      "count": 2689
     },
     {
       "species": "Brown Gerygone",
       "count": 2684
     },
     {
-      "species": "Sacred Kingfisher",
-      "count": 2669
-    },
-    {
       "species": "Eastern Yellow Robin",
-      "count": 2561
+      "count": 2578
     },
     {
       "species": "Willie Wagtail",
@@ -37,23 +37,23 @@
     },
     {
       "species": "Australasian Figbird",
-      "count": 2204
+      "count": 2205
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 1609
+      "count": 1616
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 974
+      "count": 977
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 594
+      "count": 596
     },
     {
       "species": "Grey Fantail",
-      "count": 507
+      "count": 510
     },
     {
       "species": "Green Grocer",
@@ -110,8 +110,8 @@
     "10:00": 1751,
     "11:00": 2024,
     "12:00": 1635,
-    "13:00": 1760,
-    "14:00": 1502,
+    "13:00": 1761,
+    "14:00": 1566,
     "15:00": 1417,
     "16:00": 1066,
     "17:00": 1835,
