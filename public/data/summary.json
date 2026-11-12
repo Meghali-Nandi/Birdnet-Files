@@ -1,59 +1,59 @@
 {
-  "generated_at": "2026-11-13T06:00:09",
+  "generated_at": "2026-11-13T07:00:03",
   "export_days": 365,
-  "total_detections": 24807,
+  "total_detections": 25057,
   "unique_species": 76,
-  "average_confidence": 0.8945,
+  "average_confidence": 0.8944,
   "classes": {
     "Amphibian": 4,
-    "Bird": 23695,
+    "Bird": 23945,
     "Insect": 819,
     "Mammal": 2,
     "Unknown": 287
   },
   "devices": {
-    "birdnetpi-b687": 24807
+    "birdnetpi-b687": 25057
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 5212
+      "count": 5248
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 2811
+      "count": 2846
     },
     {
       "species": "Brown Gerygone",
-      "count": 2774
+      "count": 2786
     },
     {
       "species": "Sacred Kingfisher",
-      "count": 2725
-    },
-    {
-      "species": "Willie Wagtail",
-      "count": 2326
+      "count": 2754
     },
     {
       "species": "Australasian Figbird",
-      "count": 2302
+      "count": 2357
+    },
+    {
+      "species": "Willie Wagtail",
+      "count": 2328
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 1721
+      "count": 1722
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 1028
+      "count": 1078
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 635
+      "count": 641
     },
     {
       "species": "Grey Fantail",
-      "count": 531
+      "count": 533
     },
     {
       "species": "Green Grocer",
@@ -69,11 +69,11 @@
     },
     {
       "species": "Eastern Whipbird",
-      "count": 272
+      "count": 285
     },
     {
       "species": "White-throated Gerygone",
-      "count": 222
+      "count": 224
     },
     {
       "species": "Sahul Brush Cuckoo",
@@ -93,7 +93,7 @@
     },
     {
       "species": "Golden Whistler",
-      "count": 58
+      "count": 61
     }
   ],
   "hourly_counts": {
@@ -102,8 +102,8 @@
     "02:00": 4,
     "03:00": 0,
     "04:00": 125,
-    "05:00": 1999,
-    "06:00": 1615,
+    "05:00": 2003,
+    "06:00": 1861,
     "07:00": 1610,
     "08:00": 1529,
     "09:00": 1193,
