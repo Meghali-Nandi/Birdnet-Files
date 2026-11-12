@@ -24584,3 +24584,12 @@ ts,device,class,species,confidence
 2026-11-12T22:50:05,birdnetpi-b687,Bird,Eastern Yellow Robin,0.9812
 2026-11-12T22:50:08,birdnetpi-b687,Bird,Eastern Yellow Robin,0.9652
 2026-11-12T22:50:11,birdnetpi-b687,Bird,Eastern Yellow Robin,0.72
+2026-11-12T23:02:29,birdnetpi-b687,Mammal,Grey-headed Flying-fox,0.7686
+2026-11-12T23:05:26,birdnetpi-b687,Unknown,White-striped Free-tailed Bat,0.9743
+2026-11-12T23:05:29,birdnetpi-b687,Unknown,White-striped Free-tailed Bat,0.9954
+2026-11-12T23:05:32,birdnetpi-b687,Unknown,White-striped Free-tailed Bat,0.998
+2026-11-12T23:05:35,birdnetpi-b687,Unknown,White-striped Free-tailed Bat,0.9794
+2026-11-12T23:05:38,birdnetpi-b687,Unknown,White-striped Free-tailed Bat,0.9769
+2026-11-12T23:05:41,birdnetpi-b687,Unknown,White-striped Free-tailed Bat,0.9825
+2026-11-12T23:05:44,birdnetpi-b687,Unknown,White-striped Free-tailed Bat,0.9254
+2026-11-12T23:12:10,birdnetpi-b687,Unknown,Tyler's Tree Frog,0.7762
