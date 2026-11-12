@@ -1,59 +1,59 @@
 {
-  "generated_at": "2026-11-13T05:00:08",
+  "generated_at": "2026-11-13T06:00:09",
   "export_days": 365,
-  "total_detections": 24605,
+  "total_detections": 24807,
   "unique_species": 76,
-  "average_confidence": 0.8948,
+  "average_confidence": 0.8945,
   "classes": {
     "Amphibian": 4,
-    "Bird": 23493,
+    "Bird": 23695,
     "Insect": 819,
     "Mammal": 2,
     "Unknown": 287
   },
   "devices": {
-    "birdnetpi-b687": 24605
+    "birdnetpi-b687": 24807
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 5209
-    },
-    {
-      "species": "Brown Gerygone",
-      "count": 2773
+      "count": 5212
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 2764
+      "count": 2811
+    },
+    {
+      "species": "Brown Gerygone",
+      "count": 2774
     },
     {
       "species": "Sacred Kingfisher",
-      "count": 2719
+      "count": 2725
     },
     {
       "species": "Willie Wagtail",
-      "count": 2313
+      "count": 2326
     },
     {
       "species": "Australasian Figbird",
-      "count": 2268
+      "count": 2302
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 1719
+      "count": 1721
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 988
+      "count": 1028
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 620
+      "count": 635
     },
     {
       "species": "Grey Fantail",
-      "count": 529
+      "count": 531
     },
     {
       "species": "Green Grocer",
@@ -61,7 +61,7 @@
     },
     {
       "species": "Grey Shrikethrush",
-      "count": 469
+      "count": 507
     },
     {
       "species": "Paperbark Cicada",
@@ -73,7 +73,7 @@
     },
     {
       "species": "White-throated Gerygone",
-      "count": 221
+      "count": 222
     },
     {
       "species": "Sahul Brush Cuckoo",
@@ -102,7 +102,7 @@
     "02:00": 4,
     "03:00": 0,
     "04:00": 125,
-    "05:00": 1797,
+    "05:00": 1999,
     "06:00": 1615,
     "07:00": 1610,
     "08:00": 1529,

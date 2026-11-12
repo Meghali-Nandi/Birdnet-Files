@@ -24604,3 +24604,205 @@ ts,device,class,species,confidence
 2026-11-13T04:58:42,birdnetpi-b687,Bird,Willie Wagtail,0.9943
 2026-11-13T04:58:51,birdnetpi-b687,Bird,Willie Wagtail,0.9314
 2026-11-13T04:59:39,birdnetpi-b687,Bird,Willie Wagtail,0.99
+2026-11-13T05:00:09,birdnetpi-b687,Bird,Willie Wagtail,0.8909
+2026-11-13T05:00:33,birdnetpi-b687,Bird,Willie Wagtail,0.8224
+2026-11-13T05:01:27,birdnetpi-b687,Bird,Willie Wagtail,0.8656
+2026-11-13T05:01:39,birdnetpi-b687,Bird,Willie Wagtail,0.7973
+2026-11-13T05:02:00,birdnetpi-b687,Bird,Willie Wagtail,0.7207
+2026-11-13T05:02:12,birdnetpi-b687,Bird,Willie Wagtail,0.7821
+2026-11-13T05:02:27,birdnetpi-b687,Bird,Willie Wagtail,0.951
+2026-11-13T05:03:00,birdnetpi-b687,Bird,Willie Wagtail,0.9322
+2026-11-13T05:03:21,birdnetpi-b687,Bird,Eastern Yellow Robin,0.7207
+2026-11-13T05:03:45,birdnetpi-b687,Bird,Willie Wagtail,0.8685
+2026-11-13T05:04:57,birdnetpi-b687,Bird,Eastern Yellow Robin,0.7221
+2026-11-13T05:05:00,birdnetpi-b687,Bird,Eastern Yellow Robin,0.7713
+2026-11-13T05:06:00,birdnetpi-b687,Bird,Willie Wagtail,0.9577
+2026-11-13T05:06:18,birdnetpi-b687,Bird,Willie Wagtail,0.9446
+2026-11-13T05:07:09,birdnetpi-b687,Bird,Eastern Yellow Robin,0.7318
+2026-11-13T05:07:36,birdnetpi-b687,Bird,Eastern Yellow Robin,0.7704
+2026-11-13T05:08:42,birdnetpi-b687,Bird,Eastern Yellow Robin,0.8214
+2026-11-13T05:08:48,birdnetpi-b687,Bird,Eastern Yellow Robin,0.7187
+2026-11-13T05:08:54,birdnetpi-b687,Bird,Eastern Yellow Robin,0.7642
+2026-11-13T05:09:24,birdnetpi-b687,Bird,Eastern Yellow Robin,0.7569
+2026-11-13T05:09:27,birdnetpi-b687,Bird,Eastern Yellow Robin,0.7298
+2026-11-13T05:09:36,birdnetpi-b687,Bird,Eastern Yellow Robin,0.9011
+2026-11-13T05:09:54,birdnetpi-b687,Bird,Eastern Yellow Robin,0.8275
+2026-11-13T05:10:06,birdnetpi-b687,Bird,Eastern Yellow Robin,0.9283
+2026-11-13T05:10:15,birdnetpi-b687,Bird,Eastern Yellow Robin,0.9747
+2026-11-13T05:10:24,birdnetpi-b687,Bird,Eastern Yellow Robin,0.8654
+2026-11-13T05:10:36,birdnetpi-b687,Bird,Eastern Yellow Robin,0.7546
+2026-11-13T05:10:45,birdnetpi-b687,Bird,Eastern Yellow Robin,0.7002
+2026-11-13T05:10:54,birdnetpi-b687,Bird,Eastern Yellow Robin,0.9392
+2026-11-13T05:10:57,birdnetpi-b687,Bird,Eastern Yellow Robin,0.8812
+2026-11-13T05:11:03,birdnetpi-b687,Bird,Eastern Yellow Robin,0.9907
+2026-11-13T05:11:06,birdnetpi-b687,Bird,Eastern Yellow Robin,0.8241
+2026-11-13T05:11:09,birdnetpi-b687,Bird,Eastern Yellow Robin,0.8047
+2026-11-13T05:11:24,birdnetpi-b687,Bird,Eastern Yellow Robin,0.991
+2026-11-13T05:11:30,birdnetpi-b687,Bird,Eastern Yellow Robin,0.8448
+2026-11-13T05:11:36,birdnetpi-b687,Bird,Eastern Yellow Robin,0.9093
+2026-11-13T05:11:39,birdnetpi-b687,Bird,Eastern Yellow Robin,0.743
+2026-11-13T05:11:45,birdnetpi-b687,Bird,Lewin's Honeyeater,0.9417
+2026-11-13T05:11:48,birdnetpi-b687,Bird,Eastern Yellow Robin,0.7607
+2026-11-13T05:11:54,birdnetpi-b687,Bird,Eastern Yellow Robin,0.9585
+2026-11-13T05:11:57,birdnetpi-b687,Bird,Eastern Yellow Robin,0.9935
+2026-11-13T05:12:00,birdnetpi-b687,Bird,Eastern Yellow Robin,0.8216
+2026-11-13T05:12:03,birdnetpi-b687,Bird,Eastern Yellow Robin,0.8194
+2026-11-13T05:12:06,birdnetpi-b687,Bird,Eastern Yellow Robin,0.8861
+2026-11-13T05:12:15,birdnetpi-b687,Bird,Eastern Yellow Robin,0.7462
+2026-11-13T05:12:33,birdnetpi-b687,Bird,Lewin's Honeyeater,0.7591
+2026-11-13T05:12:36,birdnetpi-b687,Bird,Eastern Yellow Robin,0.8011
+2026-11-13T05:13:09,birdnetpi-b687,Bird,Eastern Yellow Robin,0.7721
+2026-11-13T05:13:42,birdnetpi-b687,Bird,Eastern Yellow Robin,0.9275
+2026-11-13T05:13:46,birdnetpi-b687,Bird,Lewin's Honeyeater,0.903
+2026-11-13T05:13:57,birdnetpi-b687,Bird,Eastern Yellow Robin,0.8465
+2026-11-13T05:14:00,birdnetpi-b687,Bird,Eastern Yellow Robin,0.757
+2026-11-13T05:16:57,birdnetpi-b687,Bird,Lewin's Honeyeater,0.8589
+2026-11-13T05:19:57,birdnetpi-b687,Bird,Grey Shrikethrush,0.7111
+2026-11-13T05:20:48,birdnetpi-b687,Bird,Lewin's Honeyeater,0.7373
+2026-11-13T05:21:45,birdnetpi-b687,Bird,Australasian Figbird,0.745
+2026-11-13T05:23:42,birdnetpi-b687,Bird,Grey Shrikethrush,0.7423
+2026-11-13T05:23:54,birdnetpi-b687,Bird,Grey Shrikethrush,0.9658
+2026-11-13T05:25:12,birdnetpi-b687,Bird,Australasian Figbird,0.7949
+2026-11-13T05:25:27,birdnetpi-b687,Bird,Australasian Figbird,0.7762
+2026-11-13T05:25:30,birdnetpi-b687,Bird,Australasian Figbird,0.9465
+2026-11-13T05:25:36,birdnetpi-b687,Bird,Australasian Figbird,0.9197
+2026-11-13T05:25:42,birdnetpi-b687,Bird,Australasian Figbird,0.9599
+2026-11-13T05:25:45,birdnetpi-b687,Bird,Australasian Figbird,0.8316
+2026-11-13T05:25:48,birdnetpi-b687,Bird,Australasian Figbird,0.9199
+2026-11-13T05:25:54,birdnetpi-b687,Bird,Australasian Figbird,0.8307
+2026-11-13T05:26:30,birdnetpi-b687,Bird,White-throated Treecreeper,0.967
+2026-11-13T05:27:03,birdnetpi-b687,Bird,Lewin's Honeyeater,0.8109
+2026-11-13T05:27:18,birdnetpi-b687,Bird,Grey Shrikethrush,0.9395
+2026-11-13T05:27:30,birdnetpi-b687,Bird,White-throated Treecreeper,0.9263
+2026-11-13T05:27:36,birdnetpi-b687,Bird,White-throated Treecreeper,0.9946
+2026-11-13T05:27:49,birdnetpi-b687,Bird,Grey Shrikethrush,0.8107
+2026-11-13T05:28:10,birdnetpi-b687,Bird,Lewin's Honeyeater,0.9487
+2026-11-13T05:28:24,birdnetpi-b687,Bird,White-throated Treecreeper,0.9662
+2026-11-13T05:28:30,birdnetpi-b687,Bird,White-throated Treecreeper,0.9647
+2026-11-13T05:28:36,birdnetpi-b687,Bird,White-throated Treecreeper,0.8193
+2026-11-13T05:29:06,birdnetpi-b687,Bird,White-throated Treecreeper,0.7175
+2026-11-13T05:29:12,birdnetpi-b687,Bird,White-throated Treecreeper,0.8652
+2026-11-13T05:29:24,birdnetpi-b687,Bird,Grey Shrikethrush,0.8676
+2026-11-13T05:29:39,birdnetpi-b687,Bird,Grey Shrikethrush,0.9413
+2026-11-13T05:29:42,birdnetpi-b687,Bird,Lewin's Honeyeater,0.7126
+2026-11-13T05:29:45,birdnetpi-b687,Bird,Lewin's Honeyeater,0.9416
+2026-11-13T05:29:51,birdnetpi-b687,Bird,White-throated Treecreeper,0.942
+2026-11-13T05:29:54,birdnetpi-b687,Bird,Grey Shrikethrush,0.8989
+2026-11-13T05:29:57,birdnetpi-b687,Bird,White-throated Treecreeper,0.8103
+2026-11-13T05:30:12,birdnetpi-b687,Bird,White-throated Treecreeper,0.7921
+2026-11-13T05:30:15,birdnetpi-b687,Bird,Grey Shrikethrush,0.9891
+2026-11-13T05:30:21,birdnetpi-b687,Bird,White-throated Treecreeper,0.7129
+2026-11-13T05:30:27,birdnetpi-b687,Bird,Grey Shrikethrush,0.8327
+2026-11-13T05:30:33,birdnetpi-b687,Bird,White-throated Treecreeper,0.9504
+2026-11-13T05:30:39,birdnetpi-b687,Bird,Grey Shrikethrush,0.9163
+2026-11-13T05:30:51,birdnetpi-b687,Bird,Grey Shrikethrush,0.9965
+2026-11-13T05:31:00,birdnetpi-b687,Bird,Grey Shrikethrush,0.9944
+2026-11-13T05:31:09,birdnetpi-b687,Bird,Grey Shrikethrush,0.9904
+2026-11-13T05:31:15,birdnetpi-b687,Bird,Lewin's Honeyeater,0.966
+2026-11-13T05:31:36,birdnetpi-b687,Bird,Grey Shrikethrush,0.9457
+2026-11-13T05:32:54,birdnetpi-b687,Bird,Lewin's Honeyeater,0.8416
+2026-11-13T05:33:42,birdnetpi-b687,Bird,Australasian Figbird,0.8765
+2026-11-13T05:33:48,birdnetpi-b687,Bird,Australasian Figbird,0.7265
+2026-11-13T05:34:03,birdnetpi-b687,Bird,Grey Shrikethrush,0.7201
+2026-11-13T05:34:18,birdnetpi-b687,Bird,Grey Shrikethrush,0.955
+2026-11-13T05:34:27,birdnetpi-b687,Bird,Grey Shrikethrush,0.917
+2026-11-13T05:34:36,birdnetpi-b687,Bird,Grey Shrikethrush,0.7009
+2026-11-13T05:35:24,birdnetpi-b687,Bird,Grey Shrikethrush,0.9237
+2026-11-13T05:36:45,birdnetpi-b687,Bird,Willie Wagtail,0.7269
+2026-11-13T05:36:54,birdnetpi-b687,Bird,Willie Wagtail,0.768
+2026-11-13T05:37:18,birdnetpi-b687,Bird,White-throated Treecreeper,0.8876
+2026-11-13T05:37:45,birdnetpi-b687,Bird,White-throated Treecreeper,0.9552
+2026-11-13T05:38:00,birdnetpi-b687,Bird,Australasian Figbird,0.7656
+2026-11-13T05:38:09,birdnetpi-b687,Bird,Australasian Figbird,0.8526
+2026-11-13T05:38:42,birdnetpi-b687,Bird,Sacred Kingfisher,0.7367
+2026-11-13T05:39:06,birdnetpi-b687,Bird,Sacred Kingfisher,0.9714
+2026-11-13T05:39:12,birdnetpi-b687,Bird,Sacred Kingfisher,0.7583
+2026-11-13T05:39:42,birdnetpi-b687,Bird,Sacred Kingfisher,0.7217
+2026-11-13T05:39:51,birdnetpi-b687,Bird,Sacred Kingfisher,0.8694
+2026-11-13T05:39:54,birdnetpi-b687,Bird,Australasian Figbird,0.7298
+2026-11-13T05:40:30,birdnetpi-b687,Bird,Australasian Figbird,0.7223
+2026-11-13T05:40:45,birdnetpi-b687,Bird,Australasian Figbird,0.9795
+2026-11-13T05:41:09,birdnetpi-b687,Bird,White-throated Treecreeper,0.9736
+2026-11-13T05:41:12,birdnetpi-b687,Bird,Australasian Figbird,0.9479
+2026-11-13T05:41:18,birdnetpi-b687,Bird,Australasian Figbird,0.8315
+2026-11-13T05:41:21,birdnetpi-b687,Bird,Australasian Figbird,0.9922
+2026-11-13T05:41:39,birdnetpi-b687,Bird,Australasian Figbird,0.8661
+2026-11-13T05:41:54,birdnetpi-b687,Bird,Australasian Figbird,0.7767
+2026-11-13T05:42:12,birdnetpi-b687,Bird,White-throated Treecreeper,0.7498
+2026-11-13T05:42:39,birdnetpi-b687,Bird,Lewin's Honeyeater,0.8035
+2026-11-13T05:42:54,birdnetpi-b687,Bird,Australasian Figbird,0.9121
+2026-11-13T05:43:00,birdnetpi-b687,Bird,Australasian Figbird,0.9016
+2026-11-13T05:43:03,birdnetpi-b687,Bird,Australasian Figbird,0.8482
+2026-11-13T05:43:18,birdnetpi-b687,Bird,Australasian Figbird,0.801
+2026-11-13T05:43:36,birdnetpi-b687,Bird,Grey Shrikethrush,0.9921
+2026-11-13T05:44:15,birdnetpi-b687,Bird,White-throated Treecreeper,0.9423
+2026-11-13T05:44:24,birdnetpi-b687,Bird,White-throated Treecreeper,0.935
+2026-11-13T05:44:30,birdnetpi-b687,Bird,White-throated Treecreeper,0.7613
+2026-11-13T05:45:18,birdnetpi-b687,Bird,Lewin's Honeyeater,0.9867
+2026-11-13T05:45:21,birdnetpi-b687,Bird,Lewin's Honeyeater,0.98
+2026-11-13T05:45:39,birdnetpi-b687,Bird,Australasian Figbird,0.7696
+2026-11-13T05:45:42,birdnetpi-b687,Bird,Australasian Figbird,0.7424
+2026-11-13T05:46:09,birdnetpi-b687,Bird,White-throated Treecreeper,0.9839
+2026-11-13T05:46:18,birdnetpi-b687,Bird,White-throated Treecreeper,0.985
+2026-11-13T05:46:54,birdnetpi-b687,Bird,Australasian Figbird,0.9984
+2026-11-13T05:47:00,birdnetpi-b687,Bird,Grey Shrikethrush,0.7454
+2026-11-13T05:47:03,birdnetpi-b687,Bird,Australasian Figbird,0.9988
+2026-11-13T05:47:12,birdnetpi-b687,Bird,Australasian Figbird,0.7849
+2026-11-13T05:47:27,birdnetpi-b687,Bird,Australasian Figbird,0.9965
+2026-11-13T05:47:30,birdnetpi-b687,Bird,Grey Shrikethrush,0.7042
+2026-11-13T05:47:39,birdnetpi-b687,Bird,Australasian Figbird,0.9612
+2026-11-13T05:47:51,birdnetpi-b687,Bird,Grey Shrikethrush,0.7614
+2026-11-13T05:48:03,birdnetpi-b687,Bird,Australasian Figbird,0.9847
+2026-11-13T05:48:06,birdnetpi-b687,Bird,Australasian Figbird,0.8736
+2026-11-13T05:48:26,birdnetpi-b687,Bird,White-throated Treecreeper,0.7317
+2026-11-13T05:48:54,birdnetpi-b687,Bird,Brown Gerygone,0.7879
+2026-11-13T05:49:21,birdnetpi-b687,Bird,White-throated Treecreeper,0.7629
+2026-11-13T05:49:27,birdnetpi-b687,Bird,Grey Shrikethrush,0.9931
+2026-11-13T05:49:36,birdnetpi-b687,Bird,Grey Shrikethrush,0.9999
+2026-11-13T05:49:39,birdnetpi-b687,Bird,White-throated Treecreeper,0.8812
+2026-11-13T05:49:45,birdnetpi-b687,Bird,Grey Shrikethrush,0.9982
+2026-11-13T05:49:48,birdnetpi-b687,Bird,White-throated Treecreeper,0.9365
+2026-11-13T05:49:54,birdnetpi-b687,Bird,Grey Shrikethrush,0.9772
+2026-11-13T05:50:03,birdnetpi-b687,Bird,Grey Shrikethrush,0.9833
+2026-11-13T05:50:12,birdnetpi-b687,Bird,Grey Shrikethrush,0.9644
+2026-11-13T05:50:24,birdnetpi-b687,Bird,Grey Shrikethrush,0.999
+2026-11-13T05:50:33,birdnetpi-b687,Bird,Grey Shrikethrush,0.9324
+2026-11-13T05:50:36,birdnetpi-b687,Bird,Grey Shrikethrush,0.9571
+2026-11-13T05:50:42,birdnetpi-b687,Bird,Olive-backed Oriole,0.8447
+2026-11-13T05:50:45,birdnetpi-b687,Bird,Grey Shrikethrush,0.9696
+2026-11-13T05:50:51,birdnetpi-b687,Bird,Olive-backed Oriole,0.7191
+2026-11-13T05:50:57,birdnetpi-b687,Bird,Grey Shrikethrush,0.9943
+2026-11-13T05:51:00,birdnetpi-b687,Bird,Lewin's Honeyeater,0.992
+2026-11-13T05:51:12,birdnetpi-b687,Bird,Grey Shrikethrush,0.9999
+2026-11-13T05:51:21,birdnetpi-b687,Bird,Grey Shrikethrush,0.993
+2026-11-13T05:51:27,birdnetpi-b687,Bird,Grey Shrikethrush,0.993
+2026-11-13T05:51:30,birdnetpi-b687,Bird,Olive-backed Oriole,0.7365
+2026-11-13T05:51:33,birdnetpi-b687,Bird,Eastern Yellow Robin,0.9613
+2026-11-13T05:51:45,birdnetpi-b687,Bird,Sacred Kingfisher,0.7562
+2026-11-13T05:53:03,birdnetpi-b687,Bird,Grey Fantail,0.8598
+2026-11-13T05:53:39,birdnetpi-b687,Bird,Grey Fantail,0.9743
+2026-11-13T05:54:15,birdnetpi-b687,Bird,White-throated Treecreeper,0.8856
+2026-11-13T05:54:33,birdnetpi-b687,Bird,Eastern Yellow Robin,0.7564
+2026-11-13T05:54:36,birdnetpi-b687,Bird,Eastern Yellow Robin,0.8579
+2026-11-13T05:54:45,birdnetpi-b687,Bird,Eastern Yellow Robin,0.9572
+2026-11-13T05:54:51,birdnetpi-b687,Bird,Eastern Yellow Robin,0.915
+2026-11-13T05:54:54,birdnetpi-b687,Bird,Eastern Yellow Robin,0.7461
+2026-11-13T05:55:03,birdnetpi-b687,Bird,White-throated Treecreeper,0.9966
+2026-11-13T05:55:06,birdnetpi-b687,Bird,Eastern Yellow Robin,0.7895
+2026-11-13T05:55:18,birdnetpi-b687,Bird,White-throated Treecreeper,0.9721
+2026-11-13T05:55:51,birdnetpi-b687,Bird,White-throated Treecreeper,0.9834
+2026-11-13T05:56:00,birdnetpi-b687,Bird,White-throated Treecreeper,0.9943
+2026-11-13T05:56:33,birdnetpi-b687,Bird,White-throated Treecreeper,0.9186
+2026-11-13T05:56:36,birdnetpi-b687,Bird,White-throated Treecreeper,0.8347
+2026-11-13T05:56:39,birdnetpi-b687,Bird,White-throated Gerygone,0.8012
+2026-11-13T05:56:45,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9768
+2026-11-13T05:57:09,birdnetpi-b687,Bird,White-throated Treecreeper,0.9736
+2026-11-13T05:57:12,birdnetpi-b687,Bird,White-throated Treecreeper,0.953
+2026-11-13T05:57:21,birdnetpi-b687,Bird,White-throated Treecreeper,0.9369
+2026-11-13T05:57:24,birdnetpi-b687,Bird,White-throated Treecreeper,0.8273
+2026-11-13T05:58:15,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9681
+2026-11-13T05:58:21,birdnetpi-b687,Bird,Eastern Yellow Robin,0.7073
+2026-11-13T05:58:27,birdnetpi-b687,Bird,Eastern Yellow Robin,0.9902
+2026-11-13T05:58:45,birdnetpi-b687,Bird,White-throated Treecreeper,0.9105
+2026-11-13T05:59:06,birdnetpi-b687,Bird,White-throated Treecreeper,0.7406
+2026-11-13T05:59:33,birdnetpi-b687,Bird,White-throated Treecreeper,0.8282
