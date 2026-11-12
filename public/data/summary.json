@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-12T19:00:03",
+  "generated_at": "2026-11-12T20:00:07",
   "export_days": 365,
-  "total_detections": 24497,
-  "unique_species": 73,
-  "average_confidence": 0.8949,
+  "total_detections": 24572,
+  "unique_species": 74,
+  "average_confidence": 0.8948,
   "classes": {
     "Amphibian": 4,
-    "Bird": 23414,
-    "Insect": 799,
+    "Bird": 23475,
+    "Insect": 813,
     "Mammal": 1,
     "Unknown": 279
   },
   "devices": {
-    "birdnetpi-b687": 24497
+    "birdnetpi-b687": 24572
   },
   "top_species": [
     {
@@ -21,11 +21,11 @@
     },
     {
       "species": "Brown Gerygone",
-      "count": 2772
+      "count": 2773
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 2757
+      "count": 2758
     },
     {
       "species": "Sacred Kingfisher",
@@ -33,35 +33,35 @@
     },
     {
       "species": "Willie Wagtail",
-      "count": 2291
+      "count": 2308
     },
     {
       "species": "Australasian Figbird",
-      "count": 2247
+      "count": 2268
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 1706
+      "count": 1719
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 987
+      "count": 988
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 618
+      "count": 620
     },
     {
       "species": "Grey Fantail",
-      "count": 528
+      "count": 529
     },
     {
       "species": "Green Grocer",
-      "count": 496
+      "count": 510
     },
     {
       "species": "Grey Shrikethrush",
-      "count": 468
+      "count": 469
     },
     {
       "species": "Paperbark Cicada",
@@ -116,7 +116,7 @@
     "16:00": 1199,
     "17:00": 2061,
     "18:00": 1785,
-    "19:00": 1308,
+    "19:00": 1383,
     "20:00": 40,
     "21:00": 6,
     "22:00": 15,
