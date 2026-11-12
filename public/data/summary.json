@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-12T22:00:00",
+  "generated_at": "2026-11-12T23:00:06",
   "export_days": 365,
-  "total_detections": 24579,
+  "total_detections": 24585,
   "unique_species": 74,
   "average_confidence": 0.8947,
   "classes": {
     "Amphibian": 4,
-    "Bird": 23476,
+    "Bird": 23482,
     "Insect": 819,
     "Mammal": 1,
     "Unknown": 279
   },
   "devices": {
-    "birdnetpi-b687": 24579
+    "birdnetpi-b687": 24585
   },
   "top_species": [
     {
@@ -25,7 +25,7 @@
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 2758
+      "count": 2764
     },
     {
       "species": "Sacred Kingfisher",
@@ -119,7 +119,7 @@
     "19:00": 1383,
     "20:00": 46,
     "21:00": 7,
-    "22:00": 15,
+    "22:00": 21,
     "23:00": 9
   }
 }
