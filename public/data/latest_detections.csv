@@ -23304,3 +23304,86 @@ ts,device,class,species,confidence
 2026-11-12T09:11:43,birdnetpi-b687,Bird,Scarlet Honeyeater,0.7452
 2026-11-12T09:19:52,birdnetpi-b687,Bird,Australasian Figbird,0.9897
 2026-11-12T09:32:37,birdnetpi-b687,Bird,Grey Fantail,0.7101
+2026-11-12T09:59:58,birdnetpi-b687,Insect,Paperbark Cicada,0.8029
+2026-11-12T10:00:01,birdnetpi-b687,Bird,Olive-backed Oriole,0.8842
+2026-11-12T10:03:04,birdnetpi-b687,Bird,Eastern Whipbird,0.9775
+2026-11-12T10:08:37,birdnetpi-b687,Bird,Olive-backed Oriole,0.9874
+2026-11-12T10:08:46,birdnetpi-b687,Bird,Olive-backed Oriole,0.9955
+2026-11-12T10:08:49,birdnetpi-b687,Bird,Eastern Yellow Robin,0.919
+2026-11-12T10:08:58,birdnetpi-b687,Bird,Olive-backed Oriole,0.9766
+2026-11-12T10:09:04,birdnetpi-b687,Bird,Olive-backed Oriole,0.9966
+2026-11-12T10:09:16,birdnetpi-b687,Bird,Olive-backed Oriole,0.9932
+2026-11-12T10:09:19,birdnetpi-b687,Bird,Olive-backed Oriole,0.9844
+2026-11-12T10:09:25,birdnetpi-b687,Bird,Eastern Yellow Robin,0.9138
+2026-11-12T10:09:43,birdnetpi-b687,Bird,Olive-backed Oriole,0.9343
+2026-11-12T10:10:07,birdnetpi-b687,Bird,White-throated Gerygone,0.8766
+2026-11-12T10:10:10,birdnetpi-b687,Bird,Olive-backed Oriole,0.7837
+2026-11-12T10:10:16,birdnetpi-b687,Bird,Olive-backed Oriole,0.8002
+2026-11-12T10:10:19,birdnetpi-b687,Bird,Olive-backed Oriole,0.8451
+2026-11-12T10:10:28,birdnetpi-b687,Bird,Olive-backed Oriole,0.9069
+2026-11-12T10:10:34,birdnetpi-b687,Bird,Lewin's Honeyeater,0.899
+2026-11-12T10:10:40,birdnetpi-b687,Bird,Olive-backed Oriole,0.8947
+2026-11-12T10:10:52,birdnetpi-b687,Bird,Olive-backed Oriole,0.9998
+2026-11-12T10:11:04,birdnetpi-b687,Bird,Olive-backed Oriole,0.9957
+2026-11-12T10:11:13,birdnetpi-b687,Bird,Olive-backed Oriole,0.9856
+2026-11-12T10:11:25,birdnetpi-b687,Bird,Noisy Friarbird,0.7079
+2026-11-12T10:11:31,birdnetpi-b687,Bird,Olive-backed Oriole,0.9988
+2026-11-12T10:11:37,birdnetpi-b687,Bird,Noisy Friarbird,0.7347
+2026-11-12T10:11:43,birdnetpi-b687,Bird,Olive-backed Oriole,0.8287
+2026-11-12T10:12:07,birdnetpi-b687,Bird,Eastern Yellow Robin,0.97
+2026-11-12T10:12:10,birdnetpi-b687,Bird,Eastern Yellow Robin,0.7098
+2026-11-12T10:12:22,birdnetpi-b687,Bird,Noisy Friarbird,0.8285
+2026-11-12T10:13:07,birdnetpi-b687,Bird,Eastern Yellow Robin,0.9133
+2026-11-12T10:14:40,birdnetpi-b687,Bird,Brown Gerygone,0.8531
+2026-11-12T10:14:55,birdnetpi-b687,Bird,Brown Gerygone,0.7145
+2026-11-12T10:15:52,birdnetpi-b687,Bird,Brown Gerygone,0.722
+2026-11-12T10:16:07,birdnetpi-b687,Bird,Olive-backed Oriole,0.7935
+2026-11-12T10:16:37,birdnetpi-b687,Bird,Olive-backed Oriole,0.9404
+2026-11-12T10:16:51,birdnetpi-b687,Bird,Olive-backed Oriole,0.9956
+2026-11-12T10:16:57,birdnetpi-b687,Bird,Olive-backed Oriole,0.9751
+2026-11-12T10:17:03,birdnetpi-b687,Bird,Olive-backed Oriole,0.9264
+2026-11-12T10:17:12,birdnetpi-b687,Bird,Olive-backed Oriole,0.9551
+2026-11-12T10:17:16,birdnetpi-b687,Bird,Olive-backed Oriole,0.9687
+2026-11-12T10:17:22,birdnetpi-b687,Bird,Olive-backed Oriole,0.9845
+2026-11-12T10:17:28,birdnetpi-b687,Bird,Olive-backed Oriole,0.9997
+2026-11-12T10:17:37,birdnetpi-b687,Bird,Olive-backed Oriole,0.9973
+2026-11-12T10:17:55,birdnetpi-b687,Bird,Olive-backed Oriole,0.8427
+2026-11-12T10:18:07,birdnetpi-b687,Bird,Olive-backed Oriole,0.7197
+2026-11-12T10:18:16,birdnetpi-b687,Bird,Olive-backed Oriole,0.9935
+2026-11-12T10:18:22,birdnetpi-b687,Bird,White-throated Treecreeper,0.9388
+2026-11-12T10:18:31,birdnetpi-b687,Bird,Olive-backed Oriole,0.9566
+2026-11-12T10:18:55,birdnetpi-b687,Bird,Olive-backed Oriole,0.9306
+2026-11-12T10:19:10,birdnetpi-b687,Bird,Olive-backed Oriole,0.9389
+2026-11-12T10:19:58,birdnetpi-b687,Bird,Brown Gerygone,0.7486
+2026-11-12T10:20:34,birdnetpi-b687,Bird,Brown Gerygone,0.913
+2026-11-12T10:20:49,birdnetpi-b687,Bird,Grey Fantail,0.9813
+2026-11-12T10:20:58,birdnetpi-b687,Bird,Grey Fantail,0.7265
+2026-11-12T10:21:01,birdnetpi-b687,Bird,Brown Gerygone,0.9168
+2026-11-12T10:21:13,birdnetpi-b687,Bird,Olive-backed Oriole,0.9962
+2026-11-12T10:21:19,birdnetpi-b687,Bird,Brown Gerygone,0.9831
+2026-11-12T10:21:25,birdnetpi-b687,Bird,Olive-backed Oriole,0.9489
+2026-11-12T10:23:22,birdnetpi-b687,Bird,Olive-backed Oriole,0.8177
+2026-11-12T10:25:49,birdnetpi-b687,Bird,Lewin's Honeyeater,0.9452
+2026-11-12T10:27:19,birdnetpi-b687,Bird,Olive-backed Oriole,0.8088
+2026-11-12T10:27:28,birdnetpi-b687,Bird,Brown Gerygone,0.8965
+2026-11-12T10:28:49,birdnetpi-b687,Bird,Olive-backed Oriole,0.9271
+2026-11-12T10:28:52,birdnetpi-b687,Bird,Olive-backed Oriole,0.982
+2026-11-12T10:29:31,birdnetpi-b687,Bird,Brown Gerygone,0.7379
+2026-11-12T10:30:07,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9894
+2026-11-12T10:30:13,birdnetpi-b687,Bird,Olive-backed Oriole,0.8033
+2026-11-12T10:30:31,birdnetpi-b687,Bird,Noisy Friarbird,0.9572
+2026-11-12T10:31:01,birdnetpi-b687,Bird,Scarlet Honeyeater,0.773
+2026-11-12T10:33:04,birdnetpi-b687,Bird,White-throated Treecreeper,0.9073
+2026-11-12T10:33:25,birdnetpi-b687,Amphibian,Eastern Banjo Frog,0.9274
+2026-11-12T10:33:34,birdnetpi-b687,Bird,Olive-backed Oriole,0.9862
+2026-11-12T10:33:49,birdnetpi-b687,Bird,Olive-backed Oriole,0.9846
+2026-11-12T10:33:55,birdnetpi-b687,Bird,Olive-backed Oriole,0.7537
+2026-11-12T10:35:49,birdnetpi-b687,Bird,Olive-backed Oriole,0.8562
+2026-11-12T10:36:16,birdnetpi-b687,Bird,Olive-backed Oriole,0.9645
+2026-11-12T10:36:25,birdnetpi-b687,Bird,Olive-backed Oriole,0.9531
+2026-11-12T10:36:31,birdnetpi-b687,Bird,Olive-backed Oriole,0.9913
+2026-11-12T10:36:43,birdnetpi-b687,Bird,Olive-backed Oriole,0.7672
+2026-11-12T10:36:49,birdnetpi-b687,Bird,Olive-backed Oriole,0.977
+2026-11-12T10:37:01,birdnetpi-b687,Bird,Olive-backed Oriole,0.9448
+2026-11-12T10:37:52,birdnetpi-b687,Bird,Olive-backed Oriole,0.9847
+2026-11-12T10:51:46,birdnetpi-b687,Bird,Eastern Yellow Robin,0.8049
