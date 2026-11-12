@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-11-12T12:00:02",
+  "generated_at": "2026-11-12T13:00:01",
   "export_days": 365,
-  "total_detections": 23446,
-  "unique_species": 68,
-  "average_confidence": 0.8958,
+  "total_detections": 23569,
+  "unique_species": 69,
+  "average_confidence": 0.8956,
   "classes": {
     "Amphibian": 4,
-    "Bird": 22375,
-    "Insect": 790,
+    "Bird": 22493,
+    "Insect": 795,
     "Mammal": 1,
     "Unknown": 276
   },
   "devices": {
-    "birdnetpi-b687": 23446
+    "birdnetpi-b687": 23569
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 5065
+      "count": 5085
     },
     {
       "species": "Sacred Kingfisher",
@@ -25,19 +25,19 @@
     },
     {
       "species": "Brown Gerygone",
-      "count": 2648
+      "count": 2660
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 2430
+      "count": 2479
     },
     {
       "species": "Willie Wagtail",
-      "count": 2281
+      "count": 2282
     },
     {
       "species": "Australasian Figbird",
-      "count": 2162
+      "count": 2175
     },
     {
       "species": "Scarlet Honeyeater",
@@ -45,15 +45,15 @@
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 953
+      "count": 961
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 581
+      "count": 589
     },
     {
       "species": "Grey Fantail",
-      "count": 500
+      "count": 502
     },
     {
       "species": "Green Grocer",
@@ -61,11 +61,11 @@
     },
     {
       "species": "Grey Shrikethrush",
-      "count": 457
+      "count": 458
     },
     {
       "species": "Paperbark Cicada",
-      "count": 290
+      "count": 293
     },
     {
       "species": "Eastern Whipbird",
@@ -77,7 +77,7 @@
     },
     {
       "species": "White-throated Gerygone",
-      "count": 182
+      "count": 184
     },
     {
       "species": "Rufous Whistler",
@@ -109,7 +109,7 @@
     "09:00": 1193,
     "10:00": 1751,
     "11:00": 2024,
-    "12:00": 1510,
+    "12:00": 1633,
     "13:00": 1509,
     "14:00": 1502,
     "15:00": 1417,
