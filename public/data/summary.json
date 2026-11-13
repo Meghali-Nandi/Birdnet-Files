@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-11-13T18:00:00",
+  "generated_at": "2026-11-13T19:00:22",
   "export_days": 365,
-  "total_detections": 27854,
-  "unique_species": 88,
+  "total_detections": 27893,
+  "unique_species": 89,
   "average_confidence": 0.8937,
   "classes": {
-    "Amphibian": 6,
-    "Bird": 26694,
-    "Insect": 827,
+    "Amphibian": 8,
+    "Bird": 26726,
+    "Insect": 831,
     "Mammal": 2,
-    "Unknown": 325
+    "Unknown": 326
   },
   "devices": {
-    "birdnetpi-b687": 27854
+    "birdnetpi-b687": 27893
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 5622
+      "count": 5627
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 3641
+      "count": 3653
     },
     {
       "species": "Brown Gerygone",
@@ -37,15 +37,15 @@
     },
     {
       "species": "Willie Wagtail",
-      "count": 2343
+      "count": 2352
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 1835
+      "count": 1837
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 1286
+      "count": 1289
     },
     {
       "species": "Lewin's Honeyeater",
@@ -65,7 +65,7 @@
     },
     {
       "species": "Paperbark Cicada",
-      "count": 305
+      "count": 309
     },
     {
       "species": "Eastern Whipbird",
@@ -114,8 +114,8 @@
     "14:00": 1747,
     "15:00": 1601,
     "16:00": 1333,
-    "17:00": 2167,
-    "18:00": 1785,
+    "17:00": 2169,
+    "18:00": 1822,
     "19:00": 1383,
     "20:00": 46,
     "21:00": 7,
