@@ -1,39 +1,39 @@
 {
-  "generated_at": "2026-11-13T12:00:01",
+  "generated_at": "2026-11-13T13:00:00",
   "export_days": 365,
-  "total_detections": 26681,
-  "unique_species": 82,
+  "total_detections": 27077,
+  "unique_species": 83,
   "average_confidence": 0.894,
   "classes": {
     "Amphibian": 4,
-    "Bird": 25552,
+    "Bird": 25946,
     "Insect": 822,
     "Mammal": 2,
-    "Unknown": 301
+    "Unknown": 303
   },
   "devices": {
-    "birdnetpi-b687": 26681
+    "birdnetpi-b687": 27077
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 5417
+      "count": 5520
     },
     {
       "species": "Brown Gerygone",
-      "count": 3206
+      "count": 3274
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 3178
+      "count": 3236
     },
     {
       "species": "Sacred Kingfisher",
-      "count": 2822
+      "count": 2853
     },
     {
       "species": "Australasian Figbird",
-      "count": 2690
+      "count": 2730
     },
     {
       "species": "Willie Wagtail",
@@ -41,19 +41,19 @@
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 1814
+      "count": 1820
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 1154
+      "count": 1220
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 663
+      "count": 667
     },
     {
       "species": "Grey Fantail",
-      "count": 546
+      "count": 549
     },
     {
       "species": "Grey Shrikethrush",
@@ -89,7 +89,7 @@
     },
     {
       "species": "Golden Whistler",
-      "count": 64
+      "count": 65
     },
     {
       "species": "Bar-shouldered Dove",
@@ -108,8 +108,8 @@
     "08:00": 1723,
     "09:00": 1438,
     "10:00": 2124,
-    "11:00": 2481,
-    "12:00": 1635,
+    "11:00": 2483,
+    "12:00": 2029,
     "13:00": 1761,
     "14:00": 1566,
     "15:00": 1475,
