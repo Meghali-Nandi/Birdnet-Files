@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-11-13T17:00:03",
+  "generated_at": "2026-11-13T18:00:00",
   "export_days": 365,
-  "total_detections": 27748,
-  "unique_species": 87,
-  "average_confidence": 0.8938,
+  "total_detections": 27854,
+  "unique_species": 88,
+  "average_confidence": 0.8937,
   "classes": {
     "Amphibian": 6,
-    "Bird": 26590,
-    "Insect": 826,
+    "Bird": 26694,
+    "Insect": 827,
     "Mammal": 2,
-    "Unknown": 324
+    "Unknown": 325
   },
   "devices": {
-    "birdnetpi-b687": 27748
+    "birdnetpi-b687": 27854
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 5621
+      "count": 5622
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 3549
+      "count": 3641
     },
     {
       "species": "Brown Gerygone",
-      "count": 3346
+      "count": 3347
     },
     {
       "species": "Sacred Kingfisher",
@@ -37,11 +37,11 @@
     },
     {
       "species": "Willie Wagtail",
-      "count": 2338
+      "count": 2343
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 1832
+      "count": 1835
     },
     {
       "species": "White-throated Treecreeper",
@@ -49,7 +49,7 @@
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 676
+      "count": 677
     },
     {
       "species": "Grey Fantail",
@@ -65,7 +65,7 @@
     },
     {
       "species": "Paperbark Cicada",
-      "count": 304
+      "count": 305
     },
     {
       "species": "Eastern Whipbird",
@@ -73,7 +73,7 @@
     },
     {
       "species": "White-throated Gerygone",
-      "count": 245
+      "count": 246
     },
     {
       "species": "Sahul Brush Cuckoo",
@@ -114,7 +114,7 @@
     "14:00": 1747,
     "15:00": 1601,
     "16:00": 1333,
-    "17:00": 2061,
+    "17:00": 2167,
     "18:00": 1785,
     "19:00": 1383,
     "20:00": 46,
