@@ -1,35 +1,35 @@
 {
-  "generated_at": "2026-11-18T07:00:01",
+  "generated_at": "2026-11-18T08:00:01",
   "export_days": 365,
-  "total_detections": 40108,
+  "total_detections": 40253,
   "unique_species": 106,
   "average_confidence": 0.8902,
   "classes": {
     "Amphibian": 11,
-    "Bird": 37863,
+    "Bird": 38007,
     "Insect": 1307,
     "Mammal": 8,
-    "Unknown": 919
+    "Unknown": 920
   },
   "devices": {
-    "birdnetpi-b687": 40108
+    "birdnetpi-b687": 40253
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 7208
+      "count": 7222
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 6635
+      "count": 6692
     },
     {
       "species": "Brown Gerygone",
-      "count": 4638
+      "count": 4675
     },
     {
       "species": "Australasian Figbird",
-      "count": 3754
+      "count": 3762
     },
     {
       "species": "Willie Wagtail",
@@ -41,11 +41,11 @@
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 2575
+      "count": 2578
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 2311
+      "count": 2314
     },
     {
       "species": "Green Grocer",
@@ -53,7 +53,7 @@
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 858
+      "count": 864
     },
     {
       "species": "Grey Fantail",
@@ -65,7 +65,7 @@
     },
     {
       "species": "Eastern Whipbird",
-      "count": 515
+      "count": 526
     },
     {
       "species": "Southern Whirring Tree Frog",
@@ -84,16 +84,16 @@
       "count": 263
     },
     {
+      "species": "Black-faced Monarch",
+      "count": 151
+    },
+    {
       "species": "Noisy Friarbird",
       "count": 151
     },
     {
       "species": "Rufous Whistler",
       "count": 150
-    },
-    {
-      "species": "Black-faced Monarch",
-      "count": 148
     }
   ],
   "hourly_counts": {
@@ -104,7 +104,7 @@
     "04:00": 242,
     "05:00": 3289,
     "06:00": 2969,
-    "07:00": 2574,
+    "07:00": 2719,
     "08:00": 2533,
     "09:00": 2005,
     "10:00": 3018,
