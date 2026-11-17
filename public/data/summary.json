@@ -1,43 +1,43 @@
 {
-  "generated_at": "2026-11-18T05:00:03",
+  "generated_at": "2026-11-18T06:00:10",
   "export_days": 365,
-  "total_detections": 39521,
+  "total_detections": 39866,
   "unique_species": 106,
   "average_confidence": 0.8903,
   "classes": {
     "Amphibian": 11,
-    "Bird": 37277,
+    "Bird": 37622,
     "Insect": 1307,
     "Mammal": 8,
     "Unknown": 918
   },
   "devices": {
-    "birdnetpi-b687": 39521
+    "birdnetpi-b687": 39866
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 7148
+      "count": 7169
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 6480
+      "count": 6600
     },
     {
       "species": "Brown Gerygone",
-      "count": 4611
+      "count": 4616
     },
     {
       "species": "Australasian Figbird",
-      "count": 3621
+      "count": 3751
     },
     {
       "species": "Willie Wagtail",
-      "count": 3286
+      "count": 3288
     },
     {
       "species": "Sacred Kingfisher",
-      "count": 3171
+      "count": 3180
     },
     {
       "species": "Scarlet Honeyeater",
@@ -45,7 +45,7 @@
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 2262
+      "count": 2282
     },
     {
       "species": "Green Grocer",
@@ -53,7 +53,7 @@
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 849
+      "count": 855
     },
     {
       "species": "Grey Fantail",
@@ -89,11 +89,11 @@
     },
     {
       "species": "Black-faced Monarch",
-      "count": 142
+      "count": 148
     },
     {
-      "species": "Golden Whistler",
-      "count": 136
+      "species": "Noisy Friarbird",
+      "count": 139
     }
   ],
   "hourly_counts": {
@@ -102,7 +102,7 @@
     "02:00": 116,
     "03:00": 3,
     "04:00": 242,
-    "05:00": 2944,
+    "05:00": 3289,
     "06:00": 2727,
     "07:00": 2574,
     "08:00": 2533,
