@@ -1,35 +1,35 @@
 {
-  "generated_at": "2026-11-18T06:00:10",
+  "generated_at": "2026-11-18T07:00:01",
   "export_days": 365,
-  "total_detections": 39866,
+  "total_detections": 40108,
   "unique_species": 106,
-  "average_confidence": 0.8903,
+  "average_confidence": 0.8902,
   "classes": {
     "Amphibian": 11,
-    "Bird": 37622,
+    "Bird": 37863,
     "Insect": 1307,
     "Mammal": 8,
-    "Unknown": 918
+    "Unknown": 919
   },
   "devices": {
-    "birdnetpi-b687": 39866
+    "birdnetpi-b687": 40108
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 7169
+      "count": 7208
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 6600
+      "count": 6635
     },
     {
       "species": "Brown Gerygone",
-      "count": 4616
+      "count": 4638
     },
     {
       "species": "Australasian Figbird",
-      "count": 3751
+      "count": 3754
     },
     {
       "species": "Willie Wagtail",
@@ -37,15 +37,15 @@
     },
     {
       "species": "Sacred Kingfisher",
-      "count": 3180
+      "count": 3182
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 2555
+      "count": 2575
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 2282
+      "count": 2311
     },
     {
       "species": "Green Grocer",
@@ -53,15 +53,15 @@
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 855
+      "count": 858
     },
     {
       "species": "Grey Fantail",
-      "count": 624
+      "count": 626
     },
     {
       "species": "Grey Shrikethrush",
-      "count": 551
+      "count": 553
     },
     {
       "species": "Eastern Whipbird",
@@ -77,23 +77,23 @@
     },
     {
       "species": "White-throated Gerygone",
-      "count": 313
+      "count": 314
     },
     {
       "species": "Sahul Brush Cuckoo",
       "count": 263
     },
     {
+      "species": "Noisy Friarbird",
+      "count": 151
+    },
+    {
       "species": "Rufous Whistler",
-      "count": 149
+      "count": 150
     },
     {
       "species": "Black-faced Monarch",
       "count": 148
-    },
-    {
-      "species": "Noisy Friarbird",
-      "count": 139
     }
   ],
   "hourly_counts": {
@@ -103,7 +103,7 @@
     "03:00": 3,
     "04:00": 242,
     "05:00": 3289,
-    "06:00": 2727,
+    "06:00": 2969,
     "07:00": 2574,
     "08:00": 2533,
     "09:00": 2005,
