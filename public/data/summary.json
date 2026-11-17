@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-18T04:00:06",
+  "generated_at": "2026-11-18T05:00:03",
   "export_days": 365,
-  "total_detections": 39440,
+  "total_detections": 39521,
   "unique_species": 106,
-  "average_confidence": 0.8902,
+  "average_confidence": 0.8903,
   "classes": {
     "Amphibian": 11,
-    "Bird": 37196,
+    "Bird": 37277,
     "Insect": 1307,
     "Mammal": 8,
     "Unknown": 918
   },
   "devices": {
-    "birdnetpi-b687": 39440
+    "birdnetpi-b687": 39521
   },
   "top_species": [
     {
@@ -21,7 +21,7 @@
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 6422
+      "count": 6480
     },
     {
       "species": "Brown Gerygone",
@@ -33,7 +33,7 @@
     },
     {
       "species": "Willie Wagtail",
-      "count": 3263
+      "count": 3286
     },
     {
       "species": "Sacred Kingfisher",
@@ -101,7 +101,7 @@
     "01:00": 142,
     "02:00": 116,
     "03:00": 3,
-    "04:00": 161,
+    "04:00": 242,
     "05:00": 2944,
     "06:00": 2727,
     "07:00": 2574,
