@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-17T22:00:01",
+  "generated_at": "2026-11-17T23:00:00",
   "export_days": 365,
-  "total_detections": 39109,
+  "total_detections": 39136,
   "unique_species": 106,
   "average_confidence": 0.8905,
   "classes": {
@@ -9,10 +9,10 @@
     "Bird": 37196,
     "Insect": 1307,
     "Mammal": 8,
-    "Unknown": 587
+    "Unknown": 614
   },
   "devices": {
-    "birdnetpi-b687": 39109
+    "birdnetpi-b687": 39136
   },
   "top_species": [
     {
@@ -92,8 +92,8 @@
       "count": 136
     },
     {
-      "species": "Noisy Friarbird",
-      "count": 124
+      "species": "Southern Whirring Tree Frog",
+      "count": 134
     }
   ],
   "hourly_counts": {
@@ -119,7 +119,7 @@
     "19:00": 2211,
     "20:00": 132,
     "21:00": 68,
-    "22:00": 23,
+    "22:00": 50,
     "23:00": 29
   }
 }
