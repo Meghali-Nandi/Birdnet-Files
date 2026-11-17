@@ -1,125 +1,125 @@
 {
-  "generated_at": "2026-11-14T01:00:00",
+  "generated_at": "2026-11-17T13:41:51",
   "export_days": 365,
-  "total_detections": 28004,
-  "unique_species": 90,
-  "average_confidence": 0.8934,
+  "total_detections": 38331,
+  "unique_species": 104,
+  "average_confidence": 0.8909,
   "classes": {
-    "Amphibian": 8,
-    "Bird": 26732,
-    "Insect": 930,
-    "Mammal": 2,
-    "Unknown": 332
+    "Amphibian": 10,
+    "Bird": 36526,
+    "Insect": 1307,
+    "Mammal": 5,
+    "Unknown": 483
   },
   "devices": {
-    "birdnetpi-b687": 28004
+    "birdnetpi-b687": 38331
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 5627
+      "count": 7010
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 3657
+      "count": 6225
     },
     {
       "species": "Brown Gerygone",
-      "count": 3347
-    },
-    {
-      "species": "Sacred Kingfisher",
-      "count": 2858
+      "count": 4543
     },
     {
       "species": "Australasian Figbird",
-      "count": 2771
+      "count": 3580
     },
     {
       "species": "Willie Wagtail",
-      "count": 2353
+      "count": 3233
+    },
+    {
+      "species": "Sacred Kingfisher",
+      "count": 3160
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 1837
+      "count": 2461
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 1290
-    },
-    {
-      "species": "Lewin's Honeyeater",
-      "count": 677
+      "count": 2237
     },
     {
       "species": "Green Grocer",
-      "count": 615
+      "count": 971
+    },
+    {
+      "species": "Lewin's Honeyeater",
+      "count": 834
     },
     {
       "species": "Grey Fantail",
-      "count": 552
+      "count": 614
     },
     {
       "species": "Grey Shrikethrush",
-      "count": 527
-    },
-    {
-      "species": "Paperbark Cicada",
-      "count": 309
+      "count": 551
     },
     {
       "species": "Eastern Whipbird",
-      "count": 298
+      "count": 514
+    },
+    {
+      "species": "Paperbark Cicada",
+      "count": 324
     },
     {
       "species": "White-throated Gerygone",
-      "count": 246
+      "count": 310
     },
     {
       "species": "Sahul Brush Cuckoo",
-      "count": 204
+      "count": 263
     },
     {
       "species": "Rufous Whistler",
-      "count": 120
+      "count": 149
     },
     {
-      "species": "Torresian Crow",
-      "count": 94
+      "species": "Black-faced Monarch",
+      "count": 142
     },
     {
       "species": "Golden Whistler",
-      "count": 66
+      "count": 135
     },
     {
-      "species": "Bar-shouldered Dove",
-      "count": 64
+      "species": "Torresian Crow",
+      "count": 123
     }
   ],
   "hourly_counts": {
-    "00:00": 0,
-    "01:00": 0,
+    "00:00": 7,
+    "01:00": 4,
     "02:00": 4,
-    "03:00": 0,
-    "04:00": 125,
-    "05:00": 2003,
-    "06:00": 1863,
-    "07:00": 1963,
-    "08:00": 1723,
-    "09:00": 1438,
-    "10:00": 2124,
-    "11:00": 2483,
-    "12:00": 2032,
-    "13:00": 1988,
-    "14:00": 1747,
-    "15:00": 1601,
-    "16:00": 1333,
-    "17:00": 2169,
-    "18:00": 1822,
-    "19:00": 1489,
-    "20:00": 46,
+    "03:00": 3,
+    "04:00": 161,
+    "05:00": 2944,
+    "06:00": 2727,
+    "07:00": 2574,
+    "08:00": 2533,
+    "09:00": 2005,
+    "10:00": 3018,
+    "11:00": 3724,
+    "12:00": 2599,
+    "13:00": 2614,
+    "14:00": 2409,
+    "15:00": 2150,
+    "16:00": 1575,
+    "17:00": 2496,
+    "18:00": 2482,
+    "19:00": 2149,
+    "20:00": 94,
     "21:00": 7,
-    "22:00": 21,
-    "23:00": 23
+    "22:00": 23,
+    "23:00": 29
   }
 }
