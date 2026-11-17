@@ -38889,3 +38889,60 @@ ts,device,class,species,confidence
 2026-11-17T17:58:14,birdnetpi-b687,Bird,Eastern Yellow Robin,0.8208
 2026-11-17T17:58:17,birdnetpi-b687,Bird,Eastern Yellow Robin,0.9192
 2026-11-17T17:58:32,birdnetpi-b687,Unknown,Brahminy Kite,0.8135
+2026-11-17T18:01:35,birdnetpi-b687,Bird,Grey Fantail,0.7022
+2026-11-17T18:01:50,birdnetpi-b687,Bird,Grey Fantail,0.7879
+2026-11-17T18:03:44,birdnetpi-b687,Bird,Grey Fantail,0.7966
+2026-11-17T18:06:32,birdnetpi-b687,Bird,Scarlet Honeyeater,0.7281
+2026-11-17T18:06:44,birdnetpi-b687,Bird,Grey Fantail,0.8162
+2026-11-17T18:06:50,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9785
+2026-11-17T18:11:38,birdnetpi-b687,Bird,Brown Gerygone,0.9889
+2026-11-17T18:12:57,birdnetpi-b687,Bird,Australasian Figbird,0.8201
+2026-11-17T18:13:03,birdnetpi-b687,Bird,Australasian Figbird,0.915
+2026-11-17T18:13:06,birdnetpi-b687,Bird,Australasian Figbird,0.8909
+2026-11-17T18:13:51,birdnetpi-b687,Bird,Australasian Figbird,0.8328
+2026-11-17T18:14:06,birdnetpi-b687,Bird,Australasian Figbird,0.7219
+2026-11-17T18:14:12,birdnetpi-b687,Bird,Australasian Figbird,0.7265
+2026-11-17T18:15:30,birdnetpi-b687,Bird,Olive-backed Oriole,0.8537
+2026-11-17T18:15:57,birdnetpi-b687,Bird,Olive-backed Oriole,0.8841
+2026-11-17T18:16:09,birdnetpi-b687,Bird,Australasian Figbird,0.8829
+2026-11-17T18:16:30,birdnetpi-b687,Bird,Australasian Figbird,0.7158
+2026-11-17T18:16:36,birdnetpi-b687,Bird,Australasian Figbird,0.7019
+2026-11-17T18:16:45,birdnetpi-b687,Bird,Australasian Figbird,0.9644
+2026-11-17T18:17:02,birdnetpi-b687,Bird,Common Myna,0.7048
+2026-11-17T18:17:08,birdnetpi-b687,Bird,Australasian Figbird,0.8063
+2026-11-17T18:17:11,birdnetpi-b687,Bird,Australasian Figbird,0.9444
+2026-11-17T18:17:29,birdnetpi-b687,Bird,Australasian Figbird,0.7172
+2026-11-17T18:17:32,birdnetpi-b687,Bird,Australasian Figbird,0.7013
+2026-11-17T18:17:44,birdnetpi-b687,Bird,Australasian Figbird,0.9341
+2026-11-17T18:17:47,birdnetpi-b687,Bird,Australasian Figbird,0.8369
+2026-11-17T18:17:59,birdnetpi-b687,Bird,Common Myna,0.7666
+2026-11-17T18:18:15,birdnetpi-b687,Bird,Common Myna,0.7675
+2026-11-17T18:18:15,birdnetpi-b687,Bird,Australasian Figbird,0.7761
+2026-11-17T18:18:21,birdnetpi-b687,Bird,Common Myna,0.8267
+2026-11-17T18:18:21,birdnetpi-b687,Bird,Australasian Figbird,0.8292
+2026-11-17T18:18:24,birdnetpi-b687,Bird,Australasian Figbird,0.9637
+2026-11-17T18:18:27,birdnetpi-b687,Bird,Australasian Figbird,0.9173
+2026-11-17T18:18:36,birdnetpi-b687,Bird,Australasian Figbird,0.9771
+2026-11-17T18:18:39,birdnetpi-b687,Bird,Australasian Figbird,0.9748
+2026-11-17T18:18:54,birdnetpi-b687,Bird,Australasian Figbird,0.8764
+2026-11-17T18:22:00,birdnetpi-b687,Bird,Australasian Figbird,0.7847
+2026-11-17T18:22:06,birdnetpi-b687,Bird,Australasian Figbird,0.8591
+2026-11-17T18:22:27,birdnetpi-b687,Bird,Australasian Figbird,0.7665
+2026-11-17T18:24:59,birdnetpi-b687,Bird,Brown Gerygone,0.8312
+2026-11-17T18:36:06,birdnetpi-b687,Bird,Lewin's Honeyeater,0.8611
+2026-11-17T18:36:33,birdnetpi-b687,Bird,Brown Gerygone,0.8627
+2026-11-17T18:39:30,birdnetpi-b687,Bird,Australasian Figbird,0.9442
+2026-11-17T18:39:36,birdnetpi-b687,Bird,Australasian Figbird,0.8171
+2026-11-17T18:43:26,birdnetpi-b687,Bird,Noisy Friarbird,0.8658
+2026-11-17T18:44:23,birdnetpi-b687,Bird,Eastern Yellow Robin,0.9601
+2026-11-17T18:44:29,birdnetpi-b687,Bird,Eastern Yellow Robin,0.9816
+2026-11-17T18:45:17,birdnetpi-b687,Bird,Eastern Yellow Robin,0.8879
+2026-11-17T18:47:16,birdnetpi-b687,Bird,Eastern Yellow Robin,0.7028
+2026-11-17T18:48:40,birdnetpi-b687,Bird,White-throated Treecreeper,0.8467
+2026-11-17T18:51:25,birdnetpi-b687,Bird,Australasian Figbird,0.744
+2026-11-17T18:51:28,birdnetpi-b687,Bird,Australasian Figbird,0.8957
+2026-11-17T18:51:31,birdnetpi-b687,Bird,Australasian Figbird,0.9391
+2026-11-17T18:51:41,birdnetpi-b687,Bird,Australasian Figbird,0.9319
+2026-11-17T18:57:37,birdnetpi-b687,Bird,Willie Wagtail,0.8168
+2026-11-17T18:58:34,birdnetpi-b687,Bird,Willie Wagtail,0.9534
+2026-11-17T18:59:50,birdnetpi-b687,Bird,Eastern Yellow Robin,0.8423
