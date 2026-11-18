@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-18T18:00:05",
+  "generated_at": "2026-11-18T19:00:01",
   "export_days": 365,
-  "total_detections": 40829,
+  "total_detections": 40851,
   "unique_species": 107,
   "average_confidence": 0.8899,
   "classes": {
     "Amphibian": 13,
-    "Bird": 38538,
+    "Bird": 38560,
     "Insect": 1311,
     "Mammal": 8,
     "Unknown": 959
   },
   "devices": {
-    "birdnetpi-b687": 40829
+    "birdnetpi-b687": 40851
   },
   "top_species": [
     {
@@ -21,7 +21,7 @@
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 6764
+      "count": 6771
     },
     {
       "species": "Brown Gerygone",
@@ -29,11 +29,11 @@
     },
     {
       "species": "Australasian Figbird",
-      "count": 3772
+      "count": 3773
     },
     {
       "species": "Willie Wagtail",
-      "count": 3301
+      "count": 3302
     },
     {
       "species": "Sacred Kingfisher",
@@ -41,11 +41,11 @@
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 2613
+      "count": 2618
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 2364
+      "count": 2372
     },
     {
       "species": "Green Grocer",
@@ -115,7 +115,7 @@
     "15:00": 2222,
     "16:00": 1731,
     "17:00": 2731,
-    "18:00": 2540,
+    "18:00": 2562,
     "19:00": 2211,
     "20:00": 132,
     "21:00": 68,
