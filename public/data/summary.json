@@ -1,39 +1,39 @@
 {
-  "generated_at": "2026-11-18T10:00:02",
+  "generated_at": "2026-11-18T11:00:02",
   "export_days": 365,
-  "total_detections": 40521,
+  "total_detections": 40629,
   "unique_species": 107,
   "average_confidence": 0.89,
   "classes": {
     "Amphibian": 12,
-    "Bird": 38267,
+    "Bird": 38347,
     "Insect": 1308,
     "Mammal": 8,
-    "Unknown": 926
+    "Unknown": 954
   },
   "devices": {
-    "birdnetpi-b687": 40521
+    "birdnetpi-b687": 40629
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 7264
+      "count": 7269
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 6747
+      "count": 6752
     },
     {
       "species": "Brown Gerygone",
-      "count": 4734
+      "count": 4772
     },
     {
       "species": "Australasian Figbird",
-      "count": 3770
+      "count": 3771
     },
     {
       "species": "Willie Wagtail",
-      "count": 3297
+      "count": 3298
     },
     {
       "species": "Sacred Kingfisher",
@@ -41,11 +41,11 @@
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 2595
+      "count": 2607
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 2325
+      "count": 2330
     },
     {
       "species": "Green Grocer",
@@ -53,7 +53,7 @@
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 876
+      "count": 878
     },
     {
       "species": "Grey Fantail",
@@ -61,11 +61,11 @@
     },
     {
       "species": "Grey Shrikethrush",
-      "count": 555
+      "count": 562
     },
     {
       "species": "Eastern Whipbird",
-      "count": 531
+      "count": 533
     },
     {
       "species": "Southern Whirring Tree Frog",
@@ -81,11 +81,11 @@
     },
     {
       "species": "Sahul Brush Cuckoo",
-      "count": 263
+      "count": 291
     },
     {
       "species": "Noisy Friarbird",
-      "count": 166
+      "count": 167
     },
     {
       "species": "Black-faced Monarch",
@@ -107,7 +107,7 @@
     "07:00": 2720,
     "08:00": 2681,
     "09:00": 2124,
-    "10:00": 3018,
+    "10:00": 3126,
     "11:00": 3724,
     "12:00": 2602,
     "13:00": 2653,
