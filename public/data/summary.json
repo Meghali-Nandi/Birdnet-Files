@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-18T19:00:01",
+  "generated_at": "2026-11-18T20:00:02",
   "export_days": 365,
-  "total_detections": 40851,
+  "total_detections": 40869,
   "unique_species": 107,
   "average_confidence": 0.8899,
   "classes": {
     "Amphibian": 13,
-    "Bird": 38560,
-    "Insect": 1311,
+    "Bird": 38564,
+    "Insect": 1325,
     "Mammal": 8,
     "Unknown": 959
   },
   "devices": {
-    "birdnetpi-b687": 40851
+    "birdnetpi-b687": 40869
   },
   "top_species": [
     {
@@ -33,7 +33,7 @@
     },
     {
       "species": "Willie Wagtail",
-      "count": 3302
+      "count": 3304
     },
     {
       "species": "Sacred Kingfisher",
@@ -41,15 +41,15 @@
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 2618
+      "count": 2619
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 2372
+      "count": 2373
     },
     {
       "species": "Green Grocer",
-      "count": 971
+      "count": 985
     },
     {
       "species": "Lewin's Honeyeater",
@@ -116,7 +116,7 @@
     "16:00": 1731,
     "17:00": 2731,
     "18:00": 2562,
-    "19:00": 2211,
+    "19:00": 2229,
     "20:00": 132,
     "21:00": 68,
     "22:00": 50,
