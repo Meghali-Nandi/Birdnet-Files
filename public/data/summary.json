@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-18T15:00:00",
+  "generated_at": "2026-11-18T16:00:04",
   "export_days": 365,
-  "total_detections": 40810,
+  "total_detections": 40818,
   "unique_species": 107,
-  "average_confidence": 0.89,
+  "average_confidence": 0.8899,
   "classes": {
     "Amphibian": 13,
-    "Bird": 38521,
+    "Bird": 38528,
     "Insect": 1311,
     "Mammal": 8,
-    "Unknown": 957
+    "Unknown": 958
   },
   "devices": {
-    "birdnetpi-b687": 40810
+    "birdnetpi-b687": 40818
   },
   "top_species": [
     {
@@ -21,11 +21,11 @@
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 6755
+      "count": 6760
     },
     {
       "species": "Brown Gerygone",
-      "count": 4831
+      "count": 4832
     },
     {
       "species": "Australasian Figbird",
@@ -45,7 +45,7 @@
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 2358
+      "count": 2359
     },
     {
       "species": "Green Grocer",
@@ -112,7 +112,7 @@
     "12:00": 2633,
     "13:00": 2655,
     "14:00": 2509,
-    "15:00": 2214,
+    "15:00": 2222,
     "16:00": 1730,
     "17:00": 2721,
     "18:00": 2540,
