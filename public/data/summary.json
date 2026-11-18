@@ -1,39 +1,39 @@
 {
-  "generated_at": "2026-11-19T06:00:01",
+  "generated_at": "2026-11-19T07:00:00",
   "export_days": 365,
-  "total_detections": 41262,
+  "total_detections": 41499,
   "unique_species": 109,
-  "average_confidence": 0.8898,
+  "average_confidence": 0.8897,
   "classes": {
     "Amphibian": 13,
-    "Bird": 38934,
+    "Bird": 39168,
     "Insect": 1346,
     "Mammal": 9,
-    "Unknown": 960
+    "Unknown": 963
   },
   "devices": {
-    "birdnetpi-b687": 41262
+    "birdnetpi-b687": 41499
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 7340
+      "count": 7421
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 6962
+      "count": 7003
     },
     {
       "species": "Brown Gerygone",
-      "count": 4832
+      "count": 4860
     },
     {
       "species": "Australasian Figbird",
-      "count": 3812
+      "count": 3820
     },
     {
       "species": "Willie Wagtail",
-      "count": 3327
+      "count": 3328
     },
     {
       "species": "Sacred Kingfisher",
@@ -41,11 +41,11 @@
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 2626
+      "count": 2634
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 2405
+      "count": 2425
     },
     {
       "species": "Green Grocer",
@@ -53,11 +53,11 @@
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 916
+      "count": 928
     },
     {
       "species": "Grey Fantail",
-      "count": 628
+      "count": 631
     },
     {
       "species": "Grey Shrikethrush",
@@ -77,7 +77,7 @@
     },
     {
       "species": "White-throated Gerygone",
-      "count": 316
+      "count": 317
     },
     {
       "species": "Sahul Brush Cuckoo",
@@ -88,12 +88,12 @@
       "count": 170
     },
     {
-      "species": "Black-faced Monarch",
-      "count": 154
+      "species": "Rufous Whistler",
+      "count": 158
     },
     {
-      "species": "Rufous Whistler",
-      "count": 151
+      "species": "Black-faced Monarch",
+      "count": 154
     }
   ],
   "hourly_counts": {
@@ -102,8 +102,8 @@
     "02:00": 121,
     "03:00": 3,
     "04:00": 326,
-    "05:00": 3568,
-    "06:00": 2969,
+    "05:00": 3569,
+    "06:00": 3205,
     "07:00": 2720,
     "08:00": 2681,
     "09:00": 2124,
