@@ -1,39 +1,39 @@
 {
-  "generated_at": "2026-11-19T09:00:02",
+  "generated_at": "2026-11-19T10:00:01",
   "export_days": 365,
-  "total_detections": 41914,
+  "total_detections": 42071,
   "unique_species": 109,
-  "average_confidence": 0.8896,
+  "average_confidence": 0.8895,
   "classes": {
     "Amphibian": 14,
-    "Bird": 39581,
-    "Insect": 1346,
+    "Bird": 39719,
+    "Insect": 1360,
     "Mammal": 9,
-    "Unknown": 964
+    "Unknown": 969
   },
   "devices": {
-    "birdnetpi-b687": 41914
+    "birdnetpi-b687": 42071
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 7475
+      "count": 7520
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 7088
+      "count": 7092
     },
     {
       "species": "Brown Gerygone",
-      "count": 4896
+      "count": 4918
     },
     {
       "species": "Australasian Figbird",
-      "count": 3821
+      "count": 3824
     },
     {
       "species": "Willie Wagtail",
-      "count": 3342
+      "count": 3349
     },
     {
       "species": "Sacred Kingfisher",
@@ -41,11 +41,11 @@
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 2700
+      "count": 2734
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 2522
+      "count": 2525
     },
     {
       "species": "Green Grocer",
@@ -53,11 +53,11 @@
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 945
+      "count": 949
     },
     {
       "species": "Grey Fantail",
-      "count": 632
+      "count": 637
     },
     {
       "species": "Grey Shrikethrush",
@@ -73,11 +73,11 @@
     },
     {
       "species": "Paperbark Cicada",
-      "count": 328
+      "count": 342
     },
     {
       "species": "White-throated Gerygone",
-      "count": 322
+      "count": 323
     },
     {
       "species": "Sahul Brush Cuckoo",
@@ -106,7 +106,7 @@
     "06:00": 3208,
     "07:00": 3025,
     "08:00": 2788,
-    "09:00": 2124,
+    "09:00": 2281,
     "10:00": 3126,
     "11:00": 3845,
     "12:00": 2633,
