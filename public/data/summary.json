@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-18T17:00:04",
+  "generated_at": "2026-11-18T18:00:05",
   "export_days": 365,
-  "total_detections": 40819,
+  "total_detections": 40829,
   "unique_species": 107,
   "average_confidence": 0.8899,
   "classes": {
     "Amphibian": 13,
-    "Bird": 38528,
+    "Bird": 38538,
     "Insect": 1311,
     "Mammal": 8,
     "Unknown": 959
   },
   "devices": {
-    "birdnetpi-b687": 40819
+    "birdnetpi-b687": 40829
   },
   "top_species": [
     {
@@ -21,7 +21,7 @@
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 6760
+      "count": 6764
     },
     {
       "species": "Brown Gerygone",
@@ -45,7 +45,7 @@
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 2359
+      "count": 2364
     },
     {
       "species": "Green Grocer",
@@ -114,7 +114,7 @@
     "14:00": 2509,
     "15:00": 2222,
     "16:00": 1731,
-    "17:00": 2721,
+    "17:00": 2731,
     "18:00": 2540,
     "19:00": 2211,
     "20:00": 132,
