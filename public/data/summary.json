@@ -1,35 +1,35 @@
 {
-  "generated_at": "2026-11-19T18:00:02",
+  "generated_at": "2026-11-19T19:00:00",
   "export_days": 365,
-  "total_detections": 43433,
+  "total_detections": 43732,
   "unique_species": 111,
   "average_confidence": 0.8891,
   "classes": {
     "Amphibian": 14,
-    "Bird": 41030,
-    "Insect": 1398,
+    "Bird": 41310,
+    "Insect": 1416,
     "Mammal": 9,
-    "Unknown": 982
+    "Unknown": 983
   },
   "devices": {
-    "birdnetpi-b687": 43433
+    "birdnetpi-b687": 43732
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 7826
+      "count": 7886
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 7168
+      "count": 7169
     },
     {
       "species": "Brown Gerygone",
-      "count": 5225
+      "count": 5259
     },
     {
       "species": "Australasian Figbird",
-      "count": 3825
+      "count": 3897
     },
     {
       "species": "Willie Wagtail",
@@ -41,15 +41,15 @@
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 3011
+      "count": 3085
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 2608
+      "count": 2620
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 1007
+      "count": 1012
     },
     {
       "species": "Green Grocer",
@@ -57,7 +57,7 @@
     },
     {
       "species": "Grey Fantail",
-      "count": 653
+      "count": 665
     },
     {
       "species": "Grey Shrikethrush",
@@ -73,11 +73,11 @@
     },
     {
       "species": "Paperbark Cicada",
-      "count": 380
+      "count": 398
     },
     {
       "species": "White-throated Gerygone",
-      "count": 345
+      "count": 347
     },
     {
       "species": "Sahul Brush Cuckoo",
@@ -85,7 +85,7 @@
     },
     {
       "species": "Rufous Whistler",
-      "count": 194
+      "count": 195
     },
     {
       "species": "Noisy Friarbird",
@@ -115,7 +115,7 @@
     "15:00": 2365,
     "16:00": 2006,
     "17:00": 2893,
-    "18:00": 2562,
+    "18:00": 2861,
     "19:00": 2230,
     "20:00": 152,
     "21:00": 68,
