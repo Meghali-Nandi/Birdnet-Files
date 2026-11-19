@@ -44295,3 +44295,74 @@ ts,device,class,species,confidence
 2026-11-19T23:55:40,birdnetpi-b687,Bird,Masked Lapwing,0.8771
 2026-11-19T23:55:43,birdnetpi-b687,Bird,Masked Lapwing,0.9234
 2026-11-19T23:55:46,birdnetpi-b687,Bird,Masked Lapwing,0.8723
+2026-11-20T04:06:36,birdnetpi-b687,Mammal,Common Brushtail Possum,0.7276
+2026-11-20T04:06:39,birdnetpi-b687,Mammal,Common Brushtail Possum,0.75
+2026-11-20T04:06:42,birdnetpi-b687,Mammal,Common Brushtail Possum,0.7286
+2026-11-20T04:06:48,birdnetpi-b687,Mammal,Common Brushtail Possum,0.8829
+2026-11-20T04:42:07,birdnetpi-b687,Bird,Willie Wagtail,0.883
+2026-11-20T04:42:22,birdnetpi-b687,Bird,Willie Wagtail,0.9831
+2026-11-20T04:42:31,birdnetpi-b687,Bird,Willie Wagtail,0.9612
+2026-11-20T04:42:58,birdnetpi-b687,Bird,Willie Wagtail,0.7732
+2026-11-20T04:43:20,birdnetpi-b687,Bird,Willie Wagtail,0.9033
+2026-11-20T04:43:56,birdnetpi-b687,Bird,Willie Wagtail,0.8752
+2026-11-20T04:44:26,birdnetpi-b687,Bird,Willie Wagtail,0.9068
+2026-11-20T04:45:29,birdnetpi-b687,Bird,Willie Wagtail,0.8073
+2026-11-20T04:45:41,birdnetpi-b687,Bird,Willie Wagtail,0.9901
+2026-11-20T04:46:33,birdnetpi-b687,Bird,Willie Wagtail,0.8116
+2026-11-20T04:46:57,birdnetpi-b687,Bird,Willie Wagtail,0.9743
+2026-11-20T04:47:45,birdnetpi-b687,Bird,Willie Wagtail,0.8039
+2026-11-20T04:47:48,birdnetpi-b687,Bird,Willie Wagtail,0.7623
+2026-11-20T04:49:43,birdnetpi-b687,Bird,Willie Wagtail,0.9472
+2026-11-20T04:50:23,birdnetpi-b687,Bird,Willie Wagtail,0.9
+2026-11-20T04:50:44,birdnetpi-b687,Bird,Willie Wagtail,0.9701
+2026-11-20T04:50:57,birdnetpi-b687,Bird,Willie Wagtail,0.9449
+2026-11-20T04:51:06,birdnetpi-b687,Bird,Willie Wagtail,0.9738
+2026-11-20T04:51:21,birdnetpi-b687,Bird,Willie Wagtail,0.8723
+2026-11-20T04:51:36,birdnetpi-b687,Bird,Willie Wagtail,0.9782
+2026-11-20T04:51:51,birdnetpi-b687,Bird,Willie Wagtail,0.7071
+2026-11-20T04:52:28,birdnetpi-b687,Bird,Willie Wagtail,0.8145
+2026-11-20T04:52:31,birdnetpi-b687,Bird,Willie Wagtail,0.8099
+2026-11-20T04:52:38,birdnetpi-b687,Bird,Willie Wagtail,0.8594
+2026-11-20T04:52:47,birdnetpi-b687,Bird,Willie Wagtail,0.9731
+2026-11-20T04:52:53,birdnetpi-b687,Bird,Willie Wagtail,0.7812
+2026-11-20T04:53:43,birdnetpi-b687,Bird,Willie Wagtail,0.8198
+2026-11-20T04:54:28,birdnetpi-b687,Bird,Willie Wagtail,0.962
+2026-11-20T04:54:49,birdnetpi-b687,Bird,Willie Wagtail,0.7514
+2026-11-20T04:55:04,birdnetpi-b687,Bird,Willie Wagtail,0.8431
+2026-11-20T04:55:07,birdnetpi-b687,Bird,Eastern Yellow Robin,0.8717
+2026-11-20T04:55:32,birdnetpi-b687,Bird,Eastern Yellow Robin,0.9588
+2026-11-20T04:55:35,birdnetpi-b687,Bird,Eastern Yellow Robin,0.9277
+2026-11-20T04:55:44,birdnetpi-b687,Bird,Eastern Yellow Robin,0.8127
+2026-11-20T04:55:47,birdnetpi-b687,Bird,Eastern Yellow Robin,0.9637
+2026-11-20T04:55:50,birdnetpi-b687,Bird,Eastern Yellow Robin,0.8497
+2026-11-20T04:56:11,birdnetpi-b687,Bird,Eastern Yellow Robin,0.8494
+2026-11-20T04:56:14,birdnetpi-b687,Bird,Eastern Yellow Robin,0.8371
+2026-11-20T04:56:17,birdnetpi-b687,Bird,Eastern Yellow Robin,0.8845
+2026-11-20T04:56:23,birdnetpi-b687,Bird,Eastern Yellow Robin,0.9869
+2026-11-20T04:56:26,birdnetpi-b687,Bird,Willie Wagtail,0.8029
+2026-11-20T04:56:29,birdnetpi-b687,Bird,Eastern Yellow Robin,0.7002
+2026-11-20T04:56:32,birdnetpi-b687,Bird,Eastern Yellow Robin,0.8827
+2026-11-20T04:56:38,birdnetpi-b687,Bird,Eastern Yellow Robin,0.7152
+2026-11-20T04:56:41,birdnetpi-b687,Bird,Eastern Yellow Robin,0.7965
+2026-11-20T04:57:05,birdnetpi-b687,Bird,Eastern Yellow Robin,0.9523
+2026-11-20T04:57:14,birdnetpi-b687,Bird,Eastern Yellow Robin,0.9662
+2026-11-20T04:57:20,birdnetpi-b687,Bird,Eastern Yellow Robin,0.7944
+2026-11-20T04:57:23,birdnetpi-b687,Bird,Eastern Yellow Robin,0.9577
+2026-11-20T04:57:44,birdnetpi-b687,Bird,Eastern Yellow Robin,0.8008
+2026-11-20T04:57:47,birdnetpi-b687,Bird,Eastern Yellow Robin,0.9304
+2026-11-20T04:57:59,birdnetpi-b687,Bird,Eastern Yellow Robin,0.9975
+2026-11-20T04:58:02,birdnetpi-b687,Bird,Eastern Yellow Robin,0.8354
+2026-11-20T04:58:05,birdnetpi-b687,Bird,Eastern Yellow Robin,0.8251
+2026-11-20T04:58:12,birdnetpi-b687,Bird,Eastern Yellow Robin,0.982
+2026-11-20T04:58:18,birdnetpi-b687,Bird,Eastern Yellow Robin,0.7868
+2026-11-20T04:58:27,birdnetpi-b687,Bird,Eastern Yellow Robin,0.7671
+2026-11-20T04:58:39,birdnetpi-b687,Bird,Eastern Yellow Robin,0.7705
+2026-11-20T04:58:42,birdnetpi-b687,Bird,Eastern Yellow Robin,0.9607
+2026-11-20T04:58:48,birdnetpi-b687,Bird,Eastern Yellow Robin,0.8893
+2026-11-20T04:59:00,birdnetpi-b687,Bird,Eastern Yellow Robin,0.9175
+2026-11-20T04:59:03,birdnetpi-b687,Bird,Eastern Yellow Robin,0.9234
+2026-11-20T04:59:09,birdnetpi-b687,Bird,Eastern Yellow Robin,0.9667
+2026-11-20T04:59:20,birdnetpi-b687,Bird,Eastern Yellow Robin,0.8768
+2026-11-20T04:59:23,birdnetpi-b687,Bird,Eastern Yellow Robin,0.9819
+2026-11-20T04:59:32,birdnetpi-b687,Bird,Willie Wagtail,0.8006
+2026-11-20T04:59:41,birdnetpi-b687,Bird,Eastern Yellow Robin,0.7733
