@@ -1,51 +1,51 @@
 {
-  "generated_at": "2026-11-20T05:00:02",
+  "generated_at": "2026-11-20T06:00:05",
   "export_days": 365,
-  "total_detections": 44367,
+  "total_detections": 44634,
   "unique_species": 111,
-  "average_confidence": 0.8896,
+  "average_confidence": 0.8895,
   "classes": {
     "Amphibian": 14,
-    "Bird": 41599,
+    "Bird": 41866,
     "Insect": 1757,
     "Mammal": 13,
     "Unknown": 984
   },
   "devices": {
-    "birdnetpi-b687": 44367
+    "birdnetpi-b687": 44634
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 7911
+      "count": 7969
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 7204
+      "count": 7257
     },
     {
       "species": "Brown Gerygone",
-      "count": 5264
+      "count": 5272
     },
     {
       "species": "Australasian Figbird",
-      "count": 3903
+      "count": 3940
     },
     {
       "species": "Willie Wagtail",
-      "count": 3421
-    },
-    {
-      "species": "Sacred Kingfisher",
-      "count": 3219
+      "count": 3423
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 3216
+      "count": 3264
+    },
+    {
+      "species": "Sacred Kingfisher",
+      "count": 3222
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 2621
+      "count": 2647
     },
     {
       "species": "Green Grocer",
@@ -53,7 +53,7 @@
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 1020
+      "count": 1030
     },
     {
       "species": "Grey Fantail",
@@ -77,7 +77,7 @@
     },
     {
       "species": "White-throated Gerygone",
-      "count": 348
+      "count": 351
     },
     {
       "species": "Sahul Brush Cuckoo",
@@ -89,11 +89,11 @@
     },
     {
       "species": "Noisy Friarbird",
-      "count": 187
+      "count": 195
     },
     {
       "species": "Black-faced Monarch",
-      "count": 157
+      "count": 162
     }
   ],
   "hourly_counts": {
@@ -102,7 +102,7 @@
     "02:00": 121,
     "03:00": 3,
     "04:00": 397,
-    "05:00": 3569,
+    "05:00": 3836,
     "06:00": 3208,
     "07:00": 3025,
     "08:00": 2788,
