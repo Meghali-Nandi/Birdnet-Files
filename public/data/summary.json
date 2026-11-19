@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-11-19T17:00:02",
+  "generated_at": "2026-11-19T18:00:02",
   "export_days": 365,
-  "total_detections": 43268,
-  "unique_species": 110,
-  "average_confidence": 0.8892,
+  "total_detections": 43433,
+  "unique_species": 111,
+  "average_confidence": 0.8891,
   "classes": {
     "Amphibian": 14,
-    "Bird": 40878,
-    "Insect": 1391,
+    "Bird": 41030,
+    "Insect": 1398,
     "Mammal": 9,
-    "Unknown": 976
+    "Unknown": 982
   },
   "devices": {
-    "birdnetpi-b687": 43268
+    "birdnetpi-b687": 43433
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 7792
+      "count": 7826
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 7157
+      "count": 7168
     },
     {
       "species": "Brown Gerygone",
-      "count": 5211
+      "count": 5225
     },
     {
       "species": "Australasian Figbird",
@@ -33,7 +33,7 @@
     },
     {
       "species": "Willie Wagtail",
-      "count": 3383
+      "count": 3388
     },
     {
       "species": "Sacred Kingfisher",
@@ -41,23 +41,23 @@
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 2966
+      "count": 3011
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 2597
+      "count": 2608
+    },
+    {
+      "species": "Lewin's Honeyeater",
+      "count": 1007
     },
     {
       "species": "Green Grocer",
       "count": 1006
     },
     {
-      "species": "Lewin's Honeyeater",
-      "count": 998
-    },
-    {
       "species": "Grey Fantail",
-      "count": 652
+      "count": 653
     },
     {
       "species": "Grey Shrikethrush",
@@ -73,11 +73,11 @@
     },
     {
       "species": "Paperbark Cicada",
-      "count": 373
+      "count": 380
     },
     {
       "species": "White-throated Gerygone",
-      "count": 344
+      "count": 345
     },
     {
       "species": "Sahul Brush Cuckoo",
@@ -85,7 +85,7 @@
     },
     {
       "species": "Rufous Whistler",
-      "count": 192
+      "count": 194
     },
     {
       "species": "Noisy Friarbird",
@@ -113,8 +113,8 @@
     "13:00": 2721,
     "14:00": 2717,
     "15:00": 2365,
-    "16:00": 2003,
-    "17:00": 2731,
+    "16:00": 2006,
+    "17:00": 2893,
     "18:00": 2562,
     "19:00": 2230,
     "20:00": 152,
