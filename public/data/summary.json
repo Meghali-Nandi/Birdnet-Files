@@ -1,51 +1,51 @@
 {
-  "generated_at": "2026-11-19T16:00:01",
+  "generated_at": "2026-11-19T17:00:02",
   "export_days": 365,
-  "total_detections": 42991,
+  "total_detections": 43268,
   "unique_species": 110,
   "average_confidence": 0.8892,
   "classes": {
     "Amphibian": 14,
-    "Bird": 40605,
-    "Insect": 1387,
+    "Bird": 40878,
+    "Insect": 1391,
     "Mammal": 9,
     "Unknown": 976
   },
   "devices": {
-    "birdnetpi-b687": 42991
+    "birdnetpi-b687": 43268
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 7712
+      "count": 7792
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 7152
+      "count": 7157
     },
     {
       "species": "Brown Gerygone",
-      "count": 5157
+      "count": 5211
     },
     {
       "species": "Australasian Figbird",
-      "count": 3824
+      "count": 3825
     },
     {
       "species": "Willie Wagtail",
-      "count": 3378
+      "count": 3383
     },
     {
       "species": "Sacred Kingfisher",
-      "count": 3216
+      "count": 3219
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 2898
+      "count": 2966
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 2572
+      "count": 2597
     },
     {
       "species": "Green Grocer",
@@ -53,11 +53,11 @@
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 990
+      "count": 998
     },
     {
       "species": "Grey Fantail",
-      "count": 650
+      "count": 652
     },
     {
       "species": "Grey Shrikethrush",
@@ -73,7 +73,7 @@
     },
     {
       "species": "Paperbark Cicada",
-      "count": 369
+      "count": 373
     },
     {
       "species": "White-throated Gerygone",
@@ -85,11 +85,11 @@
     },
     {
       "species": "Rufous Whistler",
-      "count": 191
+      "count": 192
     },
     {
       "species": "Noisy Friarbird",
-      "count": 175
+      "count": 178
     },
     {
       "species": "Black-faced Monarch",
@@ -112,8 +112,8 @@
     "12:00": 2647,
     "13:00": 2721,
     "14:00": 2717,
-    "15:00": 2360,
-    "16:00": 1731,
+    "15:00": 2365,
+    "16:00": 2003,
     "17:00": 2731,
     "18:00": 2562,
     "19:00": 2230,
