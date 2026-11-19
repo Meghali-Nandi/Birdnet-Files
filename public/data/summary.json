@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-11-19T19:00:00",
+  "generated_at": "2026-11-19T21:00:02",
   "export_days": 365,
-  "total_detections": 43732,
+  "total_detections": 44277,
   "unique_species": 111,
-  "average_confidence": 0.8891,
+  "average_confidence": 0.8896,
   "classes": {
     "Amphibian": 14,
-    "Bird": 41310,
-    "Insect": 1416,
+    "Bird": 41514,
+    "Insect": 1757,
     "Mammal": 9,
     "Unknown": 983
   },
   "devices": {
-    "birdnetpi-b687": 43732
+    "birdnetpi-b687": 44277
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 7886
+      "count": 7911
     },
     {
       "species": "Eastern Yellow Robin",
@@ -25,15 +25,15 @@
     },
     {
       "species": "Brown Gerygone",
-      "count": 5259
+      "count": 5264
     },
     {
       "species": "Australasian Figbird",
-      "count": 3897
+      "count": 3903
     },
     {
       "species": "Willie Wagtail",
-      "count": 3388
+      "count": 3389
     },
     {
       "species": "Sacred Kingfisher",
@@ -41,19 +41,19 @@
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 3085
+      "count": 3216
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 2620
-    },
-    {
-      "species": "Lewin's Honeyeater",
-      "count": 1012
+      "count": 2621
     },
     {
       "species": "Green Grocer",
-      "count": 1006
+      "count": 1343
+    },
+    {
+      "species": "Lewin's Honeyeater",
+      "count": 1020
     },
     {
       "species": "Grey Fantail",
@@ -73,11 +73,11 @@
     },
     {
       "species": "Paperbark Cicada",
-      "count": 398
+      "count": 402
     },
     {
       "species": "White-throated Gerygone",
-      "count": 347
+      "count": 348
     },
     {
       "species": "Sahul Brush Cuckoo",
@@ -85,15 +85,15 @@
     },
     {
       "species": "Rufous Whistler",
-      "count": 195
+      "count": 196
     },
     {
       "species": "Noisy Friarbird",
-      "count": 178
+      "count": 187
     },
     {
       "species": "Black-faced Monarch",
-      "count": 156
+      "count": 157
     }
   ],
   "hourly_counts": {
@@ -115,9 +115,9 @@
     "15:00": 2365,
     "16:00": 2006,
     "17:00": 2893,
-    "18:00": 2861,
-    "19:00": 2230,
-    "20:00": 152,
+    "18:00": 2862,
+    "19:00": 2626,
+    "20:00": 300,
     "21:00": 68,
     "22:00": 51,
     "23:00": 40
