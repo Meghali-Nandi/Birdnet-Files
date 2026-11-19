@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-19T12:00:01",
+  "generated_at": "2026-11-19T13:00:00",
   "export_days": 365,
-  "total_detections": 42565,
+  "total_detections": 42579,
   "unique_species": 109,
   "average_confidence": 0.8894,
   "classes": {
     "Amphibian": 14,
-    "Bird": 40194,
+    "Bird": 40206,
     "Insect": 1379,
     "Mammal": 9,
-    "Unknown": 969
+    "Unknown": 971
   },
   "devices": {
-    "birdnetpi-b687": 42565
+    "birdnetpi-b687": 42579
   },
   "top_species": [
     {
@@ -41,11 +41,11 @@
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 2866
+      "count": 2872
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 2532
+      "count": 2538
     },
     {
       "species": "Green Grocer",
@@ -109,7 +109,7 @@
     "09:00": 2281,
     "10:00": 3412,
     "11:00": 4053,
-    "12:00": 2633,
+    "12:00": 2647,
     "13:00": 2655,
     "14:00": 2509,
     "15:00": 2222,
