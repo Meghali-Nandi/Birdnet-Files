@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-19T23:00:03",
+  "generated_at": "2026-11-20T00:00:01",
   "export_days": 365,
-  "total_detections": 44277,
+  "total_detections": 44296,
   "unique_species": 111,
-  "average_confidence": 0.8896,
+  "average_confidence": 0.8897,
   "classes": {
     "Amphibian": 14,
-    "Bird": 41514,
+    "Bird": 41532,
     "Insect": 1757,
     "Mammal": 9,
-    "Unknown": 983
+    "Unknown": 984
   },
   "devices": {
-    "birdnetpi-b687": 44277
+    "birdnetpi-b687": 44296
   },
   "top_species": [
     {
@@ -69,7 +69,7 @@
     },
     {
       "species": "Southern Whirring Tree Frog",
-      "count": 437
+      "count": 438
     },
     {
       "species": "Paperbark Cicada",
@@ -120,6 +120,6 @@
     "20:00": 300,
     "21:00": 68,
     "22:00": 51,
-    "23:00": 40
+    "23:00": 59
   }
 }
