@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-11-19T15:00:01",
+  "generated_at": "2026-11-19T16:00:01",
   "export_days": 365,
-  "total_detections": 42849,
-  "unique_species": 109,
-  "average_confidence": 0.8893,
+  "total_detections": 42991,
+  "unique_species": 110,
+  "average_confidence": 0.8892,
   "classes": {
     "Amphibian": 14,
-    "Bird": 40466,
-    "Insect": 1386,
+    "Bird": 40605,
+    "Insect": 1387,
     "Mammal": 9,
-    "Unknown": 974
+    "Unknown": 976
   },
   "devices": {
-    "birdnetpi-b687": 42849
+    "birdnetpi-b687": 42991
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 7701
+      "count": 7712
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 7137
+      "count": 7152
     },
     {
       "species": "Brown Gerygone",
-      "count": 5109
+      "count": 5157
     },
     {
       "species": "Australasian Figbird",
@@ -37,15 +37,15 @@
     },
     {
       "species": "Sacred Kingfisher",
-      "count": 3211
+      "count": 3216
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 2888
+      "count": 2898
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 2559
+      "count": 2572
     },
     {
       "species": "Green Grocer",
@@ -53,7 +53,7 @@
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 978
+      "count": 990
     },
     {
       "species": "Grey Fantail",
@@ -73,11 +73,11 @@
     },
     {
       "species": "Paperbark Cicada",
-      "count": 368
+      "count": 369
     },
     {
       "species": "White-throated Gerygone",
-      "count": 341
+      "count": 344
     },
     {
       "species": "Sahul Brush Cuckoo",
@@ -85,7 +85,7 @@
     },
     {
       "species": "Rufous Whistler",
-      "count": 182
+      "count": 191
     },
     {
       "species": "Noisy Friarbird",
@@ -111,8 +111,8 @@
     "11:00": 4053,
     "12:00": 2647,
     "13:00": 2721,
-    "14:00": 2713,
-    "15:00": 2222,
+    "14:00": 2717,
+    "15:00": 2360,
     "16:00": 1731,
     "17:00": 2731,
     "18:00": 2562,
