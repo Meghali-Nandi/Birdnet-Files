@@ -1,47 +1,47 @@
 {
-  "generated_at": "2026-11-20T12:00:16",
+  "generated_at": "2026-11-20T13:00:01",
   "export_days": 365,
-  "total_detections": 46342,
+  "total_detections": 46498,
   "unique_species": 112,
-  "average_confidence": 0.8891,
+  "average_confidence": 0.889,
   "classes": {
     "Amphibian": 14,
-    "Bird": 43430,
-    "Insect": 1892,
+    "Bird": 43581,
+    "Insect": 1896,
     "Mammal": 13,
-    "Unknown": 993
+    "Unknown": 994
   },
   "devices": {
-    "birdnetpi-b687": 46342
+    "birdnetpi-b687": 46498
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 8229
+      "count": 8257
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 7299
+      "count": 7318
     },
     {
       "species": "Brown Gerygone",
-      "count": 5600
+      "count": 5628
     },
     {
       "species": "Australasian Figbird",
-      "count": 3957
+      "count": 3958
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 3623
+      "count": 3635
     },
     {
       "species": "Willie Wagtail",
-      "count": 3436
+      "count": 3457
     },
     {
       "species": "Sacred Kingfisher",
-      "count": 3249
+      "count": 3263
     },
     {
       "species": "White-throated Treecreeper",
@@ -73,11 +73,11 @@
     },
     {
       "species": "Paperbark Cicada",
-      "count": 426
+      "count": 430
     },
     {
       "species": "White-throated Gerygone",
-      "count": 360
+      "count": 362
     },
     {
       "species": "Sahul Brush Cuckoo",
@@ -85,7 +85,7 @@
     },
     {
       "species": "Black-faced Monarch",
-      "count": 239
+      "count": 249
     },
     {
       "species": "Rufous Whistler",
@@ -93,7 +93,7 @@
     },
     {
       "species": "Noisy Friarbird",
-      "count": 204
+      "count": 206
     }
   ],
   "hourly_counts": {
@@ -109,7 +109,7 @@
     "09:00": 2559,
     "10:00": 3691,
     "11:00": 4293,
-    "12:00": 2647,
+    "12:00": 2803,
     "13:00": 2721,
     "14:00": 2717,
     "15:00": 2365,
