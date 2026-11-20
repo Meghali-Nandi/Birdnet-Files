@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-11-20T18:00:02",
+  "generated_at": "2026-11-20T19:00:02",
   "export_days": 365,
-  "total_detections": 47350,
-  "unique_species": 112,
+  "total_detections": 47438,
+  "unique_species": 113,
   "average_confidence": 0.889,
   "classes": {
     "Amphibian": 15,
-    "Bird": 44394,
+    "Bird": 44480,
     "Insect": 1921,
     "Mammal": 14,
-    "Unknown": 1006
+    "Unknown": 1008
   },
   "devices": {
-    "birdnetpi-b687": 47350
+    "birdnetpi-b687": 47438
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 8401
+      "count": 8410
     },
     {
       "species": "Eastern Yellow Robin",
@@ -25,15 +25,15 @@
     },
     {
       "species": "Brown Gerygone",
-      "count": 5653
+      "count": 5656
     },
     {
       "species": "Australasian Figbird",
-      "count": 3958
+      "count": 3971
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 3864
+      "count": 3916
     },
     {
       "species": "Willie Wagtail",
@@ -53,7 +53,7 @@
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 1090
+      "count": 1097
     },
     {
       "species": "Grey Fantail",
@@ -114,8 +114,8 @@
     "14:00": 2754,
     "15:00": 2482,
     "16:00": 2273,
-    "17:00": 3111,
-    "18:00": 2862,
+    "17:00": 3114,
+    "18:00": 2947,
     "19:00": 2626,
     "20:00": 300,
     "21:00": 68,
