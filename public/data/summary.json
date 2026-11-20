@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-21T04:00:01",
+  "generated_at": "2026-11-21T05:00:02",
   "export_days": 365,
-  "total_detections": 47471,
+  "total_detections": 47472,
   "unique_species": 113,
   "average_confidence": 0.8889,
   "classes": {
     "Amphibian": 17,
-    "Bird": 44489,
+    "Bird": 44490,
     "Insect": 1938,
     "Mammal": 14,
     "Unknown": 1013
   },
   "devices": {
-    "birdnetpi-b687": 47471
+    "birdnetpi-b687": 47472
   },
   "top_species": [
     {
@@ -37,7 +37,7 @@
     },
     {
       "species": "Willie Wagtail",
-      "count": 3769
+      "count": 3770
     },
     {
       "species": "Sacred Kingfisher",
@@ -101,7 +101,7 @@
     "01:00": 143,
     "02:00": 126,
     "03:00": 3,
-    "04:00": 397,
+    "04:00": 398,
     "05:00": 3841,
     "06:00": 3464,
     "07:00": 3289,
