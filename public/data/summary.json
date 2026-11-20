@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-11-20T15:00:01",
+  "generated_at": "2026-11-20T16:00:01",
   "export_days": 365,
-  "total_detections": 46748,
+  "total_detections": 46865,
   "unique_species": 112,
   "average_confidence": 0.8891,
   "classes": {
     "Amphibian": 14,
-    "Bird": 43821,
-    "Insect": 1903,
+    "Bird": 43930,
+    "Insect": 1911,
     "Mammal": 13,
     "Unknown": 997
   },
   "devices": {
-    "birdnetpi-b687": 46748
+    "birdnetpi-b687": 46865
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 8273
+      "count": 8297
     },
     {
       "species": "Eastern Yellow Robin",
@@ -25,7 +25,7 @@
     },
     {
       "species": "Brown Gerygone",
-      "count": 5646
+      "count": 5647
     },
     {
       "species": "Australasian Figbird",
@@ -33,7 +33,7 @@
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 3669
+      "count": 3739
     },
     {
       "species": "Willie Wagtail",
@@ -45,7 +45,7 @@
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 2929
+      "count": 2934
     },
     {
       "species": "Green Grocer",
@@ -53,7 +53,7 @@
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 1082
+      "count": 1084
     },
     {
       "species": "Grey Fantail",
@@ -68,12 +68,12 @@
       "count": 553
     },
     {
-      "species": "Southern Whirring Tree Frog",
-      "count": 438
+      "species": "Paperbark Cicada",
+      "count": 445
     },
     {
-      "species": "Paperbark Cicada",
-      "count": 437
+      "species": "Southern Whirring Tree Frog",
+      "count": 438
     },
     {
       "species": "White-throated Gerygone",
@@ -112,7 +112,7 @@
     "12:00": 2803,
     "13:00": 2934,
     "14:00": 2754,
-    "15:00": 2365,
+    "15:00": 2482,
     "16:00": 2006,
     "17:00": 2893,
     "18:00": 2862,
