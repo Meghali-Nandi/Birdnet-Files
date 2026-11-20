@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-11-20T13:00:01",
+  "generated_at": "2026-11-20T14:00:00",
   "export_days": 365,
-  "total_detections": 46498,
+  "total_detections": 46708,
   "unique_species": 112,
-  "average_confidence": 0.889,
+  "average_confidence": 0.8892,
   "classes": {
     "Amphibian": 14,
-    "Bird": 43581,
-    "Insect": 1896,
+    "Bird": 43782,
+    "Insect": 1903,
     "Mammal": 13,
-    "Unknown": 994
+    "Unknown": 996
   },
   "devices": {
-    "birdnetpi-b687": 46498
+    "birdnetpi-b687": 46708
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 8257
+      "count": 8268
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 7318
+      "count": 7320
     },
     {
       "species": "Brown Gerygone",
-      "count": 5628
+      "count": 5646
     },
     {
       "species": "Australasian Figbird",
@@ -33,11 +33,11 @@
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 3635
+      "count": 3640
     },
     {
       "species": "Willie Wagtail",
-      "count": 3457
+      "count": 3598
     },
     {
       "species": "Sacred Kingfisher",
@@ -53,11 +53,11 @@
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 1076
+      "count": 1080
     },
     {
       "species": "Grey Fantail",
-      "count": 669
+      "count": 671
     },
     {
       "species": "Grey Shrikethrush",
@@ -73,7 +73,7 @@
     },
     {
       "species": "Paperbark Cicada",
-      "count": 430
+      "count": 437
     },
     {
       "species": "White-throated Gerygone",
@@ -85,7 +85,7 @@
     },
     {
       "species": "Black-faced Monarch",
-      "count": 249
+      "count": 253
     },
     {
       "species": "Rufous Whistler",
@@ -110,7 +110,7 @@
     "10:00": 3691,
     "11:00": 4293,
     "12:00": 2803,
-    "13:00": 2721,
+    "13:00": 2931,
     "14:00": 2717,
     "15:00": 2365,
     "16:00": 2006,
