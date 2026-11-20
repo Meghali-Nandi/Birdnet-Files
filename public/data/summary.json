@@ -1,39 +1,39 @@
 {
-  "generated_at": "2026-11-21T09:00:01",
+  "generated_at": "2026-11-21T10:00:00",
   "export_days": 365,
-  "total_detections": 48330,
+  "total_detections": 48461,
   "unique_species": 114,
   "average_confidence": 0.8888,
   "classes": {
-    "Amphibian": 18,
-    "Bird": 45344,
+    "Amphibian": 19,
+    "Bird": 45472,
     "Insect": 1938,
     "Mammal": 15,
-    "Unknown": 1015
+    "Unknown": 1017
   },
   "devices": {
-    "birdnetpi-b687": 48330
+    "birdnetpi-b687": 48461
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 8596
+      "count": 8621
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 7439
+      "count": 7484
     },
     {
       "species": "Brown Gerygone",
-      "count": 5679
+      "count": 5698
     },
     {
       "species": "Australasian Figbird",
-      "count": 4044
+      "count": 4050
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 3977
+      "count": 3979
     },
     {
       "species": "Willie Wagtail",
@@ -45,7 +45,7 @@
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 3102
+      "count": 3109
     },
     {
       "species": "Green Grocer",
@@ -53,7 +53,7 @@
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 1149
+      "count": 1152
     },
     {
       "species": "Grey Fantail",
@@ -77,11 +77,11 @@
     },
     {
       "species": "White-throated Gerygone",
-      "count": 367
+      "count": 368
     },
     {
       "species": "Black-faced Monarch",
-      "count": 334
+      "count": 341
     },
     {
       "species": "Sahul Brush Cuckoo",
@@ -89,11 +89,11 @@
     },
     {
       "species": "Noisy Friarbird",
-      "count": 227
+      "count": 237
     },
     {
       "species": "Rufous Whistler",
-      "count": 224
+      "count": 225
     }
   ],
   "hourly_counts": {
@@ -106,7 +106,7 @@
     "06:00": 3756,
     "07:00": 3450,
     "08:00": 3301,
-    "09:00": 2559,
+    "09:00": 2690,
     "10:00": 3691,
     "11:00": 4293,
     "12:00": 2803,
