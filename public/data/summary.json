@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-11-20T17:00:01",
+  "generated_at": "2026-11-20T18:00:02",
   "export_days": 365,
-  "total_detections": 47129,
+  "total_detections": 47350,
   "unique_species": 112,
   "average_confidence": 0.889,
   "classes": {
-    "Amphibian": 14,
-    "Bird": 44186,
-    "Insect": 1911,
-    "Mammal": 13,
-    "Unknown": 1005
+    "Amphibian": 15,
+    "Bird": 44394,
+    "Insect": 1921,
+    "Mammal": 14,
+    "Unknown": 1006
   },
   "devices": {
-    "birdnetpi-b687": 47129
+    "birdnetpi-b687": 47350
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 8358
+      "count": 8401
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 7328
+      "count": 7341
     },
     {
       "species": "Brown Gerygone",
-      "count": 5651
+      "count": 5653
     },
     {
       "species": "Australasian Figbird",
@@ -33,11 +33,11 @@
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 3806
+      "count": 3864
     },
     {
       "species": "Willie Wagtail",
-      "count": 3694
+      "count": 3769
     },
     {
       "species": "Sacred Kingfisher",
@@ -53,7 +53,7 @@
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 1087
+      "count": 1090
     },
     {
       "species": "Grey Fantail",
@@ -69,7 +69,7 @@
     },
     {
       "species": "Paperbark Cicada",
-      "count": 445
+      "count": 455
     },
     {
       "species": "Southern Whirring Tree Frog",
@@ -77,7 +77,7 @@
     },
     {
       "species": "White-throated Gerygone",
-      "count": 362
+      "count": 363
     },
     {
       "species": "Sahul Brush Cuckoo",
@@ -85,7 +85,7 @@
     },
     {
       "species": "Black-faced Monarch",
-      "count": 256
+      "count": 258
     },
     {
       "species": "Rufous Whistler",
@@ -113,8 +113,8 @@
     "13:00": 2934,
     "14:00": 2754,
     "15:00": 2482,
-    "16:00": 2270,
-    "17:00": 2893,
+    "16:00": 2273,
+    "17:00": 3111,
     "18:00": 2862,
     "19:00": 2626,
     "20:00": 300,
