@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-11-21T05:00:02",
+  "generated_at": "2026-11-21T06:00:02",
   "export_days": 365,
-  "total_detections": 47472,
-  "unique_species": 113,
+  "total_detections": 47750,
+  "unique_species": 114,
   "average_confidence": 0.8889,
   "classes": {
     "Amphibian": 17,
-    "Bird": 44490,
+    "Bird": 44767,
     "Insect": 1938,
     "Mammal": 14,
-    "Unknown": 1013
+    "Unknown": 1014
   },
   "devices": {
-    "birdnetpi-b687": 47472
+    "birdnetpi-b687": 47750
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 8410
+      "count": 8426
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 7341
+      "count": 7389
     },
     {
       "species": "Brown Gerygone",
@@ -29,23 +29,23 @@
     },
     {
       "species": "Australasian Figbird",
-      "count": 3971
+      "count": 4019
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 3920
+      "count": 3953
     },
     {
       "species": "Willie Wagtail",
-      "count": 3770
+      "count": 3814
     },
     {
       "species": "Sacred Kingfisher",
-      "count": 3264
+      "count": 3269
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 2937
+      "count": 2951
     },
     {
       "species": "Green Grocer",
@@ -53,7 +53,7 @@
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 1097
+      "count": 1114
     },
     {
       "species": "Grey Fantail",
@@ -61,7 +61,7 @@
     },
     {
       "species": "Grey Shrikethrush",
-      "count": 579
+      "count": 583
     },
     {
       "species": "Eastern Whipbird",
@@ -85,7 +85,7 @@
     },
     {
       "species": "Black-faced Monarch",
-      "count": 258
+      "count": 288
     },
     {
       "species": "Rufous Whistler",
@@ -93,7 +93,7 @@
     },
     {
       "species": "Noisy Friarbird",
-      "count": 206
+      "count": 207
     }
   ],
   "hourly_counts": {
@@ -102,7 +102,7 @@
     "02:00": 126,
     "03:00": 3,
     "04:00": 398,
-    "05:00": 3841,
+    "05:00": 4119,
     "06:00": 3464,
     "07:00": 3289,
     "08:00": 3174,
