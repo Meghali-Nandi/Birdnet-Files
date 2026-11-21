@@ -1,39 +1,39 @@
 {
-  "generated_at": "2026-11-22T06:00:00",
+  "generated_at": "2026-11-22T07:00:00",
   "export_days": 365,
-  "total_detections": 49460,
-  "unique_species": 115,
-  "average_confidence": 0.8885,
+  "total_detections": 49774,
+  "unique_species": 116,
+  "average_confidence": 0.8884,
   "classes": {
     "Amphibian": 21,
-    "Bird": 46430,
+    "Bird": 46743,
     "Insect": 1963,
     "Mammal": 17,
-    "Unknown": 1029
+    "Unknown": 1030
   },
   "devices": {
-    "birdnetpi-b687": 49460
+    "birdnetpi-b687": 49774
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 8805
+      "count": 8872
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 7520
+      "count": 7524
     },
     {
       "species": "Brown Gerygone",
-      "count": 5792
+      "count": 5803
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 4210
+      "count": 4320
     },
     {
       "species": "Australasian Figbird",
-      "count": 4100
+      "count": 4117
     },
     {
       "species": "Willie Wagtail",
@@ -41,11 +41,11 @@
     },
     {
       "species": "Sacred Kingfisher",
-      "count": 3275
+      "count": 3276
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 3218
+      "count": 3259
     },
     {
       "species": "Green Grocer",
@@ -53,7 +53,7 @@
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 1220
+      "count": 1239
     },
     {
       "species": "Grey Fantail",
@@ -61,7 +61,7 @@
     },
     {
       "species": "Grey Shrikethrush",
-      "count": 619
+      "count": 626
     },
     {
       "species": "Eastern Whipbird",
@@ -77,7 +77,7 @@
     },
     {
       "species": "White-throated Gerygone",
-      "count": 391
+      "count": 393
     },
     {
       "species": "Black-faced Monarch",
@@ -89,11 +89,11 @@
     },
     {
       "species": "Noisy Friarbird",
-      "count": 245
+      "count": 263
     },
     {
       "species": "Rufous Whistler",
-      "count": 237
+      "count": 241
     }
   ],
   "hourly_counts": {
@@ -102,8 +102,8 @@
     "02:00": 126,
     "03:00": 3,
     "04:00": 449,
-    "05:00": 4345,
-    "06:00": 3756,
+    "05:00": 4347,
+    "06:00": 4068,
     "07:00": 3450,
     "08:00": 3301,
     "09:00": 2690,
