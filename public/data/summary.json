@@ -1,39 +1,39 @@
 {
-  "generated_at": "2026-11-21T10:00:00",
+  "generated_at": "2026-11-21T11:00:03",
   "export_days": 365,
-  "total_detections": 48461,
+  "total_detections": 48601,
   "unique_species": 114,
-  "average_confidence": 0.8888,
+  "average_confidence": 0.8887,
   "classes": {
-    "Amphibian": 19,
-    "Bird": 45472,
-    "Insect": 1938,
+    "Amphibian": 21,
+    "Bird": 45599,
+    "Insect": 1949,
     "Mammal": 15,
     "Unknown": 1017
   },
   "devices": {
-    "birdnetpi-b687": 48461
+    "birdnetpi-b687": 48601
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 8621
+      "count": 8664
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 7484
+      "count": 7488
     },
     {
       "species": "Brown Gerygone",
-      "count": 5698
+      "count": 5719
     },
     {
       "species": "Australasian Figbird",
-      "count": 4050
+      "count": 4054
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 3979
+      "count": 3987
     },
     {
       "species": "Willie Wagtail",
@@ -45,7 +45,7 @@
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 3109
+      "count": 3116
     },
     {
       "species": "Green Grocer",
@@ -53,7 +53,7 @@
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 1152
+      "count": 1167
     },
     {
       "species": "Grey Fantail",
@@ -69,7 +69,7 @@
     },
     {
       "species": "Paperbark Cicada",
-      "count": 455
+      "count": 466
     },
     {
       "species": "Southern Whirring Tree Frog",
@@ -77,11 +77,11 @@
     },
     {
       "species": "White-throated Gerygone",
-      "count": 368
+      "count": 385
     },
     {
       "species": "Black-faced Monarch",
-      "count": 341
+      "count": 342
     },
     {
       "species": "Sahul Brush Cuckoo",
@@ -89,11 +89,11 @@
     },
     {
       "species": "Noisy Friarbird",
-      "count": 237
+      "count": 242
     },
     {
       "species": "Rufous Whistler",
-      "count": 225
+      "count": 226
     }
   ],
   "hourly_counts": {
@@ -107,7 +107,7 @@
     "07:00": 3450,
     "08:00": 3301,
     "09:00": 2690,
-    "10:00": 3691,
+    "10:00": 3831,
     "11:00": 4293,
     "12:00": 2803,
     "13:00": 2934,
