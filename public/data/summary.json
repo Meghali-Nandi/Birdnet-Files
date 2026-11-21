@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-11-21T13:00:02",
+  "generated_at": "2026-11-21T14:00:00",
   "export_days": 365,
-  "total_detections": 48769,
+  "total_detections": 48845,
   "unique_species": 114,
   "average_confidence": 0.8886,
   "classes": {
     "Amphibian": 21,
-    "Bird": 45766,
-    "Insect": 1950,
+    "Bird": 45841,
+    "Insect": 1951,
     "Mammal": 15,
     "Unknown": 1017
   },
   "devices": {
-    "birdnetpi-b687": 48769
+    "birdnetpi-b687": 48845
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 8724
+      "count": 8753
     },
     {
       "species": "Eastern Yellow Robin",
@@ -25,7 +25,7 @@
     },
     {
       "species": "Brown Gerygone",
-      "count": 5776
+      "count": 5779
     },
     {
       "species": "Australasian Figbird",
@@ -33,11 +33,11 @@
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 3987
+      "count": 3988
     },
     {
       "species": "Willie Wagtail",
-      "count": 3820
+      "count": 3830
     },
     {
       "species": "Sacred Kingfisher",
@@ -45,7 +45,7 @@
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 3127
+      "count": 3149
     },
     {
       "species": "Green Grocer",
@@ -53,11 +53,11 @@
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 1183
+      "count": 1190
     },
     {
       "species": "Grey Fantail",
-      "count": 680
+      "count": 681
     },
     {
       "species": "Grey Shrikethrush",
@@ -110,7 +110,7 @@
     "10:00": 3831,
     "11:00": 4349,
     "12:00": 2915,
-    "13:00": 2934,
+    "13:00": 3010,
     "14:00": 2754,
     "15:00": 2482,
     "16:00": 2273,
