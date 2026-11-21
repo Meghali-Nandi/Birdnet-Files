@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-11-21T14:00:00",
+  "generated_at": "2026-11-21T15:00:03",
   "export_days": 365,
-  "total_detections": 48845,
+  "total_detections": 48898,
   "unique_species": 114,
   "average_confidence": 0.8886,
   "classes": {
     "Amphibian": 21,
-    "Bird": 45841,
+    "Bird": 45894,
     "Insect": 1951,
     "Mammal": 15,
     "Unknown": 1017
   },
   "devices": {
-    "birdnetpi-b687": 48845
+    "birdnetpi-b687": 48898
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 8753
+      "count": 8769
     },
     {
       "species": "Eastern Yellow Robin",
@@ -25,7 +25,7 @@
     },
     {
       "species": "Brown Gerygone",
-      "count": 5779
+      "count": 5782
     },
     {
       "species": "Australasian Figbird",
@@ -33,7 +33,7 @@
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 3988
+      "count": 3997
     },
     {
       "species": "Willie Wagtail",
@@ -41,11 +41,11 @@
     },
     {
       "species": "Sacred Kingfisher",
-      "count": 3272
+      "count": 3274
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 3149
+      "count": 3163
     },
     {
       "species": "Green Grocer",
@@ -53,7 +53,7 @@
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 1190
+      "count": 1193
     },
     {
       "species": "Grey Fantail",
@@ -77,11 +77,11 @@
     },
     {
       "species": "White-throated Gerygone",
-      "count": 386
+      "count": 387
     },
     {
       "species": "Black-faced Monarch",
-      "count": 354
+      "count": 357
     },
     {
       "species": "Sahul Brush Cuckoo",
@@ -93,7 +93,7 @@
     },
     {
       "species": "Rufous Whistler",
-      "count": 231
+      "count": 232
     }
   ],
   "hourly_counts": {
@@ -110,8 +110,8 @@
     "10:00": 3831,
     "11:00": 4349,
     "12:00": 2915,
-    "13:00": 3010,
-    "14:00": 2754,
+    "13:00": 3011,
+    "14:00": 2806,
     "15:00": 2482,
     "16:00": 2273,
     "17:00": 3114,
