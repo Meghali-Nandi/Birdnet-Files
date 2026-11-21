@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-11-21T18:00:00",
+  "generated_at": "2026-11-21T19:00:01",
   "export_days": 365,
-  "total_detections": 49120,
+  "total_detections": 49154,
   "unique_species": 114,
   "average_confidence": 0.8885,
   "classes": {
     "Amphibian": 21,
-    "Bird": 46116,
+    "Bird": 46149,
     "Insect": 1951,
     "Mammal": 15,
-    "Unknown": 1017
+    "Unknown": 1018
   },
   "devices": {
-    "birdnetpi-b687": 49120
+    "birdnetpi-b687": 49154
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 8799
+      "count": 8802
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 7492
+      "count": 7493
     },
     {
       "species": "Brown Gerygone",
@@ -29,7 +29,7 @@
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 4148
+      "count": 4177
     },
     {
       "species": "Australasian Figbird",
@@ -115,7 +115,7 @@
     "15:00": 2523,
     "16:00": 2383,
     "17:00": 3184,
-    "18:00": 2947,
+    "18:00": 2981,
     "19:00": 2651,
     "20:00": 300,
     "21:00": 69,
