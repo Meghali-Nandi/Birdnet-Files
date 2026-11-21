@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-11-21T12:00:00",
+  "generated_at": "2026-11-21T13:00:02",
   "export_days": 365,
-  "total_detections": 48657,
+  "total_detections": 48769,
   "unique_species": 114,
-  "average_confidence": 0.8887,
+  "average_confidence": 0.8886,
   "classes": {
     "Amphibian": 21,
-    "Bird": 45655,
-    "Insect": 1949,
+    "Bird": 45766,
+    "Insect": 1950,
     "Mammal": 15,
     "Unknown": 1017
   },
   "devices": {
-    "birdnetpi-b687": 48657
+    "birdnetpi-b687": 48769
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 8681
+      "count": 8724
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 7489
+      "count": 7490
     },
     {
       "species": "Brown Gerygone",
-      "count": 5733
+      "count": 5776
     },
     {
       "species": "Australasian Figbird",
@@ -45,7 +45,7 @@
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 3121
+      "count": 3127
     },
     {
       "species": "Green Grocer",
@@ -53,11 +53,11 @@
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 1173
+      "count": 1183
     },
     {
       "species": "Grey Fantail",
-      "count": 679
+      "count": 680
     },
     {
       "species": "Grey Shrikethrush",
@@ -69,7 +69,7 @@
     },
     {
       "species": "Paperbark Cicada",
-      "count": 466
+      "count": 467
     },
     {
       "species": "Southern Whirring Tree Frog",
@@ -93,7 +93,7 @@
     },
     {
       "species": "Rufous Whistler",
-      "count": 226
+      "count": 231
     }
   ],
   "hourly_counts": {
@@ -109,7 +109,7 @@
     "09:00": 2690,
     "10:00": 3831,
     "11:00": 4349,
-    "12:00": 2803,
+    "12:00": 2915,
     "13:00": 2934,
     "14:00": 2754,
     "15:00": 2482,
