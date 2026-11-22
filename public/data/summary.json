@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-22T19:00:22",
+  "generated_at": "2026-11-22T20:00:00",
   "export_days": 365,
-  "total_detections": 51452,
+  "total_detections": 51632,
   "unique_species": 120,
-  "average_confidence": 0.888,
+  "average_confidence": 0.8879,
   "classes": {
     "Amphibian": 22,
-    "Bird": 48382,
-    "Insect": 1990,
+    "Bird": 48449,
+    "Insect": 2102,
     "Mammal": 17,
-    "Unknown": 1041
+    "Unknown": 1042
   },
   "devices": {
-    "birdnetpi-b687": 51452
+    "birdnetpi-b687": 51632
   },
   "top_species": [
     {
@@ -21,7 +21,7 @@
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 7584
+      "count": 7598
     },
     {
       "species": "Brown Gerygone",
@@ -29,7 +29,7 @@
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 4831
+      "count": 4871
     },
     {
       "species": "Australasian Figbird",
@@ -37,11 +37,11 @@
     },
     {
       "species": "Willie Wagtail",
-      "count": 3924
+      "count": 3925
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 3418
+      "count": 3422
     },
     {
       "species": "Sacred Kingfisher",
@@ -49,11 +49,11 @@
     },
     {
       "species": "Green Grocer",
-      "count": 1372
+      "count": 1484
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 1296
+      "count": 1297
     },
     {
       "species": "Grey Fantail",
@@ -84,12 +84,12 @@
       "count": 392
     },
     {
-      "species": "Sahul Brush Cuckoo",
-      "count": 292
+      "species": "Noisy Friarbird",
+      "count": 295
     },
     {
-      "species": "Noisy Friarbird",
-      "count": 290
+      "species": "Sahul Brush Cuckoo",
+      "count": 292
     },
     {
       "species": "Rufous Whistler",
@@ -115,8 +115,8 @@
     "15:00": 2626,
     "16:00": 2480,
     "17:00": 3272,
-    "18:00": 3112,
-    "19:00": 2662,
+    "18:00": 3113,
+    "19:00": 2841,
     "20:00": 307,
     "21:00": 69,
     "22:00": 54,
