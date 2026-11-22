@@ -1,39 +1,39 @@
 {
-  "generated_at": "2026-11-23T06:00:02",
+  "generated_at": "2026-11-23T07:00:00",
   "export_days": 365,
-  "total_detections": 52245,
+  "total_detections": 52563,
   "unique_species": 120,
-  "average_confidence": 0.8881,
+  "average_confidence": 0.888,
   "classes": {
     "Amphibian": 22,
-    "Bird": 48896,
+    "Bird": 49214,
     "Insect": 2265,
     "Mammal": 17,
     "Unknown": 1045
   },
   "devices": {
-    "birdnetpi-b687": 52245
+    "birdnetpi-b687": 52563
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 9251
+      "count": 9297
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 7656
+      "count": 7668
     },
     {
       "species": "Brown Gerygone",
-      "count": 5996
+      "count": 6011
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 4909
+      "count": 4952
     },
     {
       "species": "Australasian Figbird",
-      "count": 4324
+      "count": 4327
     },
     {
       "species": "Willie Wagtail",
@@ -41,11 +41,11 @@
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 3454
+      "count": 3559
     },
     {
       "species": "Sacred Kingfisher",
-      "count": 3286
+      "count": 3301
     },
     {
       "species": "Green Grocer",
@@ -53,19 +53,19 @@
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 1308
+      "count": 1321
     },
     {
       "species": "Grey Fantail",
-      "count": 689
+      "count": 691
     },
     {
       "species": "Grey Shrikethrush",
-      "count": 638
+      "count": 641
     },
     {
       "species": "Eastern Whipbird",
-      "count": 564
+      "count": 571
     },
     {
       "species": "Paperbark Cicada",
@@ -76,16 +76,16 @@
       "count": 438
     },
     {
-      "species": "White-throated Gerygone",
-      "count": 403
+      "species": "Black-faced Monarch",
+      "count": 410
     },
     {
-      "species": "Black-faced Monarch",
-      "count": 392
+      "species": "White-throated Gerygone",
+      "count": 407
     },
     {
       "species": "Noisy Friarbird",
-      "count": 297
+      "count": 299
     },
     {
       "species": "Sahul Brush Cuckoo",
@@ -93,7 +93,7 @@
     },
     {
       "species": "Rufous Whistler",
-      "count": 253
+      "count": 260
     }
   ],
   "hourly_counts": {
@@ -102,8 +102,8 @@
     "02:00": 126,
     "03:00": 3,
     "04:00": 543,
-    "05:00": 4692,
-    "06:00": 4068,
+    "05:00": 4694,
+    "06:00": 4384,
     "07:00": 3638,
     "08:00": 3423,
     "09:00": 2871,
