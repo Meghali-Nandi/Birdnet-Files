@@ -51797,3 +51797,7 @@ ts,device,class,species,confidence
 2026-11-22T21:13:39,birdnetpi-b687,Unknown,White-striped Free-tailed Bat,0.931
 2026-11-22T21:13:45,birdnetpi-b687,Unknown,White-striped Free-tailed Bat,0.9467
 2026-11-22T21:13:48,birdnetpi-b687,Unknown,White-striped Free-tailed Bat,0.9743
+2026-11-22T23:07:42,birdnetpi-b687,Bird,Masked Lapwing,0.9801
+2026-11-22T23:08:48,birdnetpi-b687,Bird,Masked Lapwing,0.9428
+2026-11-22T23:31:56,birdnetpi-b687,Bird,Masked Lapwing,0.96
+2026-11-22T23:31:59,birdnetpi-b687,Bird,Masked Lapwing,0.9896
