@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-23T04:00:02",
+  "generated_at": "2026-11-23T05:00:03",
   "export_days": 365,
-  "total_detections": 51806,
+  "total_detections": 51897,
   "unique_species": 120,
   "average_confidence": 0.8881,
   "classes": {
     "Amphibian": 22,
-    "Bird": 48457,
+    "Bird": 48548,
     "Insect": 2265,
     "Mammal": 17,
     "Unknown": 1045
   },
   "devices": {
-    "birdnetpi-b687": 51806
+    "birdnetpi-b687": 51897
   },
   "top_species": [
     {
@@ -21,7 +21,7 @@
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 7598
+      "count": 7602
     },
     {
       "species": "Brown Gerygone",
@@ -37,7 +37,7 @@
     },
     {
       "species": "Willie Wagtail",
-      "count": 3925
+      "count": 4011
     },
     {
       "species": "White-throated Treecreeper",
@@ -45,7 +45,7 @@
     },
     {
       "species": "Sacred Kingfisher",
-      "count": 3285
+      "count": 3286
     },
     {
       "species": "Green Grocer",
@@ -101,7 +101,7 @@
     "01:00": 147,
     "02:00": 126,
     "03:00": 3,
-    "04:00": 449,
+    "04:00": 540,
     "05:00": 4347,
     "06:00": 4068,
     "07:00": 3638,
