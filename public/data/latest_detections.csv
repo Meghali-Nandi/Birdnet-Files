@@ -51801,3 +51801,7 @@ ts,device,class,species,confidence
 2026-11-22T23:08:48,birdnetpi-b687,Bird,Masked Lapwing,0.9428
 2026-11-22T23:31:56,birdnetpi-b687,Bird,Masked Lapwing,0.96
 2026-11-22T23:31:59,birdnetpi-b687,Bird,Masked Lapwing,0.9896
+2026-11-23T01:44:47,birdnetpi-b687,Bird,White-faced Heron,0.9331
+2026-11-23T01:44:50,birdnetpi-b687,Bird,White-faced Heron,0.9214
+2026-11-23T01:44:53,birdnetpi-b687,Bird,White-faced Heron,0.9811
+2026-11-23T01:44:56,birdnetpi-b687,Bird,White-faced Heron,0.8159
