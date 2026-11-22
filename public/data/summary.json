@@ -1,51 +1,51 @@
 {
-  "generated_at": "2026-11-22T15:00:01",
+  "generated_at": "2026-11-22T16:00:02",
   "export_days": 365,
-  "total_detections": 51031,
+  "total_detections": 51136,
   "unique_species": 120,
-  "average_confidence": 0.8881,
+  "average_confidence": 0.888,
   "classes": {
     "Amphibian": 22,
-    "Bird": 47972,
-    "Insect": 1988,
+    "Bird": 48075,
+    "Insect": 1989,
     "Mammal": 17,
-    "Unknown": 1032
+    "Unknown": 1033
   },
   "devices": {
-    "birdnetpi-b687": 51031
+    "birdnetpi-b687": 51136
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 9175
+      "count": 9203
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 7552
+      "count": 7556
     },
     {
       "species": "Brown Gerygone",
-      "count": 5980
+      "count": 5986
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 4618
+      "count": 4644
     },
     {
       "species": "Australasian Figbird",
-      "count": 4158
+      "count": 4161
     },
     {
       "species": "Willie Wagtail",
-      "count": 3917
+      "count": 3918
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 3406
+      "count": 3412
     },
     {
       "species": "Sacred Kingfisher",
-      "count": 3284
+      "count": 3285
     },
     {
       "species": "Green Grocer",
@@ -53,7 +53,7 @@
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 1290
+      "count": 1294
     },
     {
       "species": "Grey Fantail",
@@ -69,7 +69,7 @@
     },
     {
       "species": "Paperbark Cicada",
-      "count": 487
+      "count": 488
     },
     {
       "species": "Southern Whirring Tree Frog",
@@ -93,7 +93,7 @@
     },
     {
       "species": "Rufous Whistler",
-      "count": 248
+      "count": 251
     }
   ],
   "hourly_counts": {
@@ -111,8 +111,8 @@
     "11:00": 4395,
     "12:00": 2996,
     "13:00": 3213,
-    "14:00": 3140,
-    "15:00": 2523,
+    "14:00": 3142,
+    "15:00": 2626,
     "16:00": 2383,
     "17:00": 3184,
     "18:00": 2981,
