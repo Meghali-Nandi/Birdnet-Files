@@ -1,51 +1,51 @@
 {
-  "generated_at": "2026-11-22T14:00:01",
+  "generated_at": "2026-11-22T15:00:01",
   "export_days": 365,
-  "total_detections": 50698,
-  "unique_species": 118,
-  "average_confidence": 0.888,
+  "total_detections": 51031,
+  "unique_species": 120,
+  "average_confidence": 0.8881,
   "classes": {
     "Amphibian": 22,
-    "Bird": 47656,
-    "Insect": 1971,
+    "Bird": 47972,
+    "Insect": 1988,
     "Mammal": 17,
     "Unknown": 1032
   },
   "devices": {
-    "birdnetpi-b687": 50698
+    "birdnetpi-b687": 51031
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 9027
+      "count": 9175
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 7543
+      "count": 7552
     },
     {
       "species": "Brown Gerygone",
-      "count": 5939
+      "count": 5980
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 4564
+      "count": 4618
     },
     {
       "species": "Australasian Figbird",
-      "count": 4139
+      "count": 4158
     },
     {
       "species": "Willie Wagtail",
-      "count": 3912
+      "count": 3917
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 3391
+      "count": 3406
     },
     {
       "species": "Sacred Kingfisher",
-      "count": 3280
+      "count": 3284
     },
     {
       "species": "Green Grocer",
@@ -53,7 +53,7 @@
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 1288
+      "count": 1290
     },
     {
       "species": "Grey Fantail",
@@ -69,7 +69,7 @@
     },
     {
       "species": "Paperbark Cicada",
-      "count": 470
+      "count": 487
     },
     {
       "species": "Southern Whirring Tree Frog",
@@ -81,7 +81,7 @@
     },
     {
       "species": "Black-faced Monarch",
-      "count": 389
+      "count": 392
     },
     {
       "species": "Sahul Brush Cuckoo",
@@ -89,7 +89,7 @@
     },
     {
       "species": "Noisy Friarbird",
-      "count": 283
+      "count": 287
     },
     {
       "species": "Rufous Whistler",
@@ -111,7 +111,7 @@
     "11:00": 4395,
     "12:00": 2996,
     "13:00": 3213,
-    "14:00": 2807,
+    "14:00": 3140,
     "15:00": 2523,
     "16:00": 2383,
     "17:00": 3184,
