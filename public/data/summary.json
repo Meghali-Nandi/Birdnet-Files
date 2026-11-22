@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-22T18:00:02",
+  "generated_at": "2026-11-22T19:00:22",
   "export_days": 365,
-  "total_detections": 51321,
+  "total_detections": 51452,
   "unique_species": 120,
   "average_confidence": 0.888,
   "classes": {
     "Amphibian": 22,
-    "Bird": 48254,
-    "Insect": 1989,
+    "Bird": 48382,
+    "Insect": 1990,
     "Mammal": 17,
-    "Unknown": 1039
+    "Unknown": 1041
   },
   "devices": {
-    "birdnetpi-b687": 51321
+    "birdnetpi-b687": 51452
   },
   "top_species": [
     {
@@ -21,15 +21,15 @@
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 7569
+      "count": 7584
     },
     {
       "species": "Brown Gerygone",
-      "count": 5991
+      "count": 5996
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 4734
+      "count": 4831
     },
     {
       "species": "Australasian Figbird",
@@ -37,11 +37,11 @@
     },
     {
       "species": "Willie Wagtail",
-      "count": 3918
+      "count": 3924
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 3414
+      "count": 3418
     },
     {
       "species": "Sacred Kingfisher",
@@ -69,7 +69,7 @@
     },
     {
       "species": "Paperbark Cicada",
-      "count": 488
+      "count": 489
     },
     {
       "species": "Southern Whirring Tree Frog",
@@ -115,7 +115,7 @@
     "15:00": 2626,
     "16:00": 2480,
     "17:00": 3272,
-    "18:00": 2981,
+    "18:00": 3112,
     "19:00": 2662,
     "20:00": 307,
     "21:00": 69,
