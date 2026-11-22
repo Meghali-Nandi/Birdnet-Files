@@ -1,51 +1,51 @@
 {
-  "generated_at": "2026-11-23T08:00:03",
+  "generated_at": "2026-11-23T09:00:02",
   "export_days": 365,
-  "total_detections": 52833,
+  "total_detections": 53116,
   "unique_species": 120,
-  "average_confidence": 0.888,
+  "average_confidence": 0.8879,
   "classes": {
     "Amphibian": 22,
-    "Bird": 49483,
+    "Bird": 49764,
     "Insect": 2265,
     "Mammal": 17,
-    "Unknown": 1046
+    "Unknown": 1048
   },
   "devices": {
-    "birdnetpi-b687": 52833
+    "birdnetpi-b687": 53116
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 9326
+      "count": 9394
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 7670
+      "count": 7673
     },
     {
       "species": "Brown Gerygone",
-      "count": 6069
+      "count": 6092
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 5034
+      "count": 5091
     },
     {
       "species": "Australasian Figbird",
-      "count": 4330
+      "count": 4331
     },
     {
       "species": "Willie Wagtail",
-      "count": 4025
+      "count": 4026
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 3600
+      "count": 3663
     },
     {
       "species": "Sacred Kingfisher",
-      "count": 3326
+      "count": 3341
     },
     {
       "species": "Green Grocer",
@@ -53,7 +53,7 @@
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 1338
+      "count": 1352
     },
     {
       "species": "Grey Fantail",
@@ -61,11 +61,11 @@
     },
     {
       "species": "Grey Shrikethrush",
-      "count": 641
+      "count": 643
     },
     {
       "species": "Eastern Whipbird",
-      "count": 571
+      "count": 572
     },
     {
       "species": "Paperbark Cicada",
@@ -77,11 +77,11 @@
     },
     {
       "species": "Black-faced Monarch",
-      "count": 410
+      "count": 423
     },
     {
       "species": "White-throated Gerygone",
-      "count": 409
+      "count": 422
     },
     {
       "species": "Noisy Friarbird",
@@ -105,7 +105,7 @@
     "05:00": 4694,
     "06:00": 4384,
     "07:00": 3908,
-    "08:00": 3423,
+    "08:00": 3706,
     "09:00": 2871,
     "10:00": 3935,
     "11:00": 4395,
