@@ -1,39 +1,39 @@
 {
-  "generated_at": "2026-11-23T12:00:01",
+  "generated_at": "2026-11-23T13:00:02",
   "export_days": 365,
-  "total_detections": 53776,
+  "total_detections": 53935,
   "unique_species": 118,
   "average_confidence": 0.8878,
   "classes": {
     "Amphibian": 22,
-    "Bird": 50423,
-    "Insect": 2267,
+    "Bird": 50580,
+    "Insect": 2270,
     "Mammal": 17,
-    "Unknown": 1047
+    "Unknown": 1046
   },
   "devices": {
-    "birdnetpi-b687": 53776
+    "birdnetpi-b687": 53935
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 9470
+      "count": 9510
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 7673
+      "count": 7685
     },
     {
       "species": "Brown Gerygone",
-      "count": 6252
+      "count": 6284
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 5171
+      "count": 5176
     },
     {
       "species": "Australasian Figbird",
-      "count": 4383
+      "count": 4421
     },
     {
       "species": "Willie Wagtail",
@@ -41,11 +41,11 @@
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 3665
+      "count": 3666
     },
     {
       "species": "Sacred Kingfisher",
-      "count": 3347
+      "count": 3356
     },
     {
       "species": "Green Grocer",
@@ -53,11 +53,11 @@
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 1387
+      "count": 1393
     },
     {
       "species": "Grey Fantail",
-      "count": 701
+      "count": 703
     },
     {
       "species": "Grey Shrikethrush",
@@ -73,7 +73,7 @@
     },
     {
       "species": "Paperbark Cicada",
-      "count": 491
+      "count": 494
     },
     {
       "species": "Southern Whirring Tree Frog",
@@ -81,7 +81,7 @@
     },
     {
       "species": "White-throated Gerygone",
-      "count": 431
+      "count": 432
     },
     {
       "species": "Noisy Friarbird",
@@ -109,8 +109,8 @@
     "09:00": 3079,
     "10:00": 4188,
     "11:00": 4603,
-    "12:00": 2996,
-    "13:00": 3213,
+    "12:00": 3156,
+    "13:00": 3212,
     "14:00": 3141,
     "15:00": 2625,
     "16:00": 2478,
