@@ -1,47 +1,47 @@
 {
-  "generated_at": "2026-11-24T07:00:01",
+  "generated_at": "2026-11-24T08:00:02",
   "export_days": 365,
-  "total_detections": 56719,
+  "total_detections": 57073,
   "unique_species": 118,
-  "average_confidence": 0.8885,
+  "average_confidence": 0.8886,
   "classes": {
     "Amphibian": 22,
-    "Bird": 52956,
+    "Bird": 53299,
     "Insect": 2649,
     "Mammal": 17,
-    "Unknown": 1075
+    "Unknown": 1086
   },
   "devices": {
-    "birdnetpi-b687": 56719
+    "birdnetpi-b687": 57073
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 9910
+      "count": 9928
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 7904
+      "count": 7917
     },
     {
       "species": "Brown Gerygone",
-      "count": 6419
+      "count": 6441
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 5700
+      "count": 5705
     },
     {
       "species": "Australasian Figbird",
-      "count": 4700
+      "count": 4701
     },
     {
       "species": "Willie Wagtail",
-      "count": 4095
+      "count": 4121
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 3801
+      "count": 3865
     },
     {
       "species": "Sacred Kingfisher",
@@ -53,23 +53,23 @@
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 1452
+      "count": 1466
     },
     {
       "species": "Grey Fantail",
-      "count": 717
+      "count": 751
     },
     {
       "species": "Grey Shrikethrush",
-      "count": 669
+      "count": 688
     },
     {
       "species": "Eastern Whipbird",
-      "count": 619
+      "count": 625
     },
     {
       "species": "Black-faced Monarch",
-      "count": 554
+      "count": 556
     },
     {
       "species": "Paperbark Cicada",
@@ -85,11 +85,11 @@
     },
     {
       "species": "Noisy Friarbird",
-      "count": 357
+      "count": 378
     },
     {
       "species": "Sahul Brush Cuckoo",
-      "count": 315
+      "count": 325
     },
     {
       "species": "Rufous Whistler",
@@ -103,8 +103,8 @@
     "03:00": 3,
     "04:00": 621,
     "05:00": 5017,
-    "06:00": 4601,
-    "07:00": 3908,
+    "06:00": 4602,
+    "07:00": 4261,
     "08:00": 3706,
     "09:00": 3079,
     "10:00": 4188,
