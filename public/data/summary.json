@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-11-23T14:00:02",
+  "generated_at": "2026-11-23T15:00:01",
   "export_days": 365,
-  "total_detections": 54168,
+  "total_detections": 54345,
   "unique_species": 118,
-  "average_confidence": 0.8878,
+  "average_confidence": 0.8877,
   "classes": {
     "Amphibian": 22,
-    "Bird": 50810,
+    "Bird": 50987,
     "Insect": 2272,
     "Mammal": 17,
     "Unknown": 1047
   },
   "devices": {
-    "birdnetpi-b687": 54168
+    "birdnetpi-b687": 54345
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 9551
+      "count": 9594
     },
     {
       "species": "Eastern Yellow Robin",
@@ -25,27 +25,27 @@
     },
     {
       "species": "Brown Gerygone",
-      "count": 6311
+      "count": 6333
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 5185
+      "count": 5216
     },
     {
       "species": "Australasian Figbird",
-      "count": 4454
+      "count": 4470
     },
     {
       "species": "Willie Wagtail",
-      "count": 4026
+      "count": 4040
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 3687
+      "count": 3701
     },
     {
       "species": "Sacred Kingfisher",
-      "count": 3356
+      "count": 3363
     },
     {
       "species": "Green Grocer",
@@ -57,7 +57,7 @@
     },
     {
       "species": "Grey Fantail",
-      "count": 703
+      "count": 706
     },
     {
       "species": "Grey Shrikethrush",
@@ -69,19 +69,19 @@
     },
     {
       "species": "Black-faced Monarch",
-      "count": 499
+      "count": 507
     },
     {
       "species": "Paperbark Cicada",
       "count": 496
     },
     {
-      "species": "Southern Whirring Tree Frog",
-      "count": 438
+      "species": "White-throated Gerygone",
+      "count": 439
     },
     {
-      "species": "White-throated Gerygone",
-      "count": 432
+      "species": "Southern Whirring Tree Frog",
+      "count": 438
     },
     {
       "species": "Noisy Friarbird",
@@ -93,7 +93,7 @@
     },
     {
       "species": "Rufous Whistler",
-      "count": 286
+      "count": 290
     }
   ],
   "hourly_counts": {
@@ -111,7 +111,7 @@
     "11:00": 4603,
     "12:00": 3157,
     "13:00": 3444,
-    "14:00": 3141,
+    "14:00": 3318,
     "15:00": 2625,
     "16:00": 2478,
     "17:00": 3272,
