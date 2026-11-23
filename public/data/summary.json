@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-11-24T06:00:02",
+  "generated_at": "2026-11-24T07:00:01",
   "export_days": 365,
-  "total_detections": 56502,
+  "total_detections": 56719,
   "unique_species": 118,
-  "average_confidence": 0.8884,
+  "average_confidence": 0.8885,
   "classes": {
     "Amphibian": 22,
-    "Bird": 52739,
+    "Bird": 52956,
     "Insect": 2649,
     "Mammal": 17,
     "Unknown": 1075
   },
   "devices": {
-    "birdnetpi-b687": 56502
+    "birdnetpi-b687": 56719
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 9839
+      "count": 9910
     },
     {
       "species": "Eastern Yellow Robin",
@@ -25,15 +25,15 @@
     },
     {
       "species": "Brown Gerygone",
-      "count": 6391
+      "count": 6419
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 5690
+      "count": 5700
     },
     {
       "species": "Australasian Figbird",
-      "count": 4699
+      "count": 4700
     },
     {
       "species": "Willie Wagtail",
@@ -41,11 +41,11 @@
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 3788
+      "count": 3801
     },
     {
       "species": "Sacred Kingfisher",
-      "count": 3460
+      "count": 3485
     },
     {
       "species": "Green Grocer",
@@ -53,7 +53,7 @@
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 1441
+      "count": 1452
     },
     {
       "species": "Grey Fantail",
@@ -61,11 +61,11 @@
     },
     {
       "species": "Grey Shrikethrush",
-      "count": 657
+      "count": 669
     },
     {
       "species": "Eastern Whipbird",
-      "count": 600
+      "count": 619
     },
     {
       "species": "Black-faced Monarch",
@@ -77,7 +77,7 @@
     },
     {
       "species": "White-throated Gerygone",
-      "count": 465
+      "count": 467
     },
     {
       "species": "Southern Whirring Tree Frog",
@@ -85,7 +85,7 @@
     },
     {
       "species": "Noisy Friarbird",
-      "count": 346
+      "count": 357
     },
     {
       "species": "Sahul Brush Cuckoo",
@@ -103,7 +103,7 @@
     "03:00": 3,
     "04:00": 621,
     "05:00": 5017,
-    "06:00": 4384,
+    "06:00": 4601,
     "07:00": 3908,
     "08:00": 3706,
     "09:00": 3079,
