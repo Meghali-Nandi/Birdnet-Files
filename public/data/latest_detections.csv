@@ -56092,3 +56092,10 @@ ts,device,class,species,confidence
 2026-11-23T20:09:35,birdnetpi-b687,Insect,Green Grocer,0.9369
 2026-11-23T20:09:38,birdnetpi-b687,Insect,Green Grocer,0.8027
 2026-11-23T20:09:44,birdnetpi-b687,Insect,Green Grocer,0.7595
+2026-11-23T23:59:39,birdnetpi-b687,Bird,Masked Lapwing,0.9109
+2026-11-23T23:59:42,birdnetpi-b687,Bird,Masked Lapwing,0.8378
+2026-11-23T23:59:51,birdnetpi-b687,Bird,Masked Lapwing,0.9894
+2026-11-23T23:59:54,birdnetpi-b687,Bird,Masked Lapwing,0.9641
+2026-11-24T00:05:26,birdnetpi-b687,Unknown,White-striped Free-tailed Bat,0.7553
+2026-11-24T00:05:29,birdnetpi-b687,Unknown,White-striped Free-tailed Bat,0.9826
+2026-11-24T00:05:32,birdnetpi-b687,Unknown,White-striped Free-tailed Bat,0.926
