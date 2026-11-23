@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-11-23T19:00:02",
+  "generated_at": "2026-11-23T20:00:01",
   "export_days": 365,
-  "total_detections": 55570,
+  "total_detections": 55924,
   "unique_species": 118,
-  "average_confidence": 0.8877,
+  "average_confidence": 0.888,
   "classes": {
     "Amphibian": 22,
-    "Bird": 52171,
-    "Insect": 2289,
+    "Bird": 52329,
+    "Insect": 2484,
     "Mammal": 17,
-    "Unknown": 1071
+    "Unknown": 1072
   },
   "devices": {
-    "birdnetpi-b687": 55570
+    "birdnetpi-b687": 55924
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 9818
+      "count": 9830
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 7731
+      "count": 7732
     },
     {
       "species": "Brown Gerygone",
@@ -29,31 +29,31 @@
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 5627
+      "count": 5679
     },
     {
       "species": "Australasian Figbird",
-      "count": 4611
+      "count": 4629
     },
     {
       "species": "Willie Wagtail",
-      "count": 4041
+      "count": 4052
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 3748
+      "count": 3751
     },
     {
       "species": "Sacred Kingfisher",
-      "count": 3422
+      "count": 3427
     },
     {
       "species": "Green Grocer",
-      "count": 1647
+      "count": 1842
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 1426
+      "count": 1432
     },
     {
       "species": "Grey Fantail",
@@ -65,7 +65,7 @@
     },
     {
       "species": "Eastern Whipbird",
-      "count": 575
+      "count": 600
     },
     {
       "species": "Black-faced Monarch",
@@ -77,7 +77,7 @@
     },
     {
       "species": "White-throated Gerygone",
-      "count": 461
+      "count": 464
     },
     {
       "species": "Southern Whirring Tree Frog",
@@ -85,7 +85,7 @@
     },
     {
       "species": "Noisy Friarbird",
-      "count": 338
+      "count": 346
     },
     {
       "species": "Sahul Brush Cuckoo",
@@ -116,7 +116,7 @@
     "16:00": 2791,
     "17:00": 3592,
     "18:00": 3424,
-    "19:00": 2844,
+    "19:00": 3198,
     "20:00": 463,
     "21:00": 71,
     "22:00": 54,
