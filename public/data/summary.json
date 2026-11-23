@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-11-23T11:00:01",
+  "generated_at": "2026-11-23T12:00:01",
   "export_days": 365,
-  "total_detections": 53576,
-  "unique_species": 120,
-  "average_confidence": 0.8879,
+  "total_detections": 53776,
+  "unique_species": 118,
+  "average_confidence": 0.8878,
   "classes": {
     "Amphibian": 22,
-    "Bird": 50222,
-    "Insect": 2265,
+    "Bird": 50423,
+    "Insect": 2267,
     "Mammal": 17,
-    "Unknown": 1050
+    "Unknown": 1047
   },
   "devices": {
-    "birdnetpi-b687": 53576
+    "birdnetpi-b687": 53776
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 9459
+      "count": 9470
     },
     {
       "species": "Eastern Yellow Robin",
@@ -25,15 +25,15 @@
     },
     {
       "species": "Brown Gerygone",
-      "count": 6207
+      "count": 6252
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 5155
+      "count": 5171
     },
     {
       "species": "Australasian Figbird",
-      "count": 4370
+      "count": 4383
     },
     {
       "species": "Willie Wagtail",
@@ -45,7 +45,7 @@
     },
     {
       "species": "Sacred Kingfisher",
-      "count": 3345
+      "count": 3347
     },
     {
       "species": "Green Grocer",
@@ -53,7 +53,7 @@
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 1372
+      "count": 1387
     },
     {
       "species": "Grey Fantail",
@@ -73,7 +73,7 @@
     },
     {
       "species": "Paperbark Cicada",
-      "count": 489
+      "count": 491
     },
     {
       "species": "Southern Whirring Tree Frog",
@@ -81,11 +81,11 @@
     },
     {
       "species": "White-throated Gerygone",
-      "count": 430
+      "count": 431
     },
     {
       "species": "Noisy Friarbird",
-      "count": 312
+      "count": 314
     },
     {
       "species": "Sahul Brush Cuckoo",
@@ -93,7 +93,7 @@
     },
     {
       "species": "Rufous Whistler",
-      "count": 284
+      "count": 285
     }
   ],
   "hourly_counts": {
@@ -107,18 +107,18 @@
     "07:00": 3908,
     "08:00": 3706,
     "09:00": 3079,
-    "10:00": 4187,
-    "11:00": 4395,
+    "10:00": 4188,
+    "11:00": 4603,
     "12:00": 2996,
     "13:00": 3213,
-    "14:00": 3142,
-    "15:00": 2626,
-    "16:00": 2480,
+    "14:00": 3141,
+    "15:00": 2625,
+    "16:00": 2478,
     "17:00": 3272,
     "18:00": 3113,
-    "19:00": 2848,
+    "19:00": 2844,
     "20:00": 463,
-    "21:00": 72,
+    "21:00": 71,
     "22:00": 54,
     "23:00": 63
   }
