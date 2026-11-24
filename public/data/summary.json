@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-11-24T19:00:01",
+  "generated_at": "2026-11-24T20:00:01",
   "export_days": 365,
-  "total_detections": 59513,
+  "total_detections": 59637,
   "unique_species": 122,
   "average_confidence": 0.8885,
   "classes": {
     "Amphibian": 22,
-    "Bird": 55715,
+    "Bird": 55839,
     "Insect": 2663,
     "Mammal": 17,
     "Unknown": 1096
   },
   "devices": {
-    "birdnetpi-b687": 59513
+    "birdnetpi-b687": 59637
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 10502
+      "count": 10505
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 8021
+      "count": 8026
     },
     {
       "species": "Brown Gerygone",
@@ -29,23 +29,23 @@
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 6078
+      "count": 6142
     },
     {
       "species": "Australasian Figbird",
-      "count": 4875
+      "count": 4885
     },
     {
       "species": "Willie Wagtail",
-      "count": 4316
+      "count": 4319
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 3932
+      "count": 3941
     },
     {
       "species": "Sacred Kingfisher",
-      "count": 3530
+      "count": 3531
     },
     {
       "species": "Green Grocer",
@@ -53,7 +53,7 @@
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 1532
+      "count": 1547
     },
     {
       "species": "Grey Fantail",
@@ -89,7 +89,7 @@
     },
     {
       "species": "Noisy Friarbird",
-      "count": 421
+      "count": 430
     },
     {
       "species": "Sahul Brush Cuckoo",
@@ -116,7 +116,7 @@
     "16:00": 2968,
     "17:00": 3795,
     "18:00": 3615,
-    "19:00": 3208,
+    "19:00": 3332,
     "20:00": 622,
     "21:00": 71,
     "22:00": 54,
