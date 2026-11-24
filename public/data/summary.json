@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-11-24T18:00:04",
+  "generated_at": "2026-11-24T19:00:01",
   "export_days": 365,
-  "total_detections": 59322,
+  "total_detections": 59513,
   "unique_species": 122,
   "average_confidence": 0.8885,
   "classes": {
     "Amphibian": 22,
-    "Bird": 55525,
+    "Bird": 55715,
     "Insect": 2663,
     "Mammal": 17,
-    "Unknown": 1095
+    "Unknown": 1096
   },
   "devices": {
-    "birdnetpi-b687": 59322
+    "birdnetpi-b687": 59513
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 10482
+      "count": 10502
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 8015
+      "count": 8021
     },
     {
       "species": "Brown Gerygone",
@@ -29,23 +29,23 @@
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 6026
+      "count": 6078
     },
     {
       "species": "Australasian Figbird",
-      "count": 4818
+      "count": 4875
     },
     {
       "species": "Willie Wagtail",
-      "count": 4315
+      "count": 4316
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 3928
+      "count": 3932
     },
     {
       "species": "Sacred Kingfisher",
-      "count": 3509
+      "count": 3530
     },
     {
       "species": "Green Grocer",
@@ -53,11 +53,11 @@
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 1521
+      "count": 1532
     },
     {
       "species": "Grey Fantail",
-      "count": 776
+      "count": 784
     },
     {
       "species": "Grey Shrikethrush",
@@ -65,7 +65,7 @@
     },
     {
       "species": "Eastern Whipbird",
-      "count": 637
+      "count": 638
     },
     {
       "species": "Black-faced Monarch",
@@ -81,7 +81,7 @@
     },
     {
       "species": "White-throated Gerygone",
-      "count": 478
+      "count": 479
     },
     {
       "species": "Southern Whirring Tree Frog",
@@ -89,7 +89,7 @@
     },
     {
       "species": "Noisy Friarbird",
-      "count": 418
+      "count": 421
     },
     {
       "species": "Sahul Brush Cuckoo",
@@ -115,7 +115,7 @@
     "15:00": 3076,
     "16:00": 2968,
     "17:00": 3795,
-    "18:00": 3424,
+    "18:00": 3615,
     "19:00": 3208,
     "20:00": 622,
     "21:00": 71,
