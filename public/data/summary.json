@@ -1,35 +1,35 @@
 {
-  "generated_at": "2026-11-24T13:00:03",
+  "generated_at": "2026-11-24T14:00:00",
   "export_days": 365,
-  "total_detections": 58485,
+  "total_detections": 58676,
   "unique_species": 120,
-  "average_confidence": 0.8886,
+  "average_confidence": 0.8885,
   "classes": {
     "Amphibian": 22,
-    "Bird": 54700,
-    "Insect": 2657,
+    "Bird": 54882,
+    "Insect": 2663,
     "Mammal": 17,
-    "Unknown": 1089
+    "Unknown": 1092
   },
   "devices": {
-    "birdnetpi-b687": 58485
+    "birdnetpi-b687": 58676
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 10305
+      "count": 10342
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 7932
+      "count": 7970
     },
     {
       "species": "Brown Gerygone",
-      "count": 6755
+      "count": 6775
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 5784
+      "count": 5831
     },
     {
       "species": "Australasian Figbird",
@@ -41,7 +41,7 @@
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 3918
+      "count": 3921
     },
     {
       "species": "Sacred Kingfisher",
@@ -53,11 +53,11 @@
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 1504
+      "count": 1509
     },
     {
       "species": "Grey Fantail",
-      "count": 753
+      "count": 754
     },
     {
       "species": "Grey Shrikethrush",
@@ -73,15 +73,15 @@
     },
     {
       "species": "Paperbark Cicada",
-      "count": 521
+      "count": 527
     },
     {
       "species": "Wonga Pigeon",
-      "count": 475
+      "count": 490
     },
     {
       "species": "White-throated Gerygone",
-      "count": 473
+      "count": 474
     },
     {
       "species": "Southern Whirring Tree Frog",
@@ -89,11 +89,11 @@
     },
     {
       "species": "Noisy Friarbird",
-      "count": 394
+      "count": 403
     },
     {
       "species": "Sahul Brush Cuckoo",
-      "count": 325
+      "count": 328
     }
   ],
   "hourly_counts": {
@@ -109,8 +109,8 @@
     "09:00": 3385,
     "10:00": 4452,
     "11:00": 4881,
-    "12:00": 3418,
-    "13:00": 3444,
+    "12:00": 3420,
+    "13:00": 3633,
     "14:00": 3318,
     "15:00": 2906,
     "16:00": 2791,
