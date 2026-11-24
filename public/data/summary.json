@@ -1,51 +1,51 @@
 {
-  "generated_at": "2026-11-25T07:00:12",
+  "generated_at": "2026-11-25T09:00:03",
   "export_days": 365,
-  "total_detections": 60144,
+  "total_detections": 60701,
   "unique_species": 123,
-  "average_confidence": 0.8882,
+  "average_confidence": 0.888,
   "classes": {
     "Amphibian": 22,
-    "Bird": 56313,
-    "Insect": 2695,
+    "Bird": 56867,
+    "Insect": 2698,
     "Mammal": 17,
     "Unknown": 1097
   },
   "devices": {
-    "birdnetpi-b687": 60144
+    "birdnetpi-b687": 60701
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 10597
+      "count": 10701
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 8036
+      "count": 8037
     },
     {
       "species": "Brown Gerygone",
-      "count": 6824
+      "count": 6882
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 6178
+      "count": 6214
     },
     {
       "species": "Australasian Figbird",
-      "count": 4948
+      "count": 4993
     },
     {
       "species": "Willie Wagtail",
-      "count": 4352
+      "count": 4357
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 4016
+      "count": 4032
     },
     {
       "species": "Sacred Kingfisher",
-      "count": 3531
+      "count": 3563
     },
     {
       "species": "Green Grocer",
@@ -53,39 +53,39 @@
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 1570
+      "count": 1585
     },
     {
       "species": "Grey Fantail",
-      "count": 784
+      "count": 786
     },
     {
       "species": "Grey Shrikethrush",
-      "count": 748
-    },
-    {
-      "species": "Eastern Whipbird",
-      "count": 651
-    },
-    {
-      "species": "Black-faced Monarch",
-      "count": 560
+      "count": 755
     },
     {
       "species": "Wonga Pigeon",
-      "count": 543
+      "count": 707
+    },
+    {
+      "species": "Eastern Whipbird",
+      "count": 674
+    },
+    {
+      "species": "Black-faced Monarch",
+      "count": 567
     },
     {
       "species": "Paperbark Cicada",
-      "count": 527
+      "count": 530
     },
     {
       "species": "White-throated Gerygone",
-      "count": 480
+      "count": 483
     },
     {
       "species": "Noisy Friarbird",
-      "count": 448
+      "count": 458
     },
     {
       "species": "Southern Whirring Tree Frog",
@@ -103,9 +103,9 @@
     "03:00": 3,
     "04:00": 639,
     "05:00": 5253,
-    "06:00": 4810,
-    "07:00": 4267,
-    "08:00": 4003,
+    "06:00": 4813,
+    "07:00": 4554,
+    "08:00": 4270,
     "09:00": 3385,
     "10:00": 4452,
     "11:00": 4881,
