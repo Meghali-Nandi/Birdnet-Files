@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-11-24T16:00:01",
+  "generated_at": "2026-11-24T17:00:03",
   "export_days": 365,
-  "total_detections": 58941,
-  "unique_species": 120,
+  "total_detections": 59119,
+  "unique_species": 121,
   "average_confidence": 0.8885,
   "classes": {
     "Amphibian": 22,
-    "Bird": 55147,
+    "Bird": 55323,
     "Insect": 2663,
     "Mammal": 17,
-    "Unknown": 1092
+    "Unknown": 1094
   },
   "devices": {
-    "birdnetpi-b687": 58941
+    "birdnetpi-b687": 59119
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 10369
+      "count": 10412
     },
     {
       "species": "Eastern Yellow Robin",
@@ -25,11 +25,11 @@
     },
     {
       "species": "Brown Gerygone",
-      "count": 6807
+      "count": 6809
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 5886
+      "count": 5954
     },
     {
       "species": "Australasian Figbird",
@@ -37,11 +37,11 @@
     },
     {
       "species": "Willie Wagtail",
-      "count": 4272
+      "count": 4303
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 3921
+      "count": 3922
     },
     {
       "species": "Sacred Kingfisher",
@@ -53,15 +53,15 @@
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 1513
+      "count": 1517
     },
     {
       "species": "Grey Fantail",
-      "count": 774
+      "count": 776
     },
     {
       "species": "Grey Shrikethrush",
-      "count": 728
+      "count": 733
     },
     {
       "species": "Eastern Whipbird",
@@ -81,7 +81,7 @@
     },
     {
       "species": "White-throated Gerygone",
-      "count": 476
+      "count": 477
     },
     {
       "species": "Southern Whirring Tree Frog",
@@ -89,7 +89,7 @@
     },
     {
       "species": "Noisy Friarbird",
-      "count": 409
+      "count": 418
     },
     {
       "species": "Sahul Brush Cuckoo",
@@ -112,8 +112,8 @@
     "12:00": 3420,
     "13:00": 3634,
     "14:00": 3413,
-    "15:00": 3075,
-    "16:00": 2791,
+    "15:00": 3076,
+    "16:00": 2968,
     "17:00": 3592,
     "18:00": 3424,
     "19:00": 3208,
