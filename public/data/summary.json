@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-25T04:00:06",
+  "generated_at": "2026-11-25T05:00:02",
   "export_days": 365,
-  "total_detections": 59682,
+  "total_detections": 59700,
   "unique_species": 123,
-  "average_confidence": 0.8884,
+  "average_confidence": 0.8885,
   "classes": {
     "Amphibian": 22,
-    "Bird": 55851,
+    "Bird": 55869,
     "Insect": 2695,
     "Mammal": 17,
     "Unknown": 1097
   },
   "devices": {
-    "birdnetpi-b687": 59682
+    "birdnetpi-b687": 59700
   },
   "top_species": [
     {
@@ -37,7 +37,7 @@
     },
     {
       "species": "Willie Wagtail",
-      "count": 4319
+      "count": 4336
     },
     {
       "species": "White-throated Treecreeper",
@@ -69,7 +69,7 @@
     },
     {
       "species": "Black-faced Monarch",
-      "count": 557
+      "count": 558
     },
     {
       "species": "Paperbark Cicada",
@@ -101,7 +101,7 @@
     "01:00": 149,
     "02:00": 126,
     "03:00": 3,
-    "04:00": 621,
+    "04:00": 639,
     "05:00": 5017,
     "06:00": 4602,
     "07:00": 4267,
