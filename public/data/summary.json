@@ -1,27 +1,27 @@
 {
-  "generated_at": "2026-11-24T17:00:03",
+  "generated_at": "2026-11-24T18:00:04",
   "export_days": 365,
-  "total_detections": 59119,
-  "unique_species": 121,
+  "total_detections": 59322,
+  "unique_species": 122,
   "average_confidence": 0.8885,
   "classes": {
     "Amphibian": 22,
-    "Bird": 55323,
+    "Bird": 55525,
     "Insect": 2663,
     "Mammal": 17,
-    "Unknown": 1094
+    "Unknown": 1095
   },
   "devices": {
-    "birdnetpi-b687": 59119
+    "birdnetpi-b687": 59322
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 10412
+      "count": 10482
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 8014
+      "count": 8015
     },
     {
       "species": "Brown Gerygone",
@@ -29,23 +29,23 @@
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 5954
+      "count": 6026
     },
     {
       "species": "Australasian Figbird",
-      "count": 4810
+      "count": 4818
     },
     {
       "species": "Willie Wagtail",
-      "count": 4303
+      "count": 4315
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 3922
+      "count": 3928
     },
     {
       "species": "Sacred Kingfisher",
-      "count": 3506
+      "count": 3509
     },
     {
       "species": "Green Grocer",
@@ -53,7 +53,7 @@
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 1517
+      "count": 1521
     },
     {
       "species": "Grey Fantail",
@@ -65,7 +65,7 @@
     },
     {
       "species": "Eastern Whipbird",
-      "count": 634
+      "count": 637
     },
     {
       "species": "Black-faced Monarch",
@@ -81,7 +81,7 @@
     },
     {
       "species": "White-throated Gerygone",
-      "count": 477
+      "count": 478
     },
     {
       "species": "Southern Whirring Tree Frog",
@@ -114,7 +114,7 @@
     "14:00": 3413,
     "15:00": 3076,
     "16:00": 2968,
-    "17:00": 3592,
+    "17:00": 3795,
     "18:00": 3424,
     "19:00": 3208,
     "20:00": 622,
