@@ -1,35 +1,35 @@
 {
-  "generated_at": "2026-11-24T15:00:02",
+  "generated_at": "2026-11-24T16:00:01",
   "export_days": 365,
-  "total_detections": 58772,
+  "total_detections": 58941,
   "unique_species": 120,
   "average_confidence": 0.8885,
   "classes": {
     "Amphibian": 22,
-    "Bird": 54978,
+    "Bird": 55147,
     "Insect": 2663,
     "Mammal": 17,
     "Unknown": 1092
   },
   "devices": {
-    "birdnetpi-b687": 58772
+    "birdnetpi-b687": 58941
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 10346
+      "count": 10369
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 8011
+      "count": 8014
     },
     {
       "species": "Brown Gerygone",
-      "count": 6784
+      "count": 6807
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 5850
+      "count": 5886
     },
     {
       "species": "Australasian Figbird",
@@ -37,7 +37,7 @@
     },
     {
       "species": "Willie Wagtail",
-      "count": 4235
+      "count": 4272
     },
     {
       "species": "White-throated Treecreeper",
@@ -53,15 +53,15 @@
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 1510
+      "count": 1513
     },
     {
       "species": "Grey Fantail",
-      "count": 755
+      "count": 774
     },
     {
       "species": "Grey Shrikethrush",
-      "count": 720
+      "count": 728
     },
     {
       "species": "Eastern Whipbird",
@@ -81,7 +81,7 @@
     },
     {
       "species": "White-throated Gerygone",
-      "count": 475
+      "count": 476
     },
     {
       "species": "Southern Whirring Tree Frog",
@@ -89,7 +89,7 @@
     },
     {
       "species": "Noisy Friarbird",
-      "count": 403
+      "count": 409
     },
     {
       "species": "Sahul Brush Cuckoo",
@@ -112,7 +112,7 @@
     "12:00": 3420,
     "13:00": 3634,
     "14:00": 3413,
-    "15:00": 2906,
+    "15:00": 3075,
     "16:00": 2791,
     "17:00": 3592,
     "18:00": 3424,
