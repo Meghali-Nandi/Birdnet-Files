@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-11-26T06:00:01",
+  "generated_at": "2026-11-26T07:00:03",
   "export_days": 365,
-  "total_detections": 64507,
+  "total_detections": 64677,
   "unique_species": 125,
   "average_confidence": 0.8877,
   "classes": {
     "Amphibian": 22,
-    "Bird": 60397,
+    "Bird": 60567,
     "Insect": 2962,
     "Mammal": 17,
     "Unknown": 1109
   },
   "devices": {
-    "birdnetpi-b687": 64507
+    "birdnetpi-b687": 64677
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 11557
+      "count": 11604
     },
     {
       "species": "Eastern Yellow Robin",
@@ -25,27 +25,27 @@
     },
     {
       "species": "Brown Gerygone",
-      "count": 7191
+      "count": 7194
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 6781
+      "count": 6797
     },
     {
       "species": "Australasian Figbird",
-      "count": 5321
+      "count": 5333
     },
     {
       "species": "Willie Wagtail",
-      "count": 4463
+      "count": 4464
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 4156
+      "count": 4206
     },
     {
       "species": "Sacred Kingfisher",
-      "count": 3806
+      "count": 3824
     },
     {
       "species": "Green Grocer",
@@ -53,7 +53,7 @@
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 1674
+      "count": 1682
     },
     {
       "species": "Wonga Pigeon",
@@ -61,7 +61,7 @@
     },
     {
       "species": "Grey Fantail",
-      "count": 798
+      "count": 799
     },
     {
       "species": "Grey Shrikethrush",
@@ -81,11 +81,11 @@
     },
     {
       "species": "White-throated Gerygone",
-      "count": 495
+      "count": 501
     },
     {
       "species": "Noisy Friarbird",
-      "count": 489
+      "count": 492
     },
     {
       "species": "Southern Whirring Tree Frog",
@@ -102,8 +102,8 @@
     "02:00": 126,
     "03:00": 3,
     "04:00": 780,
-    "05:00": 5488,
-    "06:00": 4813,
+    "05:00": 5491,
+    "06:00": 4980,
     "07:00": 4554,
     "08:00": 4270,
     "09:00": 3649,
