@@ -1,39 +1,39 @@
 {
-  "generated_at": "2026-11-25T16:00:01",
+  "generated_at": "2026-11-25T17:00:01",
   "export_days": 365,
-  "total_detections": 62775,
+  "total_detections": 63001,
   "unique_species": 125,
   "average_confidence": 0.8876,
   "classes": {
     "Amphibian": 22,
-    "Bird": 58919,
+    "Bird": 59144,
     "Insect": 2716,
     "Mammal": 17,
-    "Unknown": 1101
+    "Unknown": 1102
   },
   "devices": {
-    "birdnetpi-b687": 62775
+    "birdnetpi-b687": 63001
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 11317
+      "count": 11375
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 8057
+      "count": 8058
     },
     {
       "species": "Brown Gerygone",
-      "count": 7158
+      "count": 7174
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 6442
+      "count": 6514
     },
     {
       "species": "Australasian Figbird",
-      "count": 5099
+      "count": 5102
     },
     {
       "species": "Willie Wagtail",
@@ -45,7 +45,7 @@
     },
     {
       "species": "Sacred Kingfisher",
-      "count": 3648
+      "count": 3658
     },
     {
       "species": "Green Grocer",
@@ -53,15 +53,15 @@
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 1637
+      "count": 1644
     },
     {
       "species": "Wonga Pigeon",
-      "count": 1064
+      "count": 1065
     },
     {
       "species": "Grey Fantail",
-      "count": 792
+      "count": 795
     },
     {
       "species": "Grey Shrikethrush",
@@ -69,7 +69,7 @@
     },
     {
       "species": "Eastern Whipbird",
-      "count": 705
+      "count": 708
     },
     {
       "species": "Black-faced Monarch",
@@ -81,11 +81,11 @@
     },
     {
       "species": "White-throated Gerygone",
-      "count": 486
+      "count": 488
     },
     {
       "species": "Noisy Friarbird",
-      "count": 476
+      "count": 477
     },
     {
       "species": "Southern Whirring Tree Frog",
@@ -93,7 +93,7 @@
     },
     {
       "species": "Rufous Whistler",
-      "count": 364
+      "count": 365
     }
   ],
   "hourly_counts": {
@@ -112,8 +112,8 @@
     "12:00": 3741,
     "13:00": 3922,
     "14:00": 3699,
-    "15:00": 3303,
-    "16:00": 2968,
+    "15:00": 3307,
+    "16:00": 3190,
     "17:00": 3795,
     "18:00": 3615,
     "19:00": 3332,
