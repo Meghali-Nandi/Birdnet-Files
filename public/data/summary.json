@@ -1,63 +1,63 @@
 {
-  "generated_at": "2026-11-25T19:00:02",
+  "generated_at": "2026-11-25T20:00:01",
   "export_days": 365,
-  "total_detections": 63592,
+  "total_detections": 63888,
   "unique_species": 125,
   "average_confidence": 0.8876,
   "classes": {
     "Amphibian": 22,
-    "Bird": 59735,
-    "Insect": 2716,
+    "Bird": 60023,
+    "Insect": 2724,
     "Mammal": 17,
     "Unknown": 1102
   },
   "devices": {
-    "birdnetpi-b687": 63592
+    "birdnetpi-b687": 63888
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 11490
+      "count": 11550
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 8069
+      "count": 8071
     },
     {
       "species": "Brown Gerygone",
-      "count": 7184
+      "count": 7191
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 6731
+      "count": 6775
     },
     {
       "species": "Australasian Figbird",
-      "count": 5113
+      "count": 5214
     },
     {
       "species": "Willie Wagtail",
-      "count": 4376
+      "count": 4398
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 4147
+      "count": 4149
     },
     {
       "species": "Sacred Kingfisher",
-      "count": 3742
+      "count": 3763
     },
     {
       "species": "Green Grocer",
-      "count": 2039
+      "count": 2047
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 1660
+      "count": 1668
     },
     {
       "species": "Wonga Pigeon",
-      "count": 1065
+      "count": 1075
     },
     {
       "species": "Grey Fantail",
@@ -81,11 +81,11 @@
     },
     {
       "species": "White-throated Gerygone",
-      "count": 494
+      "count": 495
     },
     {
       "species": "Noisy Friarbird",
-      "count": 482
+      "count": 488
     },
     {
       "species": "Southern Whirring Tree Frog",
@@ -116,7 +116,7 @@
     "16:00": 3192,
     "17:00": 4090,
     "18:00": 3909,
-    "19:00": 3332,
+    "19:00": 3628,
     "20:00": 654,
     "21:00": 71,
     "22:00": 66,
