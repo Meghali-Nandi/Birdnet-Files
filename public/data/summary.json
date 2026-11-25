@@ -1,51 +1,51 @@
 {
-  "generated_at": "2026-11-25T15:00:02",
+  "generated_at": "2026-11-25T16:00:01",
   "export_days": 365,
-  "total_detections": 62548,
+  "total_detections": 62775,
   "unique_species": 125,
-  "average_confidence": 0.8877,
+  "average_confidence": 0.8876,
   "classes": {
     "Amphibian": 22,
-    "Bird": 58696,
-    "Insect": 2712,
+    "Bird": 58919,
+    "Insect": 2716,
     "Mammal": 17,
     "Unknown": 1101
   },
   "devices": {
-    "birdnetpi-b687": 62548
+    "birdnetpi-b687": 62775
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 11298
+      "count": 11317
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 8049
+      "count": 8057
     },
     {
       "species": "Brown Gerygone",
-      "count": 7141
+      "count": 7158
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 6417
+      "count": 6442
     },
     {
       "species": "Australasian Figbird",
-      "count": 5095
+      "count": 5099
     },
     {
       "species": "Willie Wagtail",
-      "count": 4373
+      "count": 4376
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 4053
+      "count": 4087
     },
     {
       "species": "Sacred Kingfisher",
-      "count": 3620
+      "count": 3648
     },
     {
       "species": "Green Grocer",
@@ -53,35 +53,35 @@
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 1633
+      "count": 1637
     },
     {
       "species": "Wonga Pigeon",
-      "count": 1039
+      "count": 1064
     },
     {
       "species": "Grey Fantail",
-      "count": 791
+      "count": 792
     },
     {
       "species": "Grey Shrikethrush",
-      "count": 774
+      "count": 779
     },
     {
       "species": "Eastern Whipbird",
-      "count": 698
+      "count": 705
     },
     {
       "species": "Black-faced Monarch",
-      "count": 594
+      "count": 595
     },
     {
       "species": "Paperbark Cicada",
-      "count": 543
+      "count": 547
     },
     {
       "species": "White-throated Gerygone",
-      "count": 485
+      "count": 486
     },
     {
       "species": "Noisy Friarbird",
@@ -93,7 +93,7 @@
     },
     {
       "species": "Rufous Whistler",
-      "count": 349
+      "count": 364
     }
   ],
   "hourly_counts": {
@@ -112,7 +112,7 @@
     "12:00": 3741,
     "13:00": 3922,
     "14:00": 3699,
-    "15:00": 3076,
+    "15:00": 3303,
     "16:00": 2968,
     "17:00": 3795,
     "18:00": 3615,
