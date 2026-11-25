@@ -1,39 +1,39 @@
 {
-  "generated_at": "2026-11-25T18:00:03",
+  "generated_at": "2026-11-25T19:00:02",
   "export_days": 365,
-  "total_detections": 63298,
+  "total_detections": 63592,
   "unique_species": 125,
   "average_confidence": 0.8876,
   "classes": {
     "Amphibian": 22,
-    "Bird": 59441,
+    "Bird": 59735,
     "Insect": 2716,
     "Mammal": 17,
     "Unknown": 1102
   },
   "devices": {
-    "birdnetpi-b687": 63298
+    "birdnetpi-b687": 63592
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 11448
+      "count": 11490
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 8058
+      "count": 8069
     },
     {
       "species": "Brown Gerygone",
-      "count": 7180
+      "count": 7184
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 6634
+      "count": 6731
     },
     {
       "species": "Australasian Figbird",
-      "count": 5103
+      "count": 5113
     },
     {
       "species": "Willie Wagtail",
@@ -41,11 +41,11 @@
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 4102
+      "count": 4147
     },
     {
       "species": "Sacred Kingfisher",
-      "count": 3698
+      "count": 3742
     },
     {
       "species": "Green Grocer",
@@ -53,7 +53,7 @@
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 1654
+      "count": 1660
     },
     {
       "species": "Wonga Pigeon",
@@ -61,7 +61,7 @@
     },
     {
       "species": "Grey Fantail",
-      "count": 795
+      "count": 798
     },
     {
       "species": "Grey Shrikethrush",
@@ -73,7 +73,7 @@
     },
     {
       "species": "Black-faced Monarch",
-      "count": 595
+      "count": 598
     },
     {
       "species": "Paperbark Cicada",
@@ -81,11 +81,11 @@
     },
     {
       "species": "White-throated Gerygone",
-      "count": 489
+      "count": 494
     },
     {
       "species": "Noisy Friarbird",
-      "count": 477
+      "count": 482
     },
     {
       "species": "Southern Whirring Tree Frog",
@@ -115,7 +115,7 @@
     "15:00": 3307,
     "16:00": 3192,
     "17:00": 4090,
-    "18:00": 3615,
+    "18:00": 3909,
     "19:00": 3332,
     "20:00": 654,
     "21:00": 71,
