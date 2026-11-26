@@ -1,47 +1,47 @@
 {
-  "generated_at": "2026-11-26T10:00:09",
+  "generated_at": "2026-11-26T11:00:03",
   "export_days": 365,
-  "total_detections": 65593,
+  "total_detections": 65696,
   "unique_species": 126,
-  "average_confidence": 0.8879,
+  "average_confidence": 0.8878,
   "classes": {
     "Amphibian": 22,
-    "Bird": 61408,
+    "Bird": 61511,
     "Insect": 2974,
     "Mammal": 17,
     "Unknown": 1172
   },
   "devices": {
-    "birdnetpi-b687": 65593
+    "birdnetpi-b687": 65696
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 11809
+      "count": 11837
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 8195
+      "count": 8201
     },
     {
       "species": "Brown Gerygone",
-      "count": 7251
+      "count": 7253
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 6879
+      "count": 6901
     },
     {
       "species": "Australasian Figbird",
-      "count": 5532
+      "count": 5536
     },
     {
       "species": "Willie Wagtail",
-      "count": 4494
+      "count": 4505
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 4227
+      "count": 4233
     },
     {
       "species": "Sacred Kingfisher",
@@ -53,7 +53,7 @@
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 1710
+      "count": 1714
     },
     {
       "species": "Wonga Pigeon",
@@ -65,7 +65,7 @@
     },
     {
       "species": "Grey Shrikethrush",
-      "count": 784
+      "count": 794
     },
     {
       "species": "Eastern Whipbird",
@@ -73,7 +73,7 @@
     },
     {
       "species": "Black-faced Monarch",
-      "count": 621
+      "count": 625
     },
     {
       "species": "Paperbark Cicada",
@@ -81,11 +81,11 @@
     },
     {
       "species": "White-throated Gerygone",
-      "count": 511
+      "count": 513
     },
     {
       "species": "Noisy Friarbird",
-      "count": 495
+      "count": 497
     },
     {
       "species": "Southern Whirring Tree Frog",
@@ -106,8 +106,8 @@
     "06:00": 4980,
     "07:00": 4866,
     "08:00": 4565,
-    "09:00": 3958,
-    "10:00": 4817,
+    "09:00": 3962,
+    "10:00": 4916,
     "11:00": 5204,
     "12:00": 3741,
     "13:00": 3922,
