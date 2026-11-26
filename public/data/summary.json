@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-11-26T11:00:03",
+  "generated_at": "2026-11-26T12:00:02",
   "export_days": 365,
-  "total_detections": 65696,
+  "total_detections": 65760,
   "unique_species": 126,
   "average_confidence": 0.8878,
   "classes": {
     "Amphibian": 22,
-    "Bird": 61511,
+    "Bird": 61575,
     "Insect": 2974,
     "Mammal": 17,
     "Unknown": 1172
   },
   "devices": {
-    "birdnetpi-b687": 65696
+    "birdnetpi-b687": 65760
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 11837
+      "count": 11864
     },
     {
       "species": "Eastern Yellow Robin",
@@ -25,11 +25,11 @@
     },
     {
       "species": "Brown Gerygone",
-      "count": 7253
+      "count": 7260
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 6901
+      "count": 6920
     },
     {
       "species": "Australasian Figbird",
@@ -37,7 +37,7 @@
     },
     {
       "species": "Willie Wagtail",
-      "count": 4505
+      "count": 4513
     },
     {
       "species": "White-throated Treecreeper",
@@ -53,7 +53,7 @@
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 1714
+      "count": 1716
     },
     {
       "species": "Wonga Pigeon",
@@ -65,7 +65,7 @@
     },
     {
       "species": "Grey Shrikethrush",
-      "count": 794
+      "count": 795
     },
     {
       "species": "Eastern Whipbird",
@@ -108,7 +108,7 @@
     "08:00": 4565,
     "09:00": 3962,
     "10:00": 4916,
-    "11:00": 5204,
+    "11:00": 5268,
     "12:00": 3741,
     "13:00": 3922,
     "14:00": 3699,
