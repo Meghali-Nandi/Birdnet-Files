@@ -1,39 +1,39 @@
 {
-  "generated_at": "2026-11-26T16:00:02",
+  "generated_at": "2026-11-26T17:00:03",
   "export_days": 365,
-  "total_detections": 66585,
+  "total_detections": 66887,
   "unique_species": 126,
-  "average_confidence": 0.8878,
+  "average_confidence": 0.8877,
   "classes": {
     "Amphibian": 22,
-    "Bird": 62397,
-    "Insect": 2976,
+    "Bird": 62642,
+    "Insect": 3031,
     "Mammal": 17,
-    "Unknown": 1173
+    "Unknown": 1175
   },
   "devices": {
-    "birdnetpi-b687": 66585
+    "birdnetpi-b687": 66887
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 12094
+      "count": 12179
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 8205
+      "count": 8210
     },
     {
       "species": "Brown Gerygone",
-      "count": 7310
+      "count": 7327
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 7155
+      "count": 7237
     },
     {
       "species": "Australasian Figbird",
-      "count": 5571
+      "count": 5576
     },
     {
       "species": "Willie Wagtail",
@@ -41,11 +41,11 @@
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 4259
+      "count": 4264
     },
     {
       "species": "Sacred Kingfisher",
-      "count": 4011
+      "count": 4040
     },
     {
       "species": "Green Grocer",
@@ -53,7 +53,7 @@
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 1767
+      "count": 1770
     },
     {
       "species": "Wonga Pigeon",
@@ -61,7 +61,7 @@
     },
     {
       "species": "Grey Fantail",
-      "count": 807
+      "count": 809
     },
     {
       "species": "Grey Shrikethrush",
@@ -73,15 +73,15 @@
     },
     {
       "species": "Black-faced Monarch",
-      "count": 645
+      "count": 646
     },
     {
       "species": "Paperbark Cicada",
-      "count": 561
+      "count": 616
     },
     {
       "species": "White-throated Gerygone",
-      "count": 526
+      "count": 529
     },
     {
       "species": "Noisy Friarbird",
@@ -112,8 +112,8 @@
     "12:00": 3859,
     "13:00": 4137,
     "14:00": 3882,
-    "15:00": 3616,
-    "16:00": 3192,
+    "15:00": 3618,
+    "16:00": 3492,
     "17:00": 4090,
     "18:00": 3909,
     "19:00": 3633,
