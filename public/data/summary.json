@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-11-26T12:00:02",
+  "generated_at": "2026-11-26T13:00:01",
   "export_days": 365,
-  "total_detections": 65760,
+  "total_detections": 65876,
   "unique_species": 126,
   "average_confidence": 0.8878,
   "classes": {
     "Amphibian": 22,
-    "Bird": 61575,
+    "Bird": 61691,
     "Insect": 2974,
     "Mammal": 17,
     "Unknown": 1172
   },
   "devices": {
-    "birdnetpi-b687": 65760
+    "birdnetpi-b687": 65876
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 11864
+      "count": 11904
     },
     {
       "species": "Eastern Yellow Robin",
@@ -25,23 +25,23 @@
     },
     {
       "species": "Brown Gerygone",
-      "count": 7260
+      "count": 7280
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 6920
+      "count": 6944
     },
     {
       "species": "Australasian Figbird",
-      "count": 5536
+      "count": 5537
     },
     {
       "species": "Willie Wagtail",
-      "count": 4513
+      "count": 4514
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 4233
+      "count": 4241
     },
     {
       "species": "Sacred Kingfisher",
@@ -53,7 +53,7 @@
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 1716
+      "count": 1724
     },
     {
       "species": "Wonga Pigeon",
@@ -69,11 +69,11 @@
     },
     {
       "species": "Eastern Whipbird",
-      "count": 708
+      "count": 716
     },
     {
       "species": "Black-faced Monarch",
-      "count": 625
+      "count": 626
     },
     {
       "species": "Paperbark Cicada",
@@ -81,11 +81,11 @@
     },
     {
       "species": "White-throated Gerygone",
-      "count": 513
+      "count": 514
     },
     {
       "species": "Noisy Friarbird",
-      "count": 497
+      "count": 498
     },
     {
       "species": "Southern Whirring Tree Frog",
@@ -109,7 +109,7 @@
     "09:00": 3962,
     "10:00": 4916,
     "11:00": 5268,
-    "12:00": 3741,
+    "12:00": 3857,
     "13:00": 3922,
     "14:00": 3699,
     "15:00": 3307,
