@@ -1,51 +1,51 @@
 {
-  "generated_at": "2026-11-26T13:00:01",
+  "generated_at": "2026-11-26T14:00:01",
   "export_days": 365,
-  "total_detections": 65876,
+  "total_detections": 66091,
   "unique_species": 126,
   "average_confidence": 0.8878,
   "classes": {
     "Amphibian": 22,
-    "Bird": 61691,
+    "Bird": 61906,
     "Insect": 2974,
     "Mammal": 17,
     "Unknown": 1172
   },
   "devices": {
-    "birdnetpi-b687": 65876
+    "birdnetpi-b687": 66091
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 11904
+      "count": 11958
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 8201
+      "count": 8205
     },
     {
       "species": "Brown Gerygone",
-      "count": 7280
+      "count": 7291
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 6944
+      "count": 6989
     },
     {
       "species": "Australasian Figbird",
-      "count": 5537
+      "count": 5554
     },
     {
       "species": "Willie Wagtail",
-      "count": 4514
+      "count": 4521
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 4241
+      "count": 4245
     },
     {
       "species": "Sacred Kingfisher",
-      "count": 3959
+      "count": 3984
     },
     {
       "species": "Green Grocer",
@@ -53,7 +53,7 @@
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 1724
+      "count": 1752
     },
     {
       "species": "Wonga Pigeon",
@@ -61,7 +61,7 @@
     },
     {
       "species": "Grey Fantail",
-      "count": 800
+      "count": 802
     },
     {
       "species": "Grey Shrikethrush",
@@ -69,11 +69,11 @@
     },
     {
       "species": "Eastern Whipbird",
-      "count": 716
+      "count": 719
     },
     {
       "species": "Black-faced Monarch",
-      "count": 626
+      "count": 634
     },
     {
       "species": "Paperbark Cicada",
@@ -109,8 +109,8 @@
     "09:00": 3962,
     "10:00": 4916,
     "11:00": 5268,
-    "12:00": 3857,
-    "13:00": 3922,
+    "12:00": 3859,
+    "13:00": 4135,
     "14:00": 3699,
     "15:00": 3307,
     "16:00": 3192,
