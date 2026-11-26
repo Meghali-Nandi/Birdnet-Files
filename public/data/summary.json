@@ -1,51 +1,51 @@
 {
-  "generated_at": "2026-11-26T18:00:08",
+  "generated_at": "2026-11-26T19:00:00",
   "export_days": 365,
-  "total_detections": 67098,
+  "total_detections": 67388,
   "unique_species": 126,
   "average_confidence": 0.8877,
   "classes": {
     "Amphibian": 22,
-    "Bird": 62841,
+    "Bird": 63131,
     "Insect": 3031,
     "Mammal": 17,
     "Unknown": 1187
   },
   "devices": {
-    "birdnetpi-b687": 67098
+    "birdnetpi-b687": 67388
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 12244
+      "count": 12270
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 8220
+      "count": 8238
+    },
+    {
+      "species": "Scarlet Honeyeater",
+      "count": 7382
     },
     {
       "species": "Brown Gerygone",
       "count": 7329
     },
     {
-      "species": "Scarlet Honeyeater",
-      "count": 7320
-    },
-    {
       "species": "Australasian Figbird",
-      "count": 5582
+      "count": 5622
     },
     {
       "species": "Willie Wagtail",
-      "count": 4547
+      "count": 4633
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 4268
+      "count": 4281
     },
     {
       "species": "Sacred Kingfisher",
-      "count": 4044
+      "count": 4053
     },
     {
       "species": "Green Grocer",
@@ -53,7 +53,7 @@
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 1774
+      "count": 1785
     },
     {
       "species": "Wonga Pigeon",
@@ -61,7 +61,7 @@
     },
     {
       "species": "Grey Fantail",
-      "count": 810
+      "count": 814
     },
     {
       "species": "Grey Shrikethrush",
@@ -73,7 +73,7 @@
     },
     {
       "species": "Black-faced Monarch",
-      "count": 646
+      "count": 647
     },
     {
       "species": "Paperbark Cicada",
@@ -81,11 +81,11 @@
     },
     {
       "species": "White-throated Gerygone",
-      "count": 531
+      "count": 532
     },
     {
       "species": "Noisy Friarbird",
-      "count": 498
+      "count": 512
     },
     {
       "species": "Southern Whirring Tree Frog",
@@ -114,8 +114,8 @@
     "14:00": 3882,
     "15:00": 3618,
     "16:00": 3492,
-    "17:00": 4301,
-    "18:00": 3909,
+    "17:00": 4303,
+    "18:00": 4197,
     "19:00": 3633,
     "20:00": 887,
     "21:00": 71,
