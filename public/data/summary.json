@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-27T04:00:01",
+  "generated_at": "2026-11-27T05:00:01",
   "export_days": 365,
-  "total_detections": 67961,
+  "total_detections": 68142,
   "unique_species": 126,
   "average_confidence": 0.8881,
   "classes": {
     "Amphibian": 22,
-    "Bird": 63374,
+    "Bird": 63555,
     "Insect": 3361,
     "Mammal": 17,
     "Unknown": 1187
   },
   "devices": {
-    "birdnetpi-b687": 67961
+    "birdnetpi-b687": 68142
   },
   "top_species": [
     {
@@ -21,7 +21,7 @@
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 8238
+      "count": 8347
     },
     {
       "species": "Scarlet Honeyeater",
@@ -37,7 +37,7 @@
     },
     {
       "species": "Willie Wagtail",
-      "count": 4663
+      "count": 4730
     },
     {
       "species": "White-throated Treecreeper",
@@ -73,7 +73,7 @@
     },
     {
       "species": "Black-faced Monarch",
-      "count": 648
+      "count": 652
     },
     {
       "species": "Paperbark Cicada",
@@ -101,7 +101,7 @@
     "01:00": 150,
     "02:00": 127,
     "03:00": 3,
-    "04:00": 780,
+    "04:00": 961,
     "05:00": 5491,
     "06:00": 4980,
     "07:00": 4866,
