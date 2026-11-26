@@ -1,51 +1,51 @@
 {
-  "generated_at": "2026-11-27T07:00:01",
+  "generated_at": "2026-11-27T08:00:01",
   "export_days": 365,
-  "total_detections": 68565,
+  "total_detections": 68790,
   "unique_species": 126,
   "average_confidence": 0.8881,
   "classes": {
     "Amphibian": 22,
-    "Bird": 63977,
+    "Bird": 64202,
     "Insect": 3361,
     "Mammal": 17,
     "Unknown": 1188
   },
   "devices": {
-    "birdnetpi-b687": 68565
+    "birdnetpi-b687": 68790
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 12328
+      "count": 12381
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 8370
+      "count": 8389
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 7551
+      "count": 7560
     },
     {
       "species": "Brown Gerygone",
-      "count": 7334
+      "count": 7336
     },
     {
       "species": "Australasian Figbird",
-      "count": 5735
+      "count": 5754
     },
     {
       "species": "Willie Wagtail",
-      "count": 4739
+      "count": 4740
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 4368
+      "count": 4401
     },
     {
       "species": "Sacred Kingfisher",
-      "count": 4127
+      "count": 4176
     },
     {
       "species": "Green Grocer",
@@ -53,7 +53,7 @@
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 1814
+      "count": 1836
     },
     {
       "species": "Wonga Pigeon",
@@ -65,7 +65,7 @@
     },
     {
       "species": "Grey Fantail",
-      "count": 815
+      "count": 827
     },
     {
       "species": "Eastern Whipbird",
@@ -81,7 +81,7 @@
     },
     {
       "species": "White-throated Gerygone",
-      "count": 540
+      "count": 542
     },
     {
       "species": "Noisy Friarbird",
@@ -103,8 +103,8 @@
     "03:00": 3,
     "04:00": 963,
     "05:00": 5668,
-    "06:00": 5224,
-    "07:00": 4866,
+    "06:00": 5225,
+    "07:00": 5090,
     "08:00": 4565,
     "09:00": 3962,
     "10:00": 4916,
