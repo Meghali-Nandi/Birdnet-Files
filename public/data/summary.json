@@ -1,51 +1,51 @@
 {
-  "generated_at": "2026-11-26T17:00:03",
+  "generated_at": "2026-11-26T18:00:08",
   "export_days": 365,
-  "total_detections": 66887,
+  "total_detections": 67098,
   "unique_species": 126,
   "average_confidence": 0.8877,
   "classes": {
     "Amphibian": 22,
-    "Bird": 62642,
+    "Bird": 62841,
     "Insect": 3031,
     "Mammal": 17,
-    "Unknown": 1175
+    "Unknown": 1187
   },
   "devices": {
-    "birdnetpi-b687": 66887
+    "birdnetpi-b687": 67098
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 12179
+      "count": 12244
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 8210
+      "count": 8220
     },
     {
       "species": "Brown Gerygone",
-      "count": 7327
+      "count": 7329
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 7237
+      "count": 7320
     },
     {
       "species": "Australasian Figbird",
-      "count": 5576
+      "count": 5582
     },
     {
       "species": "Willie Wagtail",
-      "count": 4539
+      "count": 4547
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 4264
+      "count": 4268
     },
     {
       "species": "Sacred Kingfisher",
-      "count": 4040
+      "count": 4044
     },
     {
       "species": "Green Grocer",
@@ -53,7 +53,7 @@
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 1770
+      "count": 1774
     },
     {
       "species": "Wonga Pigeon",
@@ -61,7 +61,7 @@
     },
     {
       "species": "Grey Fantail",
-      "count": 809
+      "count": 810
     },
     {
       "species": "Grey Shrikethrush",
@@ -81,7 +81,7 @@
     },
     {
       "species": "White-throated Gerygone",
-      "count": 529
+      "count": 531
     },
     {
       "species": "Noisy Friarbird",
@@ -93,7 +93,7 @@
     },
     {
       "species": "Sahul Brush Cuckoo",
-      "count": 392
+      "count": 402
     }
   ],
   "hourly_counts": {
@@ -114,7 +114,7 @@
     "14:00": 3882,
     "15:00": 3618,
     "16:00": 3492,
-    "17:00": 4090,
+    "17:00": 4301,
     "18:00": 3909,
     "19:00": 3633,
     "20:00": 887,
