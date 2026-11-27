@@ -1,47 +1,47 @@
 {
-  "generated_at": "2026-11-28T07:00:07",
+  "generated_at": "2026-11-28T08:00:01",
   "export_days": 365,
-  "total_detections": 73269,
+  "total_detections": 73578,
   "unique_species": 127,
   "average_confidence": 0.889,
   "classes": {
     "Amphibian": 22,
-    "Bird": 68293,
+    "Bird": 68602,
     "Insect": 3736,
     "Mammal": 17,
     "Unknown": 1201
   },
   "devices": {
-    "birdnetpi-b687": 73269
+    "birdnetpi-b687": 73578
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 13001
+      "count": 13042
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 8867
+      "count": 8941
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 8505
+      "count": 8506
     },
     {
       "species": "Brown Gerygone",
-      "count": 7462
+      "count": 7474
     },
     {
       "species": "Australasian Figbird",
-      "count": 5839
+      "count": 5846
     },
     {
       "species": "Willie Wagtail",
-      "count": 5487
+      "count": 5503
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 4539
+      "count": 4626
     },
     {
       "species": "Sacred Kingfisher",
@@ -53,7 +53,7 @@
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 2003
+      "count": 2017
     },
     {
       "species": "Wonga Pigeon",
@@ -61,15 +61,15 @@
     },
     {
       "species": "Grey Shrikethrush",
-      "count": 937
+      "count": 940
+    },
+    {
+      "species": "Eastern Whipbird",
+      "count": 890
     },
     {
       "species": "Grey Fantail",
       "count": 859
-    },
-    {
-      "species": "Eastern Whipbird",
-      "count": 853
     },
     {
       "species": "Paperbark Cicada",
@@ -81,7 +81,7 @@
     },
     {
       "species": "Noisy Friarbird",
-      "count": 580
+      "count": 583
     },
     {
       "species": "White-throated Gerygone",
@@ -104,7 +104,7 @@
     "04:00": 970,
     "05:00": 5962,
     "06:00": 5697,
-    "07:00": 5091,
+    "07:00": 5400,
     "08:00": 4716,
     "09:00": 4270,
     "10:00": 5224,
