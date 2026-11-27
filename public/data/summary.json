@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-28T04:00:02",
+  "generated_at": "2026-11-28T05:00:02",
   "export_days": 365,
-  "total_detections": 72496,
+  "total_detections": 72503,
   "unique_species": 127,
   "average_confidence": 0.8891,
   "classes": {
     "Amphibian": 22,
-    "Bird": 67536,
+    "Bird": 67543,
     "Insect": 3720,
     "Mammal": 17,
     "Unknown": 1201
   },
   "devices": {
-    "birdnetpi-b687": 72496
+    "birdnetpi-b687": 72503
   },
   "top_species": [
     {
@@ -37,7 +37,7 @@
     },
     {
       "species": "Willie Wagtail",
-      "count": 5415
+      "count": 5422
     },
     {
       "species": "White-throated Treecreeper",
@@ -101,7 +101,7 @@
     "01:00": 150,
     "02:00": 127,
     "03:00": 3,
-    "04:00": 963,
+    "04:00": 970,
     "05:00": 5668,
     "06:00": 5225,
     "07:00": 5091,
