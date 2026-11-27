@@ -1,51 +1,51 @@
 {
-  "generated_at": "2026-11-27T11:00:01",
+  "generated_at": "2026-11-27T12:00:03",
   "export_days": 365,
-  "total_detections": 69553,
+  "total_detections": 69805,
   "unique_species": 127,
   "average_confidence": 0.8883,
   "classes": {
     "Amphibian": 22,
-    "Bird": 64958,
-    "Insect": 3365,
+    "Bird": 65209,
+    "Insect": 3366,
     "Mammal": 17,
     "Unknown": 1191
   },
   "devices": {
-    "birdnetpi-b687": 69553
+    "birdnetpi-b687": 69805
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 12521
+      "count": 12582
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 8389
+      "count": 8414
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 7620
+      "count": 7671
     },
     {
       "species": "Brown Gerygone",
-      "count": 7378
+      "count": 7381
     },
     {
       "species": "Australasian Figbird",
-      "count": 5799
+      "count": 5800
     },
     {
       "species": "Willie Wagtail",
-      "count": 4764
+      "count": 4775
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 4430
+      "count": 4433
     },
     {
       "species": "Sacred Kingfisher",
-      "count": 4279
+      "count": 4283
     },
     {
       "species": "Green Grocer",
@@ -53,7 +53,7 @@
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 1880
+      "count": 1893
     },
     {
       "species": "Wonga Pigeon",
@@ -61,15 +61,15 @@
     },
     {
       "species": "Grey Shrikethrush",
-      "count": 838
+      "count": 860
     },
     {
       "species": "Grey Fantail",
-      "count": 832
+      "count": 841
     },
     {
       "species": "Eastern Whipbird",
-      "count": 798
+      "count": 831
     },
     {
       "species": "Black-faced Monarch",
@@ -77,11 +77,11 @@
     },
     {
       "species": "Paperbark Cicada",
-      "count": 620
+      "count": 621
     },
     {
       "species": "Noisy Friarbird",
-      "count": 548
+      "count": 549
     },
     {
       "species": "White-throated Gerygone",
@@ -107,8 +107,8 @@
     "07:00": 5091,
     "08:00": 4716,
     "09:00": 4270,
-    "10:00": 5219,
-    "11:00": 5268,
+    "10:00": 5224,
+    "11:00": 5515,
     "12:00": 3859,
     "13:00": 4137,
     "14:00": 3882,
