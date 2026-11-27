@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-27T20:00:02",
+  "generated_at": "2026-11-27T21:00:03",
   "export_days": 365,
-  "total_detections": 72251,
+  "total_detections": 72496,
   "unique_species": 127,
-  "average_confidence": 0.8889,
+  "average_confidence": 0.8891,
   "classes": {
     "Amphibian": 22,
     "Bird": 67536,
-    "Insect": 3475,
+    "Insect": 3720,
     "Mammal": 17,
     "Unknown": 1201
   },
   "devices": {
-    "birdnetpi-b687": 72251
+    "birdnetpi-b687": 72496
   },
   "top_species": [
     {
@@ -49,7 +49,7 @@
     },
     {
       "species": "Green Grocer",
-      "count": 2649
+      "count": 2891
     },
     {
       "species": "Lewin's Honeyeater",
@@ -116,8 +116,8 @@
     "16:00": 3797,
     "17:00": 4600,
     "18:00": 4673,
-    "19:00": 4313,
-    "20:00": 1136,
+    "19:00": 4323,
+    "20:00": 1371,
     "21:00": 71,
     "22:00": 66,
     "23:00": 72
