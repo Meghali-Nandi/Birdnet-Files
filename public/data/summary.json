@@ -1,43 +1,43 @@
 {
-  "generated_at": "2026-11-27T18:00:02",
+  "generated_at": "2026-11-27T19:00:02",
   "export_days": 365,
-  "total_detections": 71412,
+  "total_detections": 71885,
   "unique_species": 127,
-  "average_confidence": 0.8883,
+  "average_confidence": 0.8886,
   "classes": {
     "Amphibian": 22,
-    "Bird": 66760,
-    "Insect": 3416,
+    "Bird": 67224,
+    "Insect": 3423,
     "Mammal": 17,
-    "Unknown": 1197
+    "Unknown": 1199
   },
   "devices": {
-    "birdnetpi-b687": 71412
+    "birdnetpi-b687": 71885
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 12920
+      "count": 12927
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 8487
+      "count": 8488
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 8231
+      "count": 8394
     },
     {
       "species": "Brown Gerygone",
-      "count": 7403
+      "count": 7440
     },
     {
       "species": "Australasian Figbird",
-      "count": 5818
+      "count": 5821
     },
     {
       "species": "Willie Wagtail",
-      "count": 5008
+      "count": 5216
     },
     {
       "species": "White-throated Treecreeper",
@@ -45,7 +45,7 @@
     },
     {
       "species": "Sacred Kingfisher",
-      "count": 4315
+      "count": 4320
     },
     {
       "species": "Green Grocer",
@@ -53,7 +53,7 @@
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 1928
+      "count": 1960
     },
     {
       "species": "Wonga Pigeon",
@@ -65,7 +65,7 @@
     },
     {
       "species": "Grey Fantail",
-      "count": 857
+      "count": 858
     },
     {
       "species": "Eastern Whipbird",
@@ -77,11 +77,11 @@
     },
     {
       "species": "Paperbark Cicada",
-      "count": 668
+      "count": 675
     },
     {
       "species": "Noisy Friarbird",
-      "count": 555
+      "count": 557
     },
     {
       "species": "White-throated Gerygone",
@@ -114,8 +114,8 @@
     "14:00": 4142,
     "15:00": 3831,
     "16:00": 3797,
-    "17:00": 4595,
-    "18:00": 4200,
+    "17:00": 4600,
+    "18:00": 4668,
     "19:00": 3952,
     "20:00": 1136,
     "21:00": 71,
