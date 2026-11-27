@@ -1,23 +1,23 @@
 {
-  "generated_at": "2026-11-27T19:00:02",
+  "generated_at": "2026-11-27T20:00:02",
   "export_days": 365,
-  "total_detections": 71885,
+  "total_detections": 72251,
   "unique_species": 127,
-  "average_confidence": 0.8886,
+  "average_confidence": 0.8889,
   "classes": {
     "Amphibian": 22,
-    "Bird": 67224,
-    "Insect": 3423,
+    "Bird": 67536,
+    "Insect": 3475,
     "Mammal": 17,
-    "Unknown": 1199
+    "Unknown": 1201
   },
   "devices": {
-    "birdnetpi-b687": 71885
+    "birdnetpi-b687": 72251
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 12927
+      "count": 12937
     },
     {
       "species": "Eastern Yellow Robin",
@@ -25,7 +25,7 @@
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 8394
+      "count": 8483
     },
     {
       "species": "Brown Gerygone",
@@ -33,15 +33,15 @@
     },
     {
       "species": "Australasian Figbird",
-      "count": 5821
+      "count": 5822
     },
     {
       "species": "Willie Wagtail",
-      "count": 5216
+      "count": 5415
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 4491
+      "count": 4492
     },
     {
       "species": "Sacred Kingfisher",
@@ -49,11 +49,11 @@
     },
     {
       "species": "Green Grocer",
-      "count": 2597
+      "count": 2649
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 1960
+      "count": 1967
     },
     {
       "species": "Wonga Pigeon",
@@ -65,7 +65,7 @@
     },
     {
       "species": "Grey Fantail",
-      "count": 858
+      "count": 859
     },
     {
       "species": "Eastern Whipbird",
@@ -81,7 +81,7 @@
     },
     {
       "species": "Noisy Friarbird",
-      "count": 557
+      "count": 560
     },
     {
       "species": "White-throated Gerygone",
@@ -115,8 +115,8 @@
     "15:00": 3831,
     "16:00": 3797,
     "17:00": 4600,
-    "18:00": 4668,
-    "19:00": 3952,
+    "18:00": 4673,
+    "19:00": 4313,
     "20:00": 1136,
     "21:00": 71,
     "22:00": 66,
