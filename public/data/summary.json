@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-11-27T17:00:01",
+  "generated_at": "2026-11-27T18:00:02",
   "export_days": 365,
-  "total_detections": 71118,
+  "total_detections": 71412,
   "unique_species": 127,
   "average_confidence": 0.8883,
   "classes": {
     "Amphibian": 22,
-    "Bird": 66478,
-    "Insect": 3404,
+    "Bird": 66760,
+    "Insect": 3416,
     "Mammal": 17,
     "Unknown": 1197
   },
   "devices": {
-    "birdnetpi-b687": 71118
+    "birdnetpi-b687": 71412
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 12918
+      "count": 12920
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 8483
+      "count": 8487
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 8057
+      "count": 8231
     },
     {
       "species": "Brown Gerygone",
@@ -37,15 +37,15 @@
     },
     {
       "species": "Willie Wagtail",
-      "count": 4933
+      "count": 5008
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 4487
+      "count": 4491
     },
     {
       "species": "Sacred Kingfisher",
-      "count": 4313
+      "count": 4315
     },
     {
       "species": "Green Grocer",
@@ -53,7 +53,7 @@
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 1924
+      "count": 1928
     },
     {
       "species": "Wonga Pigeon",
@@ -65,7 +65,7 @@
     },
     {
       "species": "Grey Fantail",
-      "count": 854
+      "count": 857
     },
     {
       "species": "Eastern Whipbird",
@@ -73,19 +73,19 @@
     },
     {
       "species": "Black-faced Monarch",
-      "count": 671
+      "count": 675
     },
     {
       "species": "Paperbark Cicada",
-      "count": 656
+      "count": 668
+    },
+    {
+      "species": "Noisy Friarbird",
+      "count": 555
     },
     {
       "species": "White-throated Gerygone",
       "count": 551
-    },
-    {
-      "species": "Noisy Friarbird",
-      "count": 550
     },
     {
       "species": "Southern Whirring Tree Frog",
@@ -113,8 +113,8 @@
     "13:00": 4345,
     "14:00": 4142,
     "15:00": 3831,
-    "16:00": 3795,
-    "17:00": 4303,
+    "16:00": 3797,
+    "17:00": 4595,
     "18:00": 4200,
     "19:00": 3952,
     "20:00": 1136,
