@@ -1,51 +1,51 @@
 {
-  "generated_at": "2026-11-28T05:00:02",
+  "generated_at": "2026-11-28T06:00:02",
   "export_days": 365,
-  "total_detections": 72503,
+  "total_detections": 72794,
   "unique_species": 127,
-  "average_confidence": 0.8891,
+  "average_confidence": 0.889,
   "classes": {
     "Amphibian": 22,
-    "Bird": 67543,
-    "Insect": 3720,
+    "Bird": 67833,
+    "Insect": 3721,
     "Mammal": 17,
     "Unknown": 1201
   },
   "devices": {
-    "birdnetpi-b687": 72503
+    "birdnetpi-b687": 72794
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 12937
-    },
-    {
-      "species": "Eastern Yellow Robin",
-      "count": 8488
+      "count": 12944
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 8483
+      "count": 8612
+    },
+    {
+      "species": "Eastern Yellow Robin",
+      "count": 8491
     },
     {
       "species": "Brown Gerygone",
-      "count": 7440
+      "count": 7448
     },
     {
       "species": "Australasian Figbird",
-      "count": 5822
+      "count": 5837
     },
     {
       "species": "Willie Wagtail",
-      "count": 5422
+      "count": 5459
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 4492
+      "count": 4517
     },
     {
       "species": "Sacred Kingfisher",
-      "count": 4320
+      "count": 4361
     },
     {
       "species": "Green Grocer",
@@ -53,7 +53,7 @@
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 1967
+      "count": 1977
     },
     {
       "species": "Wonga Pigeon",
@@ -61,7 +61,7 @@
     },
     {
       "species": "Grey Shrikethrush",
-      "count": 916
+      "count": 921
     },
     {
       "species": "Grey Fantail",
@@ -72,16 +72,16 @@
       "count": 852
     },
     {
+      "species": "Paperbark Cicada",
+      "count": 676
+    },
+    {
       "species": "Black-faced Monarch",
       "count": 675
     },
     {
-      "species": "Paperbark Cicada",
-      "count": 675
-    },
-    {
       "species": "Noisy Friarbird",
-      "count": 560
+      "count": 569
     },
     {
       "species": "White-throated Gerygone",
@@ -102,7 +102,7 @@
     "02:00": 127,
     "03:00": 3,
     "04:00": 970,
-    "05:00": 5668,
+    "05:00": 5959,
     "06:00": 5225,
     "07:00": 5091,
     "08:00": 4716,
