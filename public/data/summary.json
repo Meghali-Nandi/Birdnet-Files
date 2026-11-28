@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-11-28T15:00:03",
+  "generated_at": "2026-11-28T16:00:01",
   "export_days": 365,
-  "total_detections": 74904,
+  "total_detections": 75003,
   "unique_species": 128,
-  "average_confidence": 0.8888,
+  "average_confidence": 0.8887,
   "classes": {
     "Amphibian": 22,
-    "Bird": 69838,
-    "Insect": 3819,
+    "Bird": 69920,
+    "Insect": 3833,
     "Mammal": 17,
-    "Unknown": 1208
+    "Unknown": 1211
   },
   "devices": {
-    "birdnetpi-b687": 74904
+    "birdnetpi-b687": 75003
   },
   "top_species": [
     {
@@ -21,15 +21,15 @@
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 9335
+      "count": 9356
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 8706
+      "count": 8708
     },
     {
       "species": "Brown Gerygone",
-      "count": 7598
+      "count": 7605
     },
     {
       "species": "Australasian Figbird",
@@ -37,11 +37,11 @@
     },
     {
       "species": "Willie Wagtail",
-      "count": 5588
+      "count": 5624
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 4731
+      "count": 4733
     },
     {
       "species": "Sacred Kingfisher",
@@ -61,7 +61,7 @@
     },
     {
       "species": "Grey Shrikethrush",
-      "count": 989
+      "count": 998
     },
     {
       "species": "Eastern Whipbird",
@@ -73,7 +73,7 @@
     },
     {
       "species": "Paperbark Cicada",
-      "count": 747
+      "count": 761
     },
     {
       "species": "Black-faced Monarch",
@@ -112,7 +112,7 @@
     "12:00": 4374,
     "13:00": 4503,
     "14:00": 4273,
-    "15:00": 3831,
+    "15:00": 3930,
     "16:00": 3797,
     "17:00": 4600,
     "18:00": 4673,
