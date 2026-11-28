@@ -75274,3 +75274,272 @@ ts,device,class,species,confidence
 2026-11-28T17:59:02,birdnetpi-b687,Bird,Australasian Figbird,0.724
 2026-11-28T17:59:08,birdnetpi-b687,Bird,Australasian Figbird,0.849
 2026-11-28T17:59:17,birdnetpi-b687,Bird,Australasian Figbird,0.752
+2026-11-28T18:03:43,birdnetpi-b687,Bird,Scarlet Honeyeater,0.7404
+2026-11-28T18:05:23,birdnetpi-b687,Bird,Eastern Yellow Robin,0.8204
+2026-11-28T18:05:56,birdnetpi-b687,Bird,Eastern Yellow Robin,0.9658
+2026-11-28T18:05:59,birdnetpi-b687,Bird,Eastern Yellow Robin,0.8504
+2026-11-28T18:06:02,birdnetpi-b687,Bird,Eastern Yellow Robin,0.8759
+2026-11-28T18:06:05,birdnetpi-b687,Bird,Eastern Yellow Robin,0.9096
+2026-11-28T18:06:08,birdnetpi-b687,Bird,Eastern Yellow Robin,0.8439
+2026-11-28T18:06:14,birdnetpi-b687,Bird,Eastern Yellow Robin,0.7569
+2026-11-28T18:06:20,birdnetpi-b687,Bird,Eastern Yellow Robin,0.9077
+2026-11-28T18:06:23,birdnetpi-b687,Bird,Eastern Yellow Robin,0.8826
+2026-11-28T18:06:26,birdnetpi-b687,Bird,Eastern Yellow Robin,0.8744
+2026-11-28T18:06:29,birdnetpi-b687,Bird,Eastern Yellow Robin,0.8905
+2026-11-28T18:06:32,birdnetpi-b687,Bird,Eastern Yellow Robin,0.8699
+2026-11-28T18:06:38,birdnetpi-b687,Bird,Eastern Yellow Robin,0.9217
+2026-11-28T18:06:41,birdnetpi-b687,Bird,Eastern Yellow Robin,0.7384
+2026-11-28T18:06:47,birdnetpi-b687,Bird,Eastern Yellow Robin,0.7229
+2026-11-28T18:06:50,birdnetpi-b687,Bird,Eastern Yellow Robin,0.7309
+2026-11-28T18:06:59,birdnetpi-b687,Bird,Eastern Yellow Robin,0.8304
+2026-11-28T18:07:05,birdnetpi-b687,Bird,Eastern Yellow Robin,0.8196
+2026-11-28T18:07:05,birdnetpi-b687,Bird,Willie Wagtail,0.8739
+2026-11-28T18:07:11,birdnetpi-b687,Bird,Eastern Yellow Robin,0.9786
+2026-11-28T18:07:14,birdnetpi-b687,Bird,Eastern Yellow Robin,0.8522
+2026-11-28T18:07:18,birdnetpi-b687,Bird,Eastern Yellow Robin,0.7088
+2026-11-28T18:07:27,birdnetpi-b687,Bird,Eastern Yellow Robin,0.9542
+2026-11-28T18:07:30,birdnetpi-b687,Bird,Willie Wagtail,0.9778
+2026-11-28T18:07:33,birdnetpi-b687,Bird,Willie Wagtail,0.9973
+2026-11-28T18:07:36,birdnetpi-b687,Bird,Eastern Yellow Robin,0.901
+2026-11-28T18:07:39,birdnetpi-b687,Bird,Willie Wagtail,0.9945
+2026-11-28T18:07:42,birdnetpi-b687,Bird,Willie Wagtail,0.9916
+2026-11-28T18:07:48,birdnetpi-b687,Bird,Willie Wagtail,0.8167
+2026-11-28T18:07:51,birdnetpi-b687,Bird,Willie Wagtail,0.9528
+2026-11-28T18:08:00,birdnetpi-b687,Bird,Willie Wagtail,0.9984
+2026-11-28T18:08:09,birdnetpi-b687,Bird,Willie Wagtail,0.9975
+2026-11-28T18:08:21,birdnetpi-b687,Bird,Willie Wagtail,0.9967
+2026-11-28T18:08:36,birdnetpi-b687,Bird,Willie Wagtail,0.9962
+2026-11-28T18:08:39,birdnetpi-b687,Bird,Willie Wagtail,0.9497
+2026-11-28T18:09:06,birdnetpi-b687,Bird,Willie Wagtail,0.9899
+2026-11-28T18:09:18,birdnetpi-b687,Bird,Willie Wagtail,0.9968
+2026-11-28T18:10:07,birdnetpi-b687,Bird,Eastern Yellow Robin,0.8604
+2026-11-28T18:10:10,birdnetpi-b687,Bird,Eastern Yellow Robin,0.8836
+2026-11-28T18:10:13,birdnetpi-b687,Bird,Eastern Yellow Robin,0.7077
+2026-11-28T18:10:13,birdnetpi-b687,Bird,Willie Wagtail,0.9255
+2026-11-28T18:10:19,birdnetpi-b687,Bird,Eastern Yellow Robin,0.7372
+2026-11-28T18:10:22,birdnetpi-b687,Bird,Eastern Yellow Robin,0.9341
+2026-11-28T18:10:25,birdnetpi-b687,Bird,Eastern Yellow Robin,0.9068
+2026-11-28T18:10:28,birdnetpi-b687,Bird,Eastern Yellow Robin,0.9333
+2026-11-28T18:10:31,birdnetpi-b687,Bird,Eastern Yellow Robin,0.7188
+2026-11-28T18:10:46,birdnetpi-b687,Bird,Eastern Yellow Robin,0.7508
+2026-11-28T18:10:49,birdnetpi-b687,Bird,Eastern Yellow Robin,0.8698
+2026-11-28T18:10:52,birdnetpi-b687,Bird,Eastern Yellow Robin,0.9603
+2026-11-28T18:10:55,birdnetpi-b687,Bird,Eastern Yellow Robin,0.9102
+2026-11-28T18:10:58,birdnetpi-b687,Bird,Eastern Yellow Robin,0.7769
+2026-11-28T18:11:10,birdnetpi-b687,Bird,Eastern Yellow Robin,0.7957
+2026-11-28T18:11:13,birdnetpi-b687,Bird,Eastern Yellow Robin,0.844
+2026-11-28T18:11:17,birdnetpi-b687,Bird,Eastern Yellow Robin,0.7593
+2026-11-28T18:11:20,birdnetpi-b687,Bird,Eastern Yellow Robin,0.9387
+2026-11-28T18:11:23,birdnetpi-b687,Bird,Eastern Yellow Robin,0.8851
+2026-11-28T18:11:26,birdnetpi-b687,Bird,Eastern Yellow Robin,0.7623
+2026-11-28T18:11:29,birdnetpi-b687,Bird,Eastern Yellow Robin,0.8192
+2026-11-28T18:11:32,birdnetpi-b687,Bird,Eastern Yellow Robin,0.9779
+2026-11-28T18:11:38,birdnetpi-b687,Bird,Eastern Yellow Robin,0.9587
+2026-11-28T18:11:41,birdnetpi-b687,Bird,Eastern Yellow Robin,0.8403
+2026-11-28T18:11:44,birdnetpi-b687,Bird,Eastern Yellow Robin,0.9049
+2026-11-28T18:11:56,birdnetpi-b687,Bird,Eastern Yellow Robin,0.9192
+2026-11-28T18:11:59,birdnetpi-b687,Bird,Eastern Yellow Robin,0.7293
+2026-11-28T18:12:02,birdnetpi-b687,Bird,Eastern Yellow Robin,0.9129
+2026-11-28T18:12:05,birdnetpi-b687,Bird,Eastern Yellow Robin,0.7206
+2026-11-28T18:12:08,birdnetpi-b687,Bird,Eastern Yellow Robin,0.8813
+2026-11-28T18:12:11,birdnetpi-b687,Bird,Eastern Yellow Robin,0.9572
+2026-11-28T18:12:17,birdnetpi-b687,Bird,Eastern Yellow Robin,0.8303
+2026-11-28T18:12:20,birdnetpi-b687,Bird,Eastern Yellow Robin,0.803
+2026-11-28T18:12:23,birdnetpi-b687,Bird,Eastern Yellow Robin,0.865
+2026-11-28T18:12:29,birdnetpi-b687,Bird,Eastern Yellow Robin,0.9297
+2026-11-28T18:12:32,birdnetpi-b687,Bird,Eastern Yellow Robin,0.8184
+2026-11-28T18:12:38,birdnetpi-b687,Bird,Eastern Yellow Robin,0.9187
+2026-11-28T18:12:47,birdnetpi-b687,Bird,Eastern Yellow Robin,0.9252
+2026-11-28T18:12:50,birdnetpi-b687,Bird,Eastern Yellow Robin,0.7275
+2026-11-28T18:12:53,birdnetpi-b687,Bird,Eastern Yellow Robin,0.9784
+2026-11-28T18:12:56,birdnetpi-b687,Bird,Eastern Yellow Robin,0.7246
+2026-11-28T18:13:11,birdnetpi-b687,Bird,White-throated Treecreeper,0.7207
+2026-11-28T18:14:52,birdnetpi-b687,Bird,Willie Wagtail,0.9622
+2026-11-28T18:15:30,birdnetpi-b687,Bird,White-throated Treecreeper,0.9764
+2026-11-28T18:15:42,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9569
+2026-11-28T18:15:51,birdnetpi-b687,Bird,Scarlet Honeyeater,0.992
+2026-11-28T18:16:27,birdnetpi-b687,Bird,Scarlet Honeyeater,0.8595
+2026-11-28T18:16:57,birdnetpi-b687,Bird,Rufous Whistler,0.7466
+2026-11-28T18:17:00,birdnetpi-b687,Bird,Grey Shrikethrush,0.7533
+2026-11-28T18:17:03,birdnetpi-b687,Bird,Scarlet Honeyeater,0.7538
+2026-11-28T18:17:21,birdnetpi-b687,Bird,Scarlet Honeyeater,0.7662
+2026-11-28T18:17:33,birdnetpi-b687,Bird,Scarlet Honeyeater,0.8805
+2026-11-28T18:17:42,birdnetpi-b687,Bird,Eastern Yellow Robin,0.7097
+2026-11-28T18:17:45,birdnetpi-b687,Bird,Willie Wagtail,0.8841
+2026-11-28T18:17:55,birdnetpi-b687,Bird,Willie Wagtail,0.8289
+2026-11-28T18:18:16,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9663
+2026-11-28T18:18:22,birdnetpi-b687,Bird,Willie Wagtail,0.9997
+2026-11-28T18:19:28,birdnetpi-b687,Bird,Eastern Yellow Robin,0.9311
+2026-11-28T18:19:31,birdnetpi-b687,Bird,Eastern Yellow Robin,0.7021
+2026-11-28T18:19:49,birdnetpi-b687,Bird,Eastern Yellow Robin,0.9535
+2026-11-28T18:19:58,birdnetpi-b687,Bird,Eastern Yellow Robin,0.7113
+2026-11-28T18:20:01,birdnetpi-b687,Bird,Lewin's Honeyeater,0.9692
+2026-11-28T18:20:04,birdnetpi-b687,Bird,Lewin's Honeyeater,0.9986
+2026-11-28T18:20:07,birdnetpi-b687,Bird,Scarlet Honeyeater,0.8631
+2026-11-28T18:20:10,birdnetpi-b687,Bird,Eastern Yellow Robin,0.8547
+2026-11-28T18:20:28,birdnetpi-b687,Bird,Scarlet Honeyeater,0.8123
+2026-11-28T18:20:43,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9722
+2026-11-28T18:20:46,birdnetpi-b687,Bird,Yellow-faced Honeyeater,0.7224
+2026-11-28T18:21:02,birdnetpi-b687,Bird,Scarlet Honeyeater,0.978
+2026-11-28T18:21:08,birdnetpi-b687,Bird,Scarlet Honeyeater,0.993
+2026-11-28T18:21:14,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9813
+2026-11-28T18:21:20,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9593
+2026-11-28T18:21:23,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9744
+2026-11-28T18:21:29,birdnetpi-b687,Bird,Scarlet Honeyeater,0.7082
+2026-11-28T18:21:35,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9673
+2026-11-28T18:21:38,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9017
+2026-11-28T18:22:11,birdnetpi-b687,Bird,Eastern Yellow Robin,0.7211
+2026-11-28T18:22:17,birdnetpi-b687,Bird,Scarlet Honeyeater,0.7041
+2026-11-28T18:22:23,birdnetpi-b687,Bird,Eastern Yellow Robin,0.7872
+2026-11-28T18:22:26,birdnetpi-b687,Bird,Lewin's Honeyeater,0.8801
+2026-11-28T18:22:29,birdnetpi-b687,Bird,Scarlet Honeyeater,0.8268
+2026-11-28T18:22:38,birdnetpi-b687,Bird,Scarlet Honeyeater,0.8267
+2026-11-28T18:22:44,birdnetpi-b687,Bird,Scarlet Honeyeater,0.7405
+2026-11-28T18:22:47,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9097
+2026-11-28T18:22:50,birdnetpi-b687,Bird,Scarlet Honeyeater,0.7522
+2026-11-28T18:22:56,birdnetpi-b687,Bird,Scarlet Honeyeater,0.8713
+2026-11-28T18:23:27,birdnetpi-b687,Bird,Scarlet Honeyeater,0.8469
+2026-11-28T18:23:36,birdnetpi-b687,Bird,Scarlet Honeyeater,0.7752
+2026-11-28T18:23:54,birdnetpi-b687,Bird,Scarlet Honeyeater,0.7721
+2026-11-28T18:24:06,birdnetpi-b687,Bird,Scarlet Honeyeater,0.8565
+2026-11-28T18:25:13,birdnetpi-b687,Bird,Scarlet Honeyeater,0.7006
+2026-11-28T18:25:22,birdnetpi-b687,Bird,Willie Wagtail,0.7237
+2026-11-28T18:25:25,birdnetpi-b687,Bird,Scarlet Honeyeater,0.7685
+2026-11-28T18:25:40,birdnetpi-b687,Bird,Scarlet Honeyeater,0.8334
+2026-11-28T18:25:49,birdnetpi-b687,Bird,Scarlet Honeyeater,0.7998
+2026-11-28T18:25:58,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9155
+2026-11-28T18:26:10,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9842
+2026-11-28T18:26:16,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9805
+2026-11-28T18:26:19,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9976
+2026-11-28T18:26:52,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9949
+2026-11-28T18:26:55,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9784
+2026-11-28T18:27:01,birdnetpi-b687,Bird,Scarlet Honeyeater,0.998
+2026-11-28T18:27:04,birdnetpi-b687,Bird,Willie Wagtail,0.968
+2026-11-28T18:27:07,birdnetpi-b687,Bird,Scarlet Honeyeater,0.8482
+2026-11-28T18:27:10,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9497
+2026-11-28T18:27:13,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9762
+2026-11-28T18:27:19,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9553
+2026-11-28T18:27:22,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9938
+2026-11-28T18:27:25,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9384
+2026-11-28T18:27:31,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9752
+2026-11-28T18:27:34,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9755
+2026-11-28T18:27:37,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9945
+2026-11-28T18:27:43,birdnetpi-b687,Bird,Scarlet Honeyeater,0.8149
+2026-11-28T18:27:49,birdnetpi-b687,Bird,Scarlet Honeyeater,0.936
+2026-11-28T18:27:56,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9024
+2026-11-28T18:28:08,birdnetpi-b687,Bird,Scarlet Honeyeater,0.8234
+2026-11-28T18:28:14,birdnetpi-b687,Bird,Scarlet Honeyeater,0.8573
+2026-11-28T18:28:20,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9855
+2026-11-28T18:28:29,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9342
+2026-11-28T18:28:38,birdnetpi-b687,Bird,Scarlet Honeyeater,0.8957
+2026-11-28T18:28:41,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9861
+2026-11-28T18:28:47,birdnetpi-b687,Bird,Scarlet Honeyeater,0.7019
+2026-11-28T18:28:50,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9534
+2026-11-28T18:29:11,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9813
+2026-11-28T18:29:17,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9829
+2026-11-28T18:29:20,birdnetpi-b687,Bird,Scarlet Honeyeater,0.8477
+2026-11-28T18:29:29,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9983
+2026-11-28T18:29:38,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9394
+2026-11-28T18:29:41,birdnetpi-b687,Bird,Scarlet Honeyeater,0.7421
+2026-11-28T18:29:44,birdnetpi-b687,Bird,Willie Wagtail,0.9662
+2026-11-28T18:29:53,birdnetpi-b687,Bird,Scarlet Honeyeater,0.999
+2026-11-28T18:29:59,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9111
+2026-11-28T18:30:11,birdnetpi-b687,Bird,Scarlet Honeyeater,0.7932
+2026-11-28T18:30:23,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9746
+2026-11-28T18:30:29,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9817
+2026-11-28T18:30:32,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9941
+2026-11-28T18:31:05,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9425
+2026-11-28T18:31:08,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9031
+2026-11-28T18:31:11,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9656
+2026-11-28T18:31:14,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9713
+2026-11-28T18:31:17,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9866
+2026-11-28T18:31:23,birdnetpi-b687,Bird,Scarlet Honeyeater,0.989
+2026-11-28T18:31:29,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9818
+2026-11-28T18:31:32,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9989
+2026-11-28T18:31:36,birdnetpi-b687,Bird,Willie Wagtail,0.9947
+2026-11-28T18:31:39,birdnetpi-b687,Bird,Scarlet Honeyeater,0.7165
+2026-11-28T18:31:48,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9557
+2026-11-28T18:31:51,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9795
+2026-11-28T18:31:57,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9958
+2026-11-28T18:32:00,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9191
+2026-11-28T18:32:03,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9471
+2026-11-28T18:32:12,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9718
+2026-11-28T18:32:15,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9112
+2026-11-28T18:32:30,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9897
+2026-11-28T18:32:33,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9095
+2026-11-28T18:32:46,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9783
+2026-11-28T18:32:55,birdnetpi-b687,Bird,Brown Gerygone,0.8542
+2026-11-28T18:33:01,birdnetpi-b687,Bird,Willie Wagtail,0.7324
+2026-11-28T18:33:16,birdnetpi-b687,Bird,Scarlet Honeyeater,0.8687
+2026-11-28T18:33:28,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9908
+2026-11-28T18:35:13,birdnetpi-b687,Bird,Scarlet Honeyeater,0.863
+2026-11-28T18:35:19,birdnetpi-b687,Bird,Noisy Friarbird,0.7836
+2026-11-28T18:35:37,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9595
+2026-11-28T18:35:52,birdnetpi-b687,Bird,Scarlet Honeyeater,0.981
+2026-11-28T18:36:17,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9478
+2026-11-28T18:36:47,birdnetpi-b687,Bird,Scarlet Honeyeater,0.7865
+2026-11-28T18:37:11,birdnetpi-b687,Bird,Scarlet Honeyeater,0.826
+2026-11-28T18:37:29,birdnetpi-b687,Bird,Scarlet Honeyeater,0.7436
+2026-11-28T18:37:32,birdnetpi-b687,Unknown,Tree Martin,0.8601
+2026-11-28T18:37:32,birdnetpi-b687,Bird,Willie Wagtail,0.8749
+2026-11-28T18:37:47,birdnetpi-b687,Bird,Willie Wagtail,0.9802
+2026-11-28T18:37:50,birdnetpi-b687,Bird,Scarlet Honeyeater,0.7186
+2026-11-28T18:37:59,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9753
+2026-11-28T18:38:14,birdnetpi-b687,Bird,Willie Wagtail,0.8168
+2026-11-28T18:38:40,birdnetpi-b687,Bird,Willie Wagtail,0.9627
+2026-11-28T18:38:43,birdnetpi-b687,Unknown,Tree Martin,0.802
+2026-11-28T18:38:43,birdnetpi-b687,Bird,Willie Wagtail,0.9715
+2026-11-28T18:38:52,birdnetpi-b687,Bird,Willie Wagtail,0.98
+2026-11-28T18:38:55,birdnetpi-b687,Bird,Willie Wagtail,0.963
+2026-11-28T18:38:58,birdnetpi-b687,Bird,Scarlet Honeyeater,0.7905
+2026-11-28T18:39:19,birdnetpi-b687,Bird,Scarlet Honeyeater,0.8838
+2026-11-28T18:39:25,birdnetpi-b687,Bird,Scarlet Honeyeater,0.8418
+2026-11-28T18:39:31,birdnetpi-b687,Bird,Scarlet Honeyeater,0.972
+2026-11-28T18:39:37,birdnetpi-b687,Bird,Willie Wagtail,0.8118
+2026-11-28T18:39:43,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9222
+2026-11-28T18:40:04,birdnetpi-b687,Bird,Scarlet Honeyeater,0.8254
+2026-11-28T18:40:35,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9961
+2026-11-28T18:40:41,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9202
+2026-11-28T18:40:50,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9544
+2026-11-28T18:40:56,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9839
+2026-11-28T18:41:02,birdnetpi-b687,Bird,Scarlet Honeyeater,0.933
+2026-11-28T18:41:08,birdnetpi-b687,Bird,Scarlet Honeyeater,0.8073
+2026-11-28T18:41:17,birdnetpi-b687,Bird,Scarlet Honeyeater,0.7157
+2026-11-28T18:41:23,birdnetpi-b687,Bird,Scarlet Honeyeater,0.7915
+2026-11-28T18:41:29,birdnetpi-b687,Bird,Scarlet Honeyeater,0.8513
+2026-11-28T18:41:38,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9967
+2026-11-28T18:41:44,birdnetpi-b687,Bird,Scarlet Honeyeater,0.7743
+2026-11-28T18:42:15,birdnetpi-b687,Bird,Scarlet Honeyeater,0.8591
+2026-11-28T18:42:24,birdnetpi-b687,Bird,Willie Wagtail,0.9288
+2026-11-28T18:42:51,birdnetpi-b687,Bird,Willie Wagtail,0.9217
+2026-11-28T18:44:00,birdnetpi-b687,Bird,Scarlet Honeyeater,0.7059
+2026-11-28T18:44:58,birdnetpi-b687,Bird,Willie Wagtail,0.7699
+2026-11-28T18:45:01,birdnetpi-b687,Bird,Willie Wagtail,0.9982
+2026-11-28T18:47:41,birdnetpi-b687,Bird,Willie Wagtail,0.847
+2026-11-28T18:47:47,birdnetpi-b687,Unknown,Tree Martin,0.7415
+2026-11-28T18:47:47,birdnetpi-b687,Bird,Willie Wagtail,0.753
+2026-11-28T18:48:02,birdnetpi-b687,Bird,Scarlet Honeyeater,0.7963
+2026-11-28T18:48:57,birdnetpi-b687,Bird,Willie Wagtail,0.9893
+2026-11-28T18:49:03,birdnetpi-b687,Bird,Willie Wagtail,0.8361
+2026-11-28T18:49:21,birdnetpi-b687,Unknown,Tree Martin,0.8098
+2026-11-28T18:49:36,birdnetpi-b687,Bird,Willie Wagtail,0.7992
+2026-11-28T18:50:01,birdnetpi-b687,Bird,Willie Wagtail,0.9981
+2026-11-28T18:50:59,birdnetpi-b687,Bird,Willie Wagtail,0.7829
+2026-11-28T18:51:26,birdnetpi-b687,Bird,Willie Wagtail,0.9056
+2026-11-28T18:52:04,birdnetpi-b687,Bird,Willie Wagtail,0.9525
+2026-11-28T18:52:10,birdnetpi-b687,Bird,Olive-backed Oriole,0.7782
+2026-11-28T18:52:37,birdnetpi-b687,Bird,Willie Wagtail,0.7488
+2026-11-28T18:52:58,birdnetpi-b687,Bird,Willie Wagtail,0.9583
+2026-11-28T18:53:04,birdnetpi-b687,Bird,Willie Wagtail,0.9763
+2026-11-28T18:53:07,birdnetpi-b687,Bird,Willie Wagtail,0.9679
+2026-11-28T18:53:10,birdnetpi-b687,Bird,Willie Wagtail,0.9469
+2026-11-28T18:53:13,birdnetpi-b687,Bird,Willie Wagtail,0.9943
+2026-11-28T18:53:28,birdnetpi-b687,Bird,Willie Wagtail,0.994
+2026-11-28T18:53:44,birdnetpi-b687,Unknown,Tree Martin,0.939
+2026-11-28T18:54:21,birdnetpi-b687,Bird,Willie Wagtail,0.8782
+2026-11-28T18:54:27,birdnetpi-b687,Bird,Willie Wagtail,0.8218
+2026-11-28T18:57:41,birdnetpi-b687,Bird,Lewin's Honeyeater,0.7838
+2026-11-28T18:57:59,birdnetpi-b687,Bird,Scarlet Honeyeater,0.9977
+2026-11-28T18:58:26,birdnetpi-b687,Bird,Scarlet Honeyeater,0.7224
+2026-11-28T18:58:35,birdnetpi-b687,Bird,Scarlet Honeyeater,0.7266
+2026-11-28T18:59:10,birdnetpi-b687,Bird,Scarlet Honeyeater,0.7498
