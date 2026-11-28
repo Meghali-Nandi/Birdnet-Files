@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-28T23:00:03",
+  "generated_at": "2026-11-29T00:00:01",
   "export_days": 365,
-  "total_detections": 75968,
+  "total_detections": 75970,
   "unique_species": 128,
   "average_confidence": 0.8889,
   "classes": {
@@ -9,10 +9,10 @@
     "Bird": 70463,
     "Insect": 4248,
     "Mammal": 17,
-    "Unknown": 1218
+    "Unknown": 1220
   },
   "devices": {
-    "birdnetpi-b687": 75968
+    "birdnetpi-b687": 75970
   },
   "top_species": [
     {
@@ -89,7 +89,7 @@
     },
     {
       "species": "Southern Whirring Tree Frog",
-      "count": 439
+      "count": 441
     },
     {
       "species": "Sahul Brush Cuckoo",
@@ -120,6 +120,6 @@
     "20:00": 1481,
     "21:00": 71,
     "22:00": 66,
-    "23:00": 72
+    "23:00": 74
   }
 }
