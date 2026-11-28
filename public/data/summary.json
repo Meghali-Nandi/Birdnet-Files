@@ -1,35 +1,35 @@
 {
-  "generated_at": "2026-11-28T16:00:01",
+  "generated_at": "2026-11-28T17:00:03",
   "export_days": 365,
-  "total_detections": 75003,
+  "total_detections": 75109,
   "unique_species": 128,
   "average_confidence": 0.8887,
   "classes": {
     "Amphibian": 22,
-    "Bird": 69920,
-    "Insect": 3833,
+    "Bird": 70006,
+    "Insect": 3851,
     "Mammal": 17,
-    "Unknown": 1211
+    "Unknown": 1213
   },
   "devices": {
-    "birdnetpi-b687": 75003
+    "birdnetpi-b687": 75109
   },
   "top_species": [
     {
       "species": "Olive-backed Oriole",
-      "count": 13160
+      "count": 13164
     },
     {
       "species": "Scarlet Honeyeater",
-      "count": 9356
+      "count": 9361
     },
     {
       "species": "Eastern Yellow Robin",
-      "count": 8708
+      "count": 8709
     },
     {
       "species": "Brown Gerygone",
-      "count": 7605
+      "count": 7609
     },
     {
       "species": "Australasian Figbird",
@@ -37,11 +37,11 @@
     },
     {
       "species": "Willie Wagtail",
-      "count": 5624
+      "count": 5682
     },
     {
       "species": "White-throated Treecreeper",
-      "count": 4733
+      "count": 4736
     },
     {
       "species": "Sacred Kingfisher",
@@ -53,7 +53,7 @@
     },
     {
       "species": "Lewin's Honeyeater",
-      "count": 2064
+      "count": 2066
     },
     {
       "species": "Wonga Pigeon",
@@ -61,7 +61,7 @@
     },
     {
       "species": "Grey Shrikethrush",
-      "count": 998
+      "count": 1000
     },
     {
       "species": "Eastern Whipbird",
@@ -73,7 +73,7 @@
     },
     {
       "species": "Paperbark Cicada",
-      "count": 761
+      "count": 779
     },
     {
       "species": "Black-faced Monarch",
@@ -81,7 +81,7 @@
     },
     {
       "species": "Noisy Friarbird",
-      "count": 607
+      "count": 611
     },
     {
       "species": "White-throated Gerygone",
@@ -113,7 +113,7 @@
     "13:00": 4503,
     "14:00": 4273,
     "15:00": 3930,
-    "16:00": 3797,
+    "16:00": 3903,
     "17:00": 4600,
     "18:00": 4673,
     "19:00": 4323,
